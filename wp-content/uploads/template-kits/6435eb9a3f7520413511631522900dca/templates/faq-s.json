@@ -1,0 +1,2450 @@
+{
+    "version": "0.4",
+    "title": "FAQ&#8217;s",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "551bbb72",
+            "settings": {
+                "flex_direction": "row",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/50.jpg",
+                    "id": 1356,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_background": "gradient",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.85,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "146",
+                    "right": "0",
+                    "bottom": "112",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "content_width": "full",
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "134",
+                    "right": "30",
+                    "bottom": "73",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "86",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=5a3c877",
+                    "background_overlay_color_b": ""
+                },
+                "background_video_link": "https:\/\/youtu.be\/UjQpbG_qnnw?si=kRH0IpYihCQTbiw1",
+                "background_video_start": 1,
+                "background_video_end": 12,
+                "background_overlay_color_stop": {
+                    "unit": "%",
+                    "size": 25,
+                    "sizes": []
+                },
+                "background_overlay_color": "#02010100",
+                "background_overlay_color_b": "#000000",
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 170,
+                    "sizes": []
+                },
+                "background_play_on_mobile": "yes",
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "411678e2",
+                    "settings": {
+                        "flex_direction": "column",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "content_width": "full",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "80",
+                            "right": "0",
+                            "bottom": "80",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "604a1726",
+                            "settings": {
+                                "background_background": "classic",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "38",
+                                    "right": "0",
+                                    "bottom": "37",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "15",
+                                    "bottom": "0",
+                                    "left": "15",
+                                    "isLinked": false
+                                },
+                                "padding_tablet": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "%",
+                                    "top": "11",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "__globals__": {
+                                    "background_color": ""
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "0",
+                                    "bottom": "32",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2261d346",
+                                    "settings": {
+                                        "title": "fAQ's",
+                                        "typography_font_family": "Figtree",
+                                        "typography_font_size": {
+                                            "unit": "em",
+                                            "size": 6.3,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_tablet": {
+                                            "unit": "em",
+                                            "size": 4.5,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_mobile": {
+                                            "unit": "em",
+                                            "size": 2.4,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "typography_text_transform": "capitalize",
+                                        "typography_line_height": {
+                                            "unit": "em",
+                                            "size": 1.1,
+                                            "sizes": []
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "align_mobile": "center",
+                                        "align": "center",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=5a25fa3"
+                                        },
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "header_size": "h1"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "19ce8fa4",
+                                    "settings": {
+                                        "flex_direction": "row",
+                                        "flex_wrap_mobile": "nowrap",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "18",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3a849af",
+                                            "settings": {
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "55139a96",
+                                                    "settings": {
+                                                        "editor": "<p>Home \/<\/p>",
+                                                        "align": "right",
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom",
+                                                        "__globals__": {
+                                                            "text_color": "globals\/colors?id=5a25fa3"
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "82bd71d",
+                                            "settings": {
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "-15",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "47aa9906",
+                                                    "settings": {
+                                                        "text": "Faqs",
+                                                        "text_padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom",
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=5a3c877",
+                                                            "button_text_color": "globals\/colors?id=5a25fa3",
+                                                            "hover_color": "globals\/colors?id=f252fa3",
+                                                            "typography_typography": "globals\/typography?id=accent"
+                                                        },
+                                                        "hover_animation": "shrink",
+                                                        "border_border": "none"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "button",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "1e106f9b",
+            "settings": {
+                "flex_direction": "row",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "30",
+                    "bottom": "100",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "36bc01a5",
+                    "settings": {
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "2fb7aaad",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "11",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_align_items_mobile": "center"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6f986cde",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "rem",
+                                            "size": 8.7,
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "rem",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "rem",
+                                            "size": 8.9,
+                                            "sizes": []
+                                        },
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "999",
+                                            "right": "999",
+                                            "bottom": "999",
+                                            "left": "999",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "30",
+                                            "bottom": "10",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "23",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7406910a",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "FAQ's",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "7626783"
+                                                    }
+                                                ],
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "text_indent": {
+                                                    "unit": "px",
+                                                    "size": 8,
+                                                    "sizes": []
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=1121b78",
+                                                    "text_color": "globals\/colors?id=1121b78"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "36b9473b",
+                                    "settings": {
+                                        "title": "frequently asked question",
+                                        "typography_font_family": "Figtree",
+                                        "typography_font_size": {
+                                            "unit": "em",
+                                            "size": 4.2,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_tablet": {
+                                            "unit": "em",
+                                            "size": 3,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_mobile": {
+                                            "unit": "em",
+                                            "size": 2,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "typography_text_transform": "capitalize",
+                                        "typography_line_height": {
+                                            "unit": "em",
+                                            "size": 1.2,
+                                            "sizes": []
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "align_mobile": "center",
+                                        "__globals__": {
+                                            "title_color": ""
+                                        },
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "681ee678",
+                            "settings": {
+                                "flex_direction": "row",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "18",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [
+                                {
+                                    "id": "719cdf3b",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 22,
+                                            "sizes": []
+                                        },
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "26",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "15",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "hide_tablet": "hidden-tablet"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "dc75667",
+                                            "settings": {
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "18",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "jkit_sticky_device": [
+                                                    "desktop",
+                                                    "tablet"
+                                                ],
+                                                "jkit_sticky_top_position": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "26ecfe7c",
+                                                    "settings": {
+                                                        "title": "whatever plant we got you covered.",
+                                                        "header_size": "h6",
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom",
+                                                        "align_mobile": "center"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "2d8500cd",
+                                    "settings": {
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1b6b022d",
+                                            "settings": {
+                                                "ekit_accordion_items": [
+                                                    {
+                                                        "acc_title": "How to Change my Photo from Admin Dashboard?",
+                                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+                                                        "ekit_acc_is_active": "yes",
+                                                        "_id": "752ef7b"
+                                                    },
+                                                    {
+                                                        "acc_title": "How to Change my Password easily?",
+                                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+                                                        "_id": "c58f5c3"
+                                                    },
+                                                    {
+                                                        "acc_title": "How to Change my Subscription Plan using PayPal",
+                                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+                                                        "_id": "7492a18"
+                                                    },
+                                                    {
+                                                        "_id": "9f3d620",
+                                                        "acc_title": "what should i bring for my stay?",
+                                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
+                                                    },
+                                                    {
+                                                        "_id": "0ac4aae",
+                                                        "acc_title": "what amenities are include in the cottage?",
+                                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
+                                                    },
+                                                    {
+                                                        "_id": "d9ddeed",
+                                                        "acc_title": "How do I cancel my cottage rental?",
+                                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
+                                                    }
+                                                ],
+                                                "ekit_accordion_right_icons": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_accordion_right_icon_actives": {
+                                                    "value": "jki jki-minus-light",
+                                                    "library": "jkiticon"
+                                                },
+                                                "ekit_accordion_background_background": "classic",
+                                                "ekit_accordion_background_color": "#02010100",
+                                                "ekit_accordion_title_border_open_border": "solid",
+                                                "ekit_accordion_title_border_open_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "1",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_accordion_background_close_background": "classic",
+                                                "ekit_accordion_background_close_color": "#02010100",
+                                                "ekit_accordion_title_border_close_border": "solid",
+                                                "ekit_accordion_title_border_close_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "1",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_accordion_title_border_close_color": "#7A7A7A9E",
+                                                "ekit_accordion_title_padding": {
+                                                    "unit": "px",
+                                                    "top": "17",
+                                                    "right": "30",
+                                                    "bottom": "41",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_accordion_title_margin_bottom": {
+                                                    "unit": "px",
+                                                    "size": 9,
+                                                    "sizes": []
+                                                },
+                                                "ekit_accordion_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "30",
+                                                    "right": "30",
+                                                    "bottom": "40",
+                                                    "left": "30",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom",
+                                                "__globals__": {
+                                                    "ekit_accordion_background_color": "globals\/colors?id=5a3c877",
+                                                    "ekit_accordion_title_border_close_color": "",
+                                                    "ekit_accordion_background_close_color": "globals\/colors?id=5a3c877",
+                                                    "ekit_accordion_icon_color_close": "globals\/colors?id=a43994c",
+                                                    "ekit_accordion_icon_color": "globals\/colors?id=a43994c",
+                                                    "ekit_accordion_title_typography_typography": "globals\/typography?id=d51def5"
+                                                },
+                                                "ekit_accordion_title_padding_tablet": {
+                                                    "unit": "px",
+                                                    "top": "17",
+                                                    "right": "30",
+                                                    "bottom": "36",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_accordion_title_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "17",
+                                                    "right": "30",
+                                                    "bottom": "36",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_accordion_content_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "30",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_accordion_icon_typography_close_tablet": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "ekit_accordion_icon_typography_close_mobile": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "ekit_accordion_icon_typography_tablet": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "ekit_accordion_icon_typography_mobile": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-accordion",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "4f27e9c6",
+            "settings": {
+                "flex_direction": "row",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [
+                {
+                    "id": "b3b9a74",
+                    "settings": {
+                        "border_border": "none",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "1",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fc739de"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "362f0943",
+                            "settings": {
+                                "flex_direction": "row",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "63",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "39",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [
+                                {
+                                    "id": "46016",
+                                    "settings": {
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6f1a5e5d",
+                                            "settings": {
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "266eaa24",
+                                                    "settings": {
+                                                        "title": "explore our content and booking now!",
+                                                        "typography_font_family": "Figtree",
+                                                        "typography_font_size": {
+                                                            "unit": "em",
+                                                            "size": 3.5,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_size_tablet": {
+                                                            "unit": "em",
+                                                            "size": 2.3,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_size_mobile": {
+                                                            "unit": "em",
+                                                            "size": 2,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_text_transform": "capitalize",
+                                                        "typography_line_height": {
+                                                            "unit": "em",
+                                                            "size": 1.2,
+                                                            "sizes": []
+                                                        },
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom",
+                                                        "align_mobile": "center",
+                                                        "__globals__": {
+                                                            "title_color": ""
+                                                        },
+                                                        "_padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "_margin": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "header_size": "h3"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "7de8aab0",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 97,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "flex_justify_content": "flex-end",
+                                        "flex_align_items": "flex-end",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "22b76e1a",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 57,
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 85,
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "505078cf",
+                                                    "settings": {
+                                                        "align_mobile": "center",
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "5821a085",
+                            "settings": {
+                                "flex_direction": "row",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4a5ea422",
+                                    "settings": {
+                                        "flex_direction": "row",
+                                        "flex_direction_tablet": "column",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "761f3884",
+                                            "settings": {
+                                                "flex_direction": "row",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "3b24427d",
+                                                    "settings": {
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "2b5db656",
+                                                            "settings": {
+                                                                "margin": {
+                                                                    "unit": "px",
+                                                                    "top": "3",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "pa_condition_repeater": [],
+                                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                "premium_tooltip_position": "top,bottom"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "49ae8234",
+                                                                    "settings": {
+                                                                        "image": {
+                                                                            "url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/26.jpg",
+                                                                            "id": 691,
+                                                                            "size": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "opacity": {
+                                                                            "unit": "px",
+                                                                            "size": 1,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "opacity_hover": {
+                                                                            "unit": "px",
+                                                                            "size": 1,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "background_hover_transition": {
+                                                                            "unit": "px",
+                                                                            "size": 0.9,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "image_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "20",
+                                                                            "right": "20",
+                                                                            "bottom": "20",
+                                                                            "left": "20",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "_background_background": "classic",
+                                                                        "_background_color_b": "#212C1D",
+                                                                        "_background_hover_background": "classic",
+                                                                        "_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "20",
+                                                                            "right": "20",
+                                                                            "bottom": "20",
+                                                                            "left": "20",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "_background_color": "",
+                                                                            "_background_hover_color": "",
+                                                                            "_background_color_b": "globals\/colors?id=6e47be1"
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "image",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        },
+                                                        {
+                                                            "id": "1c56f649",
+                                                            "settings": {
+                                                                "flex_align_items": "flex-start",
+                                                                "flex_align_items_mobile": "center",
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "555",
+                                                                    "right": "555",
+                                                                    "bottom": "555",
+                                                                    "left": "555",
+                                                                    "isLinked": true
+                                                                },
+                                                                "margin": {
+                                                                    "unit": "px",
+                                                                    "top": "-89",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "20",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding_mobile": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "pa_condition_repeater": [],
+                                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                "premium_tooltip_position": "top,bottom"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "25adcfeb",
+                                                                    "settings": {
+                                                                        "text": "View Insight",
+                                                                        "button_text_color": "#212C1D",
+                                                                        "background_color": "#FFFFFF",
+                                                                        "hover_color": "#212C1D",
+                                                                        "button_hover_border_color": "#FFFFFF",
+                                                                        "hover_animation": "shrink",
+                                                                        "border_border": "solid",
+                                                                        "border_width": {
+                                                                            "unit": "px",
+                                                                            "top": "1",
+                                                                            "right": "1",
+                                                                            "bottom": "1",
+                                                                            "left": "1",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "border_color": "#FFFFFF47",
+                                                                        "border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "999",
+                                                                            "right": "999",
+                                                                            "bottom": "999",
+                                                                            "left": "999",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "text_padding": {
+                                                                            "unit": "px",
+                                                                            "top": "15",
+                                                                            "right": "30",
+                                                                            "bottom": "15",
+                                                                            "left": "30",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "jkit_glass_blur_level": {
+                                                                            "unit": "px",
+                                                                            "size": 0,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "__globals__": {
+                                                                            "button_text_color": "globals\/colors?id=6e47be1",
+                                                                            "background_color": "globals\/colors?id=5a25fa3",
+                                                                            "border_color": "globals\/colors?id=163105a",
+                                                                            "hover_color": "globals\/colors?id=6e47be1",
+                                                                            "button_background_hover_color": "",
+                                                                            "button_hover_border_color": "globals\/colors?id=5a3c877"
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "button",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "container"
+                                                },
+                                                {
+                                                    "id": "36555843",
+                                                    "settings": {
+                                                        "margin_mobile": {
+                                                            "unit": "px",
+                                                            "top": "42",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "350b5ee7",
+                                                            "settings": {
+                                                                "margin": {
+                                                                    "unit": "px",
+                                                                    "top": "-2",
+                                                                    "right": "0",
+                                                                    "bottom": "13",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "pa_condition_repeater": [],
+                                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                "premium_tooltip_position": "top,bottom"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "3472f7d7",
+                                                                    "settings": {
+                                                                        "title": "Family Time in cottage",
+                                                                        "typography_font_family": "Figtree",
+                                                                        "typography_font_size": {
+                                                                            "unit": "em",
+                                                                            "size": 1.3,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "typography_font_size_tablet": {
+                                                                            "unit": "em",
+                                                                            "size": 1.5,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "typography_font_size_mobile": {
+                                                                            "unit": "em",
+                                                                            "size": 1.5,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "typography_font_weight": "400",
+                                                                        "typography_text_transform": "capitalize",
+                                                                        "typography_line_height": {
+                                                                            "unit": "em",
+                                                                            "size": 1.2,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "align_mobile": "center",
+                                                                        "__globals__": {
+                                                                            "title_color": ""
+                                                                        },
+                                                                        "_margin": {
+                                                                            "unit": "px",
+                                                                            "top": "7",
+                                                                            "right": "0",
+                                                                            "bottom": "-10",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "header_size": "h6"
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "561176be",
+                                                                    "settings": {
+                                                                        "icon_list": [
+                                                                            {
+                                                                                "text": "Bedugul - Bali",
+                                                                                "selected_icon": {
+                                                                                    "value": "fas fa-map-marker-alt",
+                                                                                    "library": "fa-solid"
+                                                                                },
+                                                                                "_id": "31148e9"
+                                                                            }
+                                                                        ],
+                                                                        "icon_align_mobile": "center",
+                                                                        "icon_size": {
+                                                                            "unit": "px",
+                                                                            "size": 17,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "__globals__": {
+                                                                            "icon_color": "globals\/colors?id=a43994c"
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "icon-list",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        },
+                                                        {
+                                                            "id": "12ac665e",
+                                                            "settings": {
+                                                                "margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "pa_condition_repeater": [],
+                                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                "premium_tooltip_position": "top,bottom"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "249cf6ff",
+                                                                    "settings": {
+                                                                        "image": {
+                                                                            "url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/27-1.jpg",
+                                                                            "id": 693,
+                                                                            "size": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "opacity": {
+                                                                            "unit": "px",
+                                                                            "size": 1,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "opacity_hover": {
+                                                                            "unit": "px",
+                                                                            "size": 1,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "background_hover_transition": {
+                                                                            "unit": "px",
+                                                                            "size": 0.9,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "image_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "20",
+                                                                            "right": "20",
+                                                                            "bottom": "20",
+                                                                            "left": "20",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "_background_background": "classic",
+                                                                        "_background_color_b": "#212C1D",
+                                                                        "_background_hover_background": "classic",
+                                                                        "_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "20",
+                                                                            "right": "20",
+                                                                            "bottom": "20",
+                                                                            "left": "20",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "_background_color": "",
+                                                                            "_background_hover_color": "",
+                                                                            "_background_color_b": "globals\/colors?id=6e47be1"
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "image",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "container"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "36e3974c",
+                                            "settings": {
+                                                "flex_direction": "row",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "3917ecb4",
+                                                    "settings": {
+                                                        "margin_tablet": {
+                                                            "unit": "px",
+                                                            "top": "26",
+                                                            "right": "0",
+                                                            "bottom": "58",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "margin_mobile": {
+                                                            "unit": "px",
+                                                            "top": "26",
+                                                            "right": "0",
+                                                            "bottom": "11",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "_flex_order_tablet": "end",
+                                                        "_flex_order_mobile": "start",
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "6bd76a03",
+                                                            "settings": {
+                                                                "margin": {
+                                                                    "unit": "px",
+                                                                    "top": "3",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "pa_condition_repeater": [],
+                                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                "premium_tooltip_position": "top,bottom"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "3c8f9ceb",
+                                                                    "settings": {
+                                                                        "image": {
+                                                                            "url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/28.jpg",
+                                                                            "id": 694,
+                                                                            "size": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "opacity": {
+                                                                            "unit": "px",
+                                                                            "size": 1,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "opacity_hover": {
+                                                                            "unit": "px",
+                                                                            "size": 1,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "background_hover_transition": {
+                                                                            "unit": "px",
+                                                                            "size": 0.9,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "image_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "20",
+                                                                            "right": "20",
+                                                                            "bottom": "20",
+                                                                            "left": "20",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "_background_background": "classic",
+                                                                        "_background_color_b": "#212C1D",
+                                                                        "_background_hover_background": "classic",
+                                                                        "_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "20",
+                                                                            "right": "20",
+                                                                            "bottom": "20",
+                                                                            "left": "20",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "_background_color": "",
+                                                                            "_background_hover_color": "",
+                                                                            "_background_color_b": "globals\/colors?id=6e47be1"
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "image",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        },
+                                                        {
+                                                            "id": "60eb5a03",
+                                                            "settings": {
+                                                                "flex_align_items": "flex-start",
+                                                                "flex_align_items_mobile": "center",
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "555",
+                                                                    "right": "555",
+                                                                    "bottom": "555",
+                                                                    "left": "555",
+                                                                    "isLinked": true
+                                                                },
+                                                                "margin": {
+                                                                    "unit": "px",
+                                                                    "top": "-89",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "20",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding_mobile": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "pa_condition_repeater": [],
+                                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                "premium_tooltip_position": "top,bottom"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "36b3f7f0",
+                                                                    "settings": {
+                                                                        "text": "View Insight",
+                                                                        "button_text_color": "#212C1D",
+                                                                        "background_color": "#FFFFFF",
+                                                                        "hover_color": "#212C1D",
+                                                                        "button_hover_border_color": "#FFFFFF",
+                                                                        "hover_animation": "shrink",
+                                                                        "border_border": "solid",
+                                                                        "border_width": {
+                                                                            "unit": "px",
+                                                                            "top": "1",
+                                                                            "right": "1",
+                                                                            "bottom": "1",
+                                                                            "left": "1",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "border_color": "#FFFFFF47",
+                                                                        "border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "999",
+                                                                            "right": "999",
+                                                                            "bottom": "999",
+                                                                            "left": "999",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "text_padding": {
+                                                                            "unit": "px",
+                                                                            "top": "15",
+                                                                            "right": "30",
+                                                                            "bottom": "15",
+                                                                            "left": "30",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "jkit_glass_blur_level": {
+                                                                            "unit": "px",
+                                                                            "size": 0,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "__globals__": {
+                                                                            "button_text_color": "globals\/colors?id=6e47be1",
+                                                                            "background_color": "globals\/colors?id=5a25fa3",
+                                                                            "border_color": "globals\/colors?id=163105a",
+                                                                            "hover_color": "globals\/colors?id=6e47be1",
+                                                                            "button_background_hover_color": "",
+                                                                            "button_hover_border_color": "globals\/colors?id=5a3c877"
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "button",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "container"
+                                                },
+                                                {
+                                                    "id": "7458d007",
+                                                    "settings": {
+                                                        "margin_tablet": {
+                                                            "unit": "px",
+                                                            "top": "39",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "pa_condition_repeater": [],
+                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                        "premium_tooltip_position": "top,bottom"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "555a630e",
+                                                            "settings": {
+                                                                "margin": {
+                                                                    "unit": "px",
+                                                                    "top": "-2",
+                                                                    "right": "0",
+                                                                    "bottom": "13",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "pa_condition_repeater": [],
+                                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                "premium_tooltip_position": "top,bottom"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "73e30f95",
+                                                                    "settings": {
+                                                                        "title": "Cabin Party",
+                                                                        "typography_font_family": "Figtree",
+                                                                        "typography_font_size": {
+                                                                            "unit": "em",
+                                                                            "size": 1.3,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "typography_font_size_tablet": {
+                                                                            "unit": "em",
+                                                                            "size": 1.5,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "typography_font_size_mobile": {
+                                                                            "unit": "em",
+                                                                            "size": 1.5,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "typography_font_weight": "400",
+                                                                        "typography_text_transform": "capitalize",
+                                                                        "typography_line_height": {
+                                                                            "unit": "em",
+                                                                            "size": 1.2,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "align_mobile": "center",
+                                                                        "__globals__": {
+                                                                            "title_color": ""
+                                                                        },
+                                                                        "_margin": {
+                                                                            "unit": "px",
+                                                                            "top": "7",
+                                                                            "right": "0",
+                                                                            "bottom": "-10",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "header_size": "h6"
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "356a32ea",
+                                                                    "settings": {
+                                                                        "icon_list": [
+                                                                            {
+                                                                                "text": "16 December 2024",
+                                                                                "selected_icon": {
+                                                                                    "value": "fas fa-calendar-alt",
+                                                                                    "library": "fa-solid"
+                                                                                },
+                                                                                "_id": "31148e9"
+                                                                            }
+                                                                        ],
+                                                                        "icon_align_mobile": "center",
+                                                                        "icon_size": {
+                                                                            "unit": "px",
+                                                                            "size": 17,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "__globals__": {
+                                                                            "icon_color": "globals\/colors?id=a43994c"
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "icon-list",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        },
+                                                        {
+                                                            "id": "73b338d",
+                                                            "settings": {
+                                                                "margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "pa_condition_repeater": [],
+                                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                "premium_tooltip_position": "top,bottom"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "7c72c3d",
+                                                                    "settings": {
+                                                                        "image": {
+                                                                            "url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/29.jpg",
+                                                                            "id": 695,
+                                                                            "size": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "opacity": {
+                                                                            "unit": "px",
+                                                                            "size": 1,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "opacity_hover": {
+                                                                            "unit": "px",
+                                                                            "size": 1,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "background_hover_transition": {
+                                                                            "unit": "px",
+                                                                            "size": 0.9,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "image_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "20",
+                                                                            "right": "20",
+                                                                            "bottom": "20",
+                                                                            "left": "20",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "pa_condition_repeater": [],
+                                                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                                        "premium_tooltip_position": "top,bottom",
+                                                                        "_background_background": "classic",
+                                                                        "_background_color_b": "#212C1D",
+                                                                        "_background_hover_background": "classic",
+                                                                        "_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "20",
+                                                                            "right": "20",
+                                                                            "bottom": "20",
+                                                                            "left": "20",
+                                                                            "isLinked": true
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "_background_color": "",
+                                                                            "_background_hover_color": "",
+                                                                            "_background_color_b": "globals\/colors?id=6e47be1"
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "image",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "container"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "1ba6b8de",
+            "settings": {
+                "flex_direction": "row",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "30",
+                    "bottom": "30",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "20",
+                    "bottom": "80",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "__globals__": {
+                    "background_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "e78b8b3",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_justify_content_mobile": "center",
+                        "flex_align_items_mobile": "center",
+                        "background_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "30",
+                            "bottom": "30",
+                            "left": "30",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "40",
+                            "bottom": "30",
+                            "left": "40",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "20",
+                            "bottom": "50",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=074bf6f"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "691fab27",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "flex_justify_content": "center",
+                                "flex_justify_content_tablet": "flex-start",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "46",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [
+                                {
+                                    "id": "29fceafd",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/38-6.jpg",
+                                            "id": 1080,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "999",
+                                            "right": "999",
+                                            "bottom": "999",
+                                            "left": "999",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "40177dcc",
+                            "settings": {
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [
+                                {
+                                    "id": "15287c59",
+                                    "settings": {
+                                        "title": "still have question?",
+                                        "header_size": "h3",
+                                        "align_mobile": "center",
+                                        "_margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "-12",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=6e47be1"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "50870d52",
+                                    "settings": {
+                                        "editor": "<p>Can't find the answer you're looking for? Please chat to our friendly team<\/p>",
+                                        "align_mobile": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "text_color": "globals\/colors?id=1121b78"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "43d9033a",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "flex_justify_content": "center",
+                                "flex_align_items": "flex-end",
+                                "flex_align_items_mobile": "center",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6e091ead",
+                                    "settings": {
+                                        "text": "Get In Touch",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+.ova-heading {
+	.sub_title{
+		margin: 0 0 21px 0;
+		font-size: 18px;
+		line-height: 22px;
+		font-weight: 400;
+		display: inline-block;
+		position: relative;
+		margin-left: 25px;
+		color: #677283;
+		&:before{
+			content:'';
+			width: 15px;
+			position: absolute;
+			background: var(--primary);
+			height: 4px;
+			border-radius: 2px;
+			left: -25px;
+			top:50%;
+			transform: translateY(-50%);
+		};
+	}
+	.title {
+		margin: 0px 0 50px 0;
+		font-size: 60px;
+		line-height: 44px;
+		font-weight: 800;
+		color: #17202d;
+		line-height: 68px;
+	}
+	.desc {
+		margin: 0px;
+		font-size: 16px;
+		line-height: 34px;
+		color: #677283;
+		font-weight: 500;
+	}
+}

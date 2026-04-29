@@ -1,0 +1,17 @@
+.woocommerce-message{
+	border-top-color: var(--primary);
+	&::before{
+		color: var(--primary);
+	}
+}
+
+.woocommerce-error, 
+.woocommerce-info, .woocommerce-message{
+	line-height: 3em;
+	@media(max-width: 767px){
+		line-height: 1.6em;
+	}
+}
+.woocommerce-info{
+	border-top-color: var(--primary);
+}

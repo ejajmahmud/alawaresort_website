@@ -1,0 +1,1475 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Cottega",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cottage",
+            "screenshot": "screenshots\/cottage.jpg",
+            "source": "templates\/cottage.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/cottage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Activity",
+            "screenshot": "screenshots\/activity.jpg",
+            "source": "templates\/activity.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/activity\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ's",
+            "screenshot": "screenshots\/faq-s.jpg",
+            "source": "templates\/faq-s.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/error-404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Metform",
+            "screenshot": "screenshots\/newsletter-metform.jpg",
+            "source": "templates\/newsletter-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/newsletter-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking Metform",
+            "screenshot": "screenshots\/booking-metform.jpg",
+            "source": "templates\/booking-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/booking-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us Metform",
+            "screenshot": "screenshots\/contact-us-metform.jpg",
+            "source": "templates\/contact-us-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/contact-us-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/cottega\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.12",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.3",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.10.33",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.21.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.5.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "1-37.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/1-37.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 230310,
+            "dimensions": [
+                700,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "52.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/52-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 97636,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "51.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/51-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 129600,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "53.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/53-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 68697,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "24.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/24-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 243644,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "25-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/25-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 239723,
+            "dimensions": [
+                800,
+                880
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "1-38.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/1-38.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 234406,
+            "dimensions": [
+                655,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "2-21.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/2-21.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 163056,
+            "dimensions": [
+                800,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "3-23.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/3-23.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 241750,
+            "dimensions": [
+                800,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "20-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/20-1-800x638.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 36064,
+            "dimensions": [
+                2353,
+                1876
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "38-6.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/38-6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 132536,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "18-6.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/18-6-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 159397,
+            "dimensions": [
+                1000,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "22-6.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/22-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 198492,
+            "dimensions": [
+                700,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "23-10.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/23-10-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 215904,
+            "dimensions": [
+                1000,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "a12.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/a12.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 9057,
+            "dimensions": [
+                779,
+                167
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "a13.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/a13-800x146.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 9072,
+            "dimensions": [
+                917,
+                167
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "a14.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/a14.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 9081,
+            "dimensions": [
+                700,
+                171
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "a15.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/a15.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 5793,
+            "dimensions": [
+                646,
+                121
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "a11.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/a11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 7811,
+            "dimensions": [
+                642,
+                142
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "0logoipsum-262-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/0logoipsum-262-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 8018,
+            "dimensions": [
+                708,
+                171
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "26.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/26-800x977.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 239040,
+            "dimensions": [
+                830,
+                1014
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "27-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/27-1-800x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 235938,
+            "dimensions": [
+                1000,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "28.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 250498,
+            "dimensions": [
+                800,
+                977
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "29.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/29-800x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 240180,
+            "dimensions": [
+                1000,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "42.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/42-800x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 241216,
+            "dimensions": [
+                1150,
+                690
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "63.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/63-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 155960,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "43-4.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/43-4-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 115055,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "44-4.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/44-4-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 170236,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "35-5-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/35-5-1-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 158511,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "33.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/33-800x436.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 254493,
+            "dimensions": [
+                1100,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "45.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/45-800x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 248373,
+            "dimensions": [
+                1190,
+                714
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "49.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/49-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 245317,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "46.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/46-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 247953,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "47-4.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/47-4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 188813,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "48-2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/48-2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 162472,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "8-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/8-1.png",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 5063,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "9-4.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/9-4.png",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 5598,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "10-2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/10-2.png",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 8901,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "11-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/11-1.png",
+            "templates": [
+                {
+                    "source": "templates\/cottage.json",
+                    "name": "Cottage"
+                }
+            ],
+            "filesize": 6235,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "50.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/50-800x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 232569,
+            "dimensions": [
+                1480,
+                888
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "54.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/54-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 130987,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "55.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/55-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 171700,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "56.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/56-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 85678,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "57.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/57-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 134899,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "59.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/59-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 108603,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "58.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/58-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 76862,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "60.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/60-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 252078,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "61.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/61-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 101805,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "62.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/62-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/activity.json",
+                    "name": "Activity"
+                }
+            ],
+            "filesize": 166306,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "34-4.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/34-4-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 208036,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "63-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/63-1-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 155960,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "64.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/64-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 122112,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "65.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/65-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 147060,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "66.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/66-800x1035.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 101048,
+            "dimensions": [
+                850,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PXCLFU9ZVE"
+        },
+        {
+            "filename": "4-3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/4-3-800x289.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 56332,
+            "dimensions": [
+                2190,
+                790
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "5-2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/cottega\/wp-content\/uploads\/sites\/255\/2024\/07\/5-2-800x289.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 57294,
+            "dimensions": [
+                2190,
+                790
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

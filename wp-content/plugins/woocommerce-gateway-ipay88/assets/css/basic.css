@@ -1,0 +1,30 @@
+.ipay88_opt img {
+    margin-left: 10px;
+    display: inline-block;
+    height: 28px;
+    width: 98px;
+}
+
+.ipay88_opt label {
+    display: block;
+    line-height: 0;
+}
+
+.ipay88_title_opt {
+    border-bottom: 1px solid #CCCCCC;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.ipay88_opt {
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	float:left;
+}
+
+.ipay88_opt input {
+    height: 30px;
+}

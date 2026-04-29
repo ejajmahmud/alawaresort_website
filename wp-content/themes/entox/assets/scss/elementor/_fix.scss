@@ -1,0 +1,140 @@
+/*image home 1*/
+
+.image_home{
+    position: relative;
+	&:before{
+	content:'';
+			width: 20px;
+			position: absolute;
+			background: var(--primary);
+			height: 80%;
+			border-radius: 5px 0px 0px 5px;
+			left: -20px;
+			top:10%;
+	}
+}
+
+/*button home 1*/
+
+.btn_home{
+	.elementor-button-icon{
+		display: flex;
+		align-items: center;
+		i{
+			font-size: 20px;
+		}
+	}
+	.elementor-button-text{
+		text-align: left;
+		.btn_banner{
+			font-size: 18px;
+			font-weight: bold;
+		}
+	}
+}
+
+/*ICON PALY VIDEO*/
+.entox_play{
+	transform: translate(-50%, -50%);
+	img{
+		opacity: 0!important;
+	}
+	.elementor-custom-embed-play{
+		width: 300px;
+		height: 300px;
+
+		&:before{
+			content:"";
+			border-radius: 50%;
+			border: 1px solid #ffffff;
+			justify-content: center;
+			align-items: center;
+			display: inline-flex;
+			font-weight: bold;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			animation: zoomBig 1.5s linear infinite;
+			transform-origin: center;
+			transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+		}
+		&:after{
+			content:"";
+			border-radius: 50%;
+			border: 1px solid rgba(255,255,255,0.8);
+			justify-content: center;
+			align-items: center;
+			display: inline-flex;
+			font-weight: bold;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			animation: zoomBig 1.5s linear infinite;
+			transform-origin: center;
+			animation-delay: 0.3s;
+			transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+
+		}
+		@keyframes zoomBig {
+			from  {width: 95px;
+				height: 95px;
+				opacity: 1;
+			}
+			to {width: 100%;
+				height: 100%;
+				opacity: 0;
+			}
+
+
+		}
+		i{
+			background-color: var(--primary);
+			display: inline-flex;
+			justify-content: center;
+			align-items: center;
+			border-radius: 50%;
+			width: 100px;
+			height: 100px;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			z-index: 1;
+			opacity: 1;
+
+		}
+		.eicon-play{
+
+			&:before{
+				font-size:25px;
+				font-family: ovaicon;
+				content: "\f132";;
+				color: #fff;
+			};
+
+		}
+	}
+}
+
+
+/*button*/
+.elementor-button{
+	transition: 0.3s ease !important;
+}
+
+/*banner home3*/
+
+.banner_home3{
+	.elementor-heading-title{
+		transition: 0.3s;
+	}
+	&:hover{
+		.elementor-heading-title{
+			color: #17202d !important;
+		}
+	};
+}

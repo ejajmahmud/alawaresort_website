@@ -1,0 +1,640 @@
+.ovabrw-form-field{
+	padding: 10px;
+
+	&.ovabrw_manage_features {
+		display: none;
+	}
+	
+	// Map
+	#admin_show_map {
+		width: 100%;
+		height: 400px;
+		
+		.controls {
+			background-color: #fff;
+		    border-radius: 2px;
+		    border: 1px solid transparent;
+		    box-shadow: 0 2px 6px rgba(0,0,0,.3);
+		    box-sizing: border-box;
+		    font-family: Roboto;
+		    font-size: 15px;
+		    font-weight: 300;
+		    height: 29px;
+		    margin-left: 17px;
+		    margin-top: 10px;
+		    outline: none;
+		    padding: 0 11px 0 13px;
+		    text-overflow: ellipsis;
+		    width: 400px;
+		}
+	}
+	#infowindow-content, #map_info {
+		display: none;
+	}
+}
+
+
+.woocommerce_options_panel .show_if_ovabrw_car_rental input[type=email], 
+.woocommerce_options_panel .show_if_ovabrw_car_rental input[type=number], 
+.woocommerce_options_panel .show_if_ovabrw_car_rental input[type=password], 
+.woocommerce_options_panel .show_if_ovabrw_car_rental input[type=text]{
+	width: 100%;
+}
+
+
+.ovabrw_rt_discount{
+	border: 1px solid #e5e5e5;
+}
+.wrap_rt_discount{
+	display: none;
+}
+.ovabrw_rt .ovabrw_rt_price,
+.ovabrw_rt .ovabrw_rt_price_hour,
+.ovabrw_rt .ovabrw_rt_startdate,
+.ovabrw_rt .ovabrw_rt_enddate{
+	width: 100%!important;
+}
+.tr_rt_resource input[type="text"]{
+	width: 100%!important;
+}
+
+.ovabrw_heading_section{
+	text-transform: capitalize;
+	padding-bottom: 5px;
+    display: inline-block;
+}
+.ovabrw_right{
+	float: right;
+}
+.ovabrw_features input[type="text"]{
+	width: 100%!important;
+}
+
+.woocommerce_options_panel input[type=text]::placeholder, 
+.woocommerce_options_panel textarea::placeholder, 
+.woocommerce_options_panel input[type=number]::placeholder  {
+	opacity: 0.3;
+}
+
+.woocommerce_options_panel input[type=text].ovabrw_rt_discount_duration, 
+.woocommerce_options_panel select.ovabrw_rt_discount_duration_type {
+	width: 30%;
+	margin-right: 5px;
+}
+
+.input_per_100{
+	width: 100%!important;
+}
+.tr_rt_resource input.short_dura,
+.tr_rt_resource select.short_dura{
+	width: 50%!important;
+}
+
+.wrap_petime_discount,
+.wrap_pehour_discount{
+	display: none;
+}
+
+
+
+.ovabrw_petime input[type="text"],
+.ovabrw_pehour input[type="text"],
+.ovabrw_pehour input[type="number"]{
+	width: 100%!important;
+}
+
+.period_times{
+	display: flex;
+	width: 100%;
+}
+
+.woocommerce_options_panel .row_petime_record input[type=number]{
+	width: 100%;
+}
+.row_petime_record .ovabrw_petime_days{
+	display: block;
+	margin-bottom: 10px;
+	width: 100%;
+}
+.row_petime_record .ovabrw_pehour_start_time{
+	margin-right: 10px;
+}
+
+.woocommerce_options_panel select.ovabrw_package_type{
+	margin-bottom: 10px;
+}
+
+.ova_paid, .ova_pending {
+	text-align: center;
+	display: inline-block;
+	padding: 5px 10px;
+	border-radius: 4px;
+	
+}
+.ova_paid {
+	background: #5cb75c;
+    color: #fff;
+    min-width: 60px;
+}
+.ova_pending {
+	background: #caa865;
+    color: #fff;
+}
+
+.ovabrw_global_discount .row_discount input[type=text].ovabrw-global-duration, 
+.ovabrw_global_discount .row_discount .ovabrw-global-duration {
+	width: 30%;
+	margin-right: 5px;
+}
+
+
+.hide-year .ui-datepicker-year{
+ display:none;   
+}
+
+
+#meta-box-id-vehicle .ovabrw-row {
+	display: flex;
+	align-items: center;
+}
+
+#meta-box-id-vehicle .ovabrw-row:not(:last-child) {
+	margin-bottom: 20px;
+}
+#meta-box-id-vehicle .ovabrw-row label {
+	margin-right: 150px;
+    max-width: 130px;
+    width: 100%;
+    &.loc{
+    	margin-right: 180px;
+    }
+}
+
+#meta-box-id-vehicle .ovabrw-row.require_location input{
+	margin-right: 10px;
+}
+
+#meta-box-id-vehicle .ovabrw-row.require_location label.label_radio{
+	flex: 0 0 0;
+	margin-top: -5px;
+    margin-right: 5px;
+}
+
+#meta-box-id-vehicle .ovabrw-row.location_vehicle{
+	display: none;
+}
+
+
+#meta-box-id-vehicle .ovabrw-row input.ova_brw_datepicker:not(:last-child){
+	margin-right: 20px;
+}
+
+#meta-box-id-vehicle .ovabrw-row .from {
+	margin-right: 10px;
+}
+
+#meta-box-id-vehicle .ovabrw-row .to {
+	margin-right: 10px;
+	margin-left: 20px;
+}
+.woocommerce_options_panel .description {
+	float: left;
+}
+
+.ova-list-checkout-field {
+	text-align:left;
+}
+.ova-list-checkout-field table tbody tr td.ova-checkbox {
+	opacity: 1 !important;
+}
+.ova-list-checkout-field table tbody tr.ova-disable td {
+	opacity: 0.4;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-options table.ova-sub-table td {
+	width: 30%;
+	padding-right: 10px;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-options table.ova-sub-table td input {
+	width: 100%;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-options table.ova-sub-table td.ova-box{
+	width: 5%;
+	padding-right: 0px;
+}
+
+
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-options table.ova-sub-table td.ova-box a{
+	color: #FFFFFF;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-options table.ova-sub-table td.ova-box a.btn-blue {
+	background-color: #00A0D2;
+    border: 1px solid #0073AA;
+}
+
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-options table.ova-sub-table td.ova-box a.btn-red {
+	background-color: #ff6666;
+    border: 1px solid #ff4c4c;
+}
+
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-options {
+	display: none;
+}
+
+
+
+
+/**
+ * Check Product
+ */
+
+.booking_filter{
+	margin-top: 30px;
+	/*display: flex;
+	flex-wrap: wrap;*/
+
+	input, select, button{
+		height: 40px;
+		border: 1px solid #ccc;
+		margin-right: 5px;
+		margin: 0px 5px 5px 5px;
+	}
+
+	button.button{
+		height: 40px;
+		padding-left: 20px;
+		padding-right: 20px;
+		background-color: #343434;
+		border: 1px solid #343434;
+		color: #fff;
+		margin-top: 0px;
+	}
+
+	.total_vehicle{
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.vehicle_id_available{
+		clear: both;
+	    display: block;
+	    position: relative;
+	    width: 100%;
+	    margin-top: 30px;
+	}
+
+	.wrap_calendar{
+		height: 800px;
+		.ovabrw__product_calendar {
+			.fc-daygrid-event-dot {
+				display: none;
+			}
+			
+			.fc-daygrid-dot-event {
+				.fc-event-title {
+					margin-left: 5px;
+				}
+			}
+		}
+		.fc-direction-ltr {
+			.fc-daygrid-event {
+				.fc-event-time {
+					display: none;
+				}
+			}
+		}
+	}
+
+	.ovabrw__product_calendar{
+		
+		margin-top: 30px;
+		width: 100%;
+		max-width: 750px;
+
+		background-color: #fff;
+		padding: 30px;
+
+		&:before{
+			display: none;
+		}
+
+		.fc-event {
+		    background-color: #ddd;
+		    border-color: #ddd;
+		    color: #343434;
+		}
+	}
+
+	/*Calendar*/
+	ul.intruction{
+		position: relative;
+		list-style: none;
+		margin: 25px 0 0 0;
+		padding: 0;
+		
+			li{
+				padding-right: 10px;
+				display: inline-block;
+
+					.pink{
+						width: 15px; height: 15px; background-color: #f3f3f3; border: 1px solid #555; display: none; opacity: 0.5;
+					}
+					.white{
+						width: 15px; height: 15px; background-color: #fff; border: 1px solid #555; display: inline-block; opacity: 0.5;
+					}
+					.yellow{
+						width: 15px; height: 15px; background-color: #e9a31b; border: 1px solid #555; display: inline-block; opacity: 0.5;
+					}
+				
+			}
+		
+	}
+
+	
+	#available-vehicle{
+		margin-bottom: 100px;
+		table tr td{
+			border: 1px solid #ccc;
+			padding: 10px;
+		}
+	}
+	
+
+}
+
+
+
+
+p.form-field.ovabrw_enable_deposit_field{
+	border-top: 1px solid #eaeaea;
+    margin-top: 15px;
+    padding-top: 20px!important;
+}
+
+p.form-field.ovabrw_manage_store_field{
+	border-top: 1px solid #eaeaea;
+    margin-top: 15px;
+    padding-top: 20px!important;
+}
+
+p.form-field.ovabrw_prepare_vehicle_field {
+	border-top: 1px solid #eaeaea;
+    margin-top: 15px;
+    padding-top: 20px!important;
+}
+input[type=text].ova_brw_datepicker_time {
+	margin-top: 10px;
+	width: 100%;
+}
+
+.wrap .ovabrw-wrap .ovabrw-row.ova-column-3 {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.wrap .ovabrw-wrap .ovabrw-row.ova-column-3 .item {
+	flex-basis: calc(33.33% - 30px);
+	padding: 0 15px;
+	margin-bottom: 20px;
+}
+
+.wrap .ovabrw-wrap .ovabrw-row {
+	margin-bottom: 20px;
+}
+
+.wrap .ovabrw-wrap .ovabrw-row.ova-column-3 .item input {
+	width: 100%;
+}
+
+.wrap .ovabrw-wrap .ovabrw-order {
+	position: relative;
+	background: #e3e3e3;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item.ovabrw-meta {
+	display: none;
+}
+
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item label{
+    width: 120px;
+    display: inline-block;
+}
+
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item {
+	margin-bottom: 10px;
+}
+
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item.ovabrw-error .ovabrw-error-span {
+	color: #F20000;
+}
+
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item.ovabrw-package,
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item.rental_type,
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item.rental_define_day,
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item.ovabrw-resources,
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item.ovabrw-services
+{
+	display: none;
+}
+
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item.ovabrw-resources {
+	.ovabrw-resources-span {
+		margin-left: 5px;
+		.resources_order {
+			.item {
+				display: flex;
+    			align-items: center;
+    			margin-bottom: 5px;
+    			.left {
+    				input[type="checkbox"] {
+    					vertical-align: bottom;
+    				}
+    			}
+			}
+		}
+	}
+}
+
+.wrap .ovabrw-wrap .ovabrw-order .item .sub-item .rental_item.ovabrw-services {
+	.ovabrw-services-span {
+		.services_order {
+			.item {
+				.error_item {
+					display: none;
+					color: #F20000;
+				}
+				select {
+					width: 100%;
+				}
+				&:first-child {
+					margin-bottom: 10px;
+				}
+			}
+		}
+	}
+}
+
+.wrap .ovabrw-wrap .ovabrw-order .delete_order {
+	position: absolute;
+	top: 5px;
+    right: 15px;
+    text-decoration: none;
+}
+
+.ova-list-checkout-field table {
+	margin: 0px;
+	width: 100%;
+}
+.ova-list-checkout-field tbody tr:nth-child(odd) {
+	background: #f9f9f9;
+}
+
+.ova-list-checkout-field tbody tr:nth-child(even) {
+	background: #fff;
+}
+.ova-wrap-popup-ckf {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0,0,0,0.3);
+	height: 120vh;
+	display: none;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper .close_popup {
+	font-size: 16px;
+	color: #333;
+	text-decoration: none;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper {
+	position: relative;
+    margin: 150px auto;
+    width: 40%;
+    height: auto;
+    background: #fff;
+    padding: 40px;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper table {
+	border-spacing: 0 20px;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr {
+	margin-bottom: 20px;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr td select, .ova-wrap-popup-ckf .ova-popup-wrapper tr td input[type=text] {
+	width: 100%;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr td.label {
+	font-size: 16px;
+	color: #333333;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-required input[type=checkbox] {
+	margin-bottom: 10px;
+    margin-right: 5px;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper tr.row-required label {
+	margin-bottom: 10px;
+	display: inline-block;
+	font-size: 15px;
+	color: #333;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper .ova-sub-table {
+	border-spacing: 0px;
+}
+.ova-wrap-popup-ckf .ova-popup-wrapper .ova-sub-table tr {
+	display: table;
+	margin-bottom: 10px;
+}
+.wrap_ovabrw_service_group{
+	margin-bottom: 20px;
+}
+.ovabrw_service .ovabrw_service_group{
+	margin-top: 20px;
+    border: 1px solid #ccd0d4;
+    padding: 10px;
+}
+
+.service_input{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 30px;
+	.ovabrw_label_service{
+		display: flex;
+	    justify-content: space-around;
+	    align-items: baseline;
+	    span{
+	    	margin-right: 10px;
+	    }
+	    input{
+	    	margin-right: 10px;
+	    }
+	}
+
+
+}
+
+/*Edit Category with Custom Taxonomy*/
+.ovabrw_custom_tax_with_cat{
+	width: 100%;
+}
+
+.ova-list-checkout-field{
+	a{
+		text-decoration: none;
+	}
+}
+
+// CSS extra services + resource
+.ovabrw-extra-price {
+	.view {
+		.ovabrw_extra_item {
+			margin: 0;
+			dt {
+				font-weight: 600;
+			}
+			dd {
+				margin: 0;
+    			margin-bottom: 10px;
+			}
+		}
+	}
+}
+
+// CSS button pay full deposit
+.ova_pay_full {
+	a {
+		display: inline-block;
+	    padding: 0px 30px;
+	    border: 1px solid #0073aa;
+	    border-radius: 3px;
+	    text-decoration: none;
+	    line-height: 2.5;
+        font-size: 75%;
+    	font-weight: 600;
+    	background-color: #f6f7f7;
+	}
+}
+
+#woocommerce-order-items {
+	.woocommerce_order_items_wrapper {
+		table.woocommerce_order_items {
+			table.display_meta {
+				tr {
+					th {
+						width: 50% !important;
+					}
+				}
+			}
+		}
+	}
+}

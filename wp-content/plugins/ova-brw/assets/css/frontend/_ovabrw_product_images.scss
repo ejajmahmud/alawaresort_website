@@ -1,0 +1,26 @@
+.woocommerce-product-gallery {
+	max-width: 600px;
+    position: relative;
+    margin-bottom: 2rem;
+    .woocommerce-product-gallery__trigger {
+    	position: absolute;
+    	top: 1rem;
+    	right: 1rem;
+    	z-index: 99;
+    }
+    a {
+    	img {
+	    	width: 100%;
+	    	height: auto;
+	    }
+	}
+	.flex-viewport {
+		margin-bottom: 20px;
+	}
+	.flex-control-nav.flex-control-thumbs {
+		display: flex;
+	    list-style: none;
+	    justify-content: space-between;
+	    margin: 0;
+	}
+}

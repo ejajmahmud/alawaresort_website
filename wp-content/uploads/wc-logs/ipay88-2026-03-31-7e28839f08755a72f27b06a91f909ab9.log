@@ -1,0 +1,99 @@
+2026-03-31T02:19:40+00:00 NOTICE Generating payment form for order #5860 CONTEXT: {"_legacy":true}
+2026-03-31T02:19:40+00:00 NOTICE Signature SHA256 string is: k91fFsrsCQM468625860100MYR CONTEXT: {"_legacy":true}
+2026-03-31T02:19:40+00:00 NOTICE Order form parameters: Array
+(
+    [MerchantCode] => M46862
+    [RefNo] => 5860
+    [Amount] => 1.00
+    [Currency] => MYR
+    [ProdDesc] => 1 x Twin Single Bed Room test (Twin Single Bed Room test)
+    [UserName] => ALAWA RESORTS
+    [UserEmail] => alawaresorts@gmail.com
+    [UserContact] => +60178610169
+    [ResponseURL] => https://alawaresorts.com/wc-api/WC_Gateway_iPay88/
+    [BackendURL] => https://alawaresorts.com/wc-api/WC_Gateway_iPay88/?iPay88_response=backend
+    [PaymentId] => 20
+    [SignatureType] => SHA256
+    [signature] => bac2fdaba087477d46faedf397263dcb1a92a9498e4f85fd2180d95098ba8193
+)
+ CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Backend response. CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Payment response received. Response is: Array
+(
+    [MerchantCode] => M46862
+    [PaymentId] => 20
+    [RefNo] => 5860
+    [Amount] => 1.00
+    [Currency] => MYR
+    [Remark] => 
+    [TransId] => T109602877626
+    [AuthCode] => 2603311019450405
+    [Status] => 1
+    [ErrDesc] => 
+    [Signature] => 1307e796e3f8942c9b5be0e9267ac359ec59301257c7c29afaf20f878ad0267f
+    [TokenId] => 
+    [SubscriptionNo] => 
+    [RecurringRefno] => 
+    [S_bankname] => BCBB0235
+    [S_country] => 
+    [CCNo] => 
+    [CCName] => CHIA VI KET
+    [BankMID] => EX00005182
+    [TranDate] => 2026-03-31
+    [Xfield1] => 
+    [Xfield2] => 
+    [Xfield3] => 
+    [Xfield4] => 
+    [Xfield5] => 
+    [ActionType] => 
+    [optional] => 
+)
+ CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Validating response... CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Signature SHA256 string is: k91fFsrsCQM46862205860100MYR1 CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Generated response signature is: 1307e796e3f8942c9b5be0e9267ac359ec59301257c7c29afaf20f878ad0267f CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Received post signature is: 1307e796e3f8942c9b5be0e9267ac359ec59301257c7c29afaf20f878ad0267f CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Signature validation passed. CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Amount validation passed. CONTEXT: {"_legacy":true}
+2026-03-31T02:20:25+00:00 NOTICE Payment completed. CONTEXT: {"_legacy":true}
+2026-03-31T02:20:34+00:00 NOTICE Payment response received. Response is: Array
+(
+    [MerchantCode] => M46862
+    [PaymentId] => 20
+    [RefNo] => 5860
+    [Amount] => 1.00
+    [Discount] => 0.00
+    [Currency] => MYR
+    [Remark] => 
+    [TransId] => T109602877626
+    [AuthCode] => 2603311019450405
+    [Status] => 1
+    [ErrDesc] => 
+    [PayerEmail] => 
+    [ExpiryDate] => 
+    [VTVLEncryptResultval] => 
+    [ErrStatus] => 
+    [PointAmount] => 0.00
+    [Signature] => 1307e796e3f8942c9b5be0e9267ac359ec59301257c7c29afaf20f878ad0267f
+    [CCName] => CHIA VI KET
+    [CCNo] => 
+    [S_bankname] => BCBB0235
+    [S_country] => 
+    [OldTokenId] => 
+    [TokenId] => 
+    [BindCardErrDesc] => 
+    [PANTrackNo] => 
+    [ActionType] => 
+    [BankMID] => EX00005182
+    [TranDate] => 2026-03-31
+    [optional] => 
+    [PaymentType] => 
+)
+ CONTEXT: {"_legacy":true}
+2026-03-31T02:20:34+00:00 NOTICE Validating response... CONTEXT: {"_legacy":true}
+2026-03-31T02:20:34+00:00 NOTICE Signature SHA256 string is: k91fFsrsCQM46862205860100MYR1 CONTEXT: {"_legacy":true}
+2026-03-31T02:20:34+00:00 NOTICE Generated response signature is: 1307e796e3f8942c9b5be0e9267ac359ec59301257c7c29afaf20f878ad0267f CONTEXT: {"_legacy":true}
+2026-03-31T02:20:34+00:00 NOTICE Received post signature is: 1307e796e3f8942c9b5be0e9267ac359ec59301257c7c29afaf20f878ad0267f CONTEXT: {"_legacy":true}
+2026-03-31T02:20:34+00:00 NOTICE Signature validation passed. CONTEXT: {"_legacy":true}
+2026-03-31T02:20:34+00:00 NOTICE Amount validation passed. CONTEXT: {"_legacy":true}
+2026-03-31T02:20:34+00:00 NOTICE Payment already processed. Aborting. CONTEXT: {"_legacy":true}

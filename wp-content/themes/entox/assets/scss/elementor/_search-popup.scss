@@ -1,0 +1,111 @@
+.ova_wrap_search_popup {
+	position: relative;
+	cursor: pointer;
+	text-align: center;
+
+	.ova_search_close{
+		display: none;
+	}
+	
+	&.show {
+		.ova_search_popup{
+			transition: all .3s ease-in-out;
+			visibility: visible;
+			opacity: 1;
+			z-index: 9999;
+		}
+		.btn_close{
+			display: block;
+			position: absolute;
+			top: 60px;
+			right: 60px;
+			font-size: 60px;
+			color: #fff;
+			z-index: 10;
+			&:after{
+				content: "\4b";
+				opacity: 0;
+				position: absolute;
+				left: 0;
+				top: 0;
+			}
+
+			&:hover{
+				&:before{
+					opacity: 0;
+					transition: all 0.3s;
+				}
+				&:after{
+					opacity: 1;
+					transition: all 0.3s;
+				}
+			}
+		}
+	}
+	
+	i {
+		right: 0;
+		cursor: pointer;
+		font-size: 20px;
+		color: #62718d;
+		transition: all 0.3s ease;
+		display: inline-block;
+		transform: rotateY(180deg);
+		&:before{
+			font-size: 20px;
+		}
+		&:hover {
+			transition: all 0.3s ease;
+		}
+	}
+
+	.ova_search_popup{
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 0;
+		background-color: rgba(0, 0, 0, 0.9);
+		z-index: -1;
+		transition: all .3s ease-in-out;
+		visibility: hidden;
+		display: block;
+		opacity: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		text-align: left;
+
+		.container {
+			width: 100%;
+
+			.search_popup_form {
+				max-width: 600px;
+				margin: 0 auto;
+				padding: 0 30px;
+
+				.s_field {
+					margin-bottom: 30px;
+
+					input {
+						width: 100%;
+					}
+
+					select {
+						width: 100%;
+					}
+				}
+
+				.s_submit {
+					text-align: center;
+
+					.ovabrw_btn_submit {
+						&:hover {
+							background-color: var(--heading);
+						}
+					}
+				}
+			}
+		}
+	}
+}

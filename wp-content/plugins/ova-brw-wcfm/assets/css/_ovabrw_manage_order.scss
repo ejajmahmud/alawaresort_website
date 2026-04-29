@@ -1,0 +1,199 @@
+// CSS manage order
+.wcfm-container {
+	.wcfm-content {
+		.pagination_manage_order {
+			position: absolute;
+			right: 0;
+			bottom: 0;
+			.page-numbers {
+				li {
+					.prev {
+						display: none;
+					}
+				}
+			}
+		}
+		#wcfm-orders {
+			tbody {
+				.ovabrw_wcfm_item_time, .ovabrw_wcfm_item_loc {
+					color: var(--text);
+					font-size: 13px;
+    				line-height: 1.5em;
+    				font-weight: 500;
+				}
+				.order-status, .status_insurance {
+					border-radius: 4px;
+					span {
+    					font-size: 13px;
+    					font-weight: 400;
+    					padding: 0 5px;
+    				}
+				}
+				.status-processing {
+					color: #5b841b;
+				    background-color: #c6e1c6;
+				}
+				.status-on-hold, .status_pending {
+					color: #94660c;
+					background-color: #f8dda7;
+				}
+				.status-completed, .status_paid {
+					color: #2e4453;
+					background-color: #c8d7e1;
+				}
+				.status-cancelled, .status-closed {
+					color: #777;
+    				background-color: #e5e5e5;
+				}
+				.order_status_action {
+					.update_manage_order_status {
+						padding: 3px 0 3px 10px;
+					}
+				}
+				.odd {
+					position: relative;
+				}
+				.order_total, .meta {
+					font-size: 13px;
+					font-weight: 400;
+					color: var(--text);
+					span {
+						font-weight: 500;
+						color: var(--heading);
+					}
+				}
+				.items_name {
+					
+					.show_order_items {
+						color: #e83e8c;
+						margin: 0;
+						padding: 0;
+						cursor: pointer;
+						-webkit-transition: all .3s ease;
+						-o-transition: all .3s ease;
+						transition: all .3s ease;
+						&:hover {
+							color: var(--primary);
+						}
+					}
+					.items_popup {
+					    width: 70%;
+						display: none;
+						position: absolute;
+						background-color: #fff;
+						bottom: 90%;
+    					left: 0;
+					    border: 1px solid #ccc;
+    					border-radius: 10px;
+						z-index: 1;
+						box-shadow: 0px 10px 40px 0px rgba(6,22,58,.1);
+						.items_content {
+							display: flex;
+							.items_title {
+								width: 100%;
+								.title {
+									li {
+										padding: 10px;
+										border-bottom: 1px solid #ccc;
+									    font-weight: 500;
+									    color: var(--heading);
+									    text-transform: uppercase;
+									}
+								}
+								ul {
+									margin: 0;
+									padding: 0;
+									list-style-type: none;
+									display: inline-flex;
+									width: 100%;
+									li {
+										width: 100%;
+										text-align: center;
+										.ovabrw_pickup_date, .ovabrw_pickup_loc {
+											font-size: 13px;
+    										font-weight: 400;
+										}
+									}
+									.item_date {
+										min-width: 38%;
+									}
+								}
+								.item_product {
+									&:last-child {
+										li {
+											padding-bottom: 20px;
+										}
+									}
+									&:first-child {
+										li {
+											padding-top: 0;
+										}
+									}
+									li {
+										padding: 10px;
+										a {
+											font-weight: 500;
+											color: #17a2b8;
+										}
+									}
+								}
+							}
+							.close {
+							    display: block;
+							    position: absolute;
+							    right: 5px;
+							    padding: 0 10px 0 20px;
+							    font-size: 18px;
+							    color: #ff0000;
+							    cursor: pointer;
+							}
+						}
+					}
+				}
+				.wcfm_actions_order {
+					width: 150px;
+					.order_status_action {
+						max-width: 140px;
+					}
+				}
+			}
+		}
+	}
+}
+
+.wcfm-collapse-content {
+	.wcfm-container {
+		.wcfm-content {
+
+			// Form
+			.wrap {
+				#booking-filter {
+					.booking_filter {
+						input, select {
+							width: 18%;
+							@media screen and (max-width: 1024px) {
+								width: 30%;
+							}
+							@media screen and (max-width: 600px) {
+								width: 45%;
+							}
+							@media screen and (max-width: 450px) {
+								width: 100%;
+							}
+						}
+					}
+				}
+			}
+			// End Form
+			#wcfm-orders {
+				thead, tfoot {
+					tr {
+						th {
+							color: var(--heading);
+						}
+					}
+				}
+			}
+		}
+	}
+}

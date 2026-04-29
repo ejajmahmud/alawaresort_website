@@ -1,0 +1,139 @@
+.ova-blog-element{
+	.grid{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 30px 30px;
+	@media(max-width: 1024px){
+		grid-template-columns: 1fr 1fr;
+	}
+	@media(max-width: 767px){
+		grid-template-columns: 1fr;
+	}
+	article.post-wrap{
+		margin-bottom: 0px;
+		&:hover{
+			.ova-content{
+				box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+			}
+		};
+	}
+	&.grid_sidebar{
+		    display: grid;
+			grid-template-columns: 1fr 1fr ;
+			grid-gap: 60px 30px;
+			@media(max-width: 1024px){
+				grid-template-columns: 1fr 1fr;
+			}
+			@media(max-width: 767px){
+				grid-template-columns: 1fr;
+			}
+			article.post-wrap{
+				margin-bottom: 0px;
+			}
+
+
+	}
+	&.grid_small{
+
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr ;
+			grid-gap: 60px 30px;
+			@media(max-width: 1024px){
+				grid-template-columns: 1fr 1fr;
+			}
+			@media(max-width: 767px){
+				grid-template-columns: 1fr;
+			}
+			article.post-wrap{
+				margin-bottom: 0px;
+			}
+
+	}
+
+}
+
+.post-media{
+	position: relative;
+	margin-bottom: 0 !important;
+	img{
+		border-radius: 10px;
+	}
+	.post-date{
+		position: absolute;
+		top:20px;
+		right: 20px;
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+		display: inline-flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		background: var(--primary);
+		color: #fff;
+		font-size: 14px;
+		line-height: 14px;
+		font-weight: bold;
+	}
+}
+.ova-content{
+    transition: 0.4s ease;
+	padding: 30px;
+	top: -40px;
+	position: relative;
+	z-index: 2;
+	background: #fff;
+	width: 90%;
+	margin:auto;
+	border-radius: 10px;
+	.post-meta{
+		font-size: 14px;
+		line-height: 1;
+		display: flex;
+		margin-bottom: 10px;
+		.wp-categories{
+			padding-right: 10px;
+			a{
+				color: #677283;
+				&:hover{
+					color:var(--primary);
+				};
+			}
+		}
+		.comment{
+			a{
+				color: #677283;
+				&:hover{
+					color:var(--primary);
+				};
+			}
+		}
+		i{
+			color: var(--primary);
+			padding-right: 3px;
+		}
+	}
+	.post-title{
+		font-size: 24px;
+		line-height: 36px;
+		color: #17202d;
+		font-weight: bold;
+		display: block;
+	}
+	.author{
+		display: flex;
+		align-items: center;
+		img{
+			border-radius: 50%;
+		}
+		a{
+			padding-left: 10px;
+			color: #677283;
+			font-weight: 500;
+			&:hover{
+				color:var(--primary);
+			};
+		}
+	}
+}
+}

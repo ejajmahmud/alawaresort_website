@@ -1,0 +1,55 @@
+.mailchimp_custom{
+	display: flex;
+	text-align: center;
+	transition: 0.4s ease;
+	background: #fff;
+	border-radius: 10px;
+	&:hover{
+		button[type="submit"]{
+			i{
+				color: #677383;
+			}
+		}
+	};
+	.ova_mcwp_mail{
+		width: 100%;
+	}
+	.ova_mcwp_submit{
+		display: flex;
+		flex-direction: row-reverse;
+		align-items: center;
+	}
+	.ova_mcwp_name{
+		display: none;
+	}
+	
+	input[type="email"], input[type="text"]{
+		background:#ffffff;
+		font-size: 16px;
+		line-height: 75px;
+		height: 75px;
+		width: 100%;
+		padding-left: 0px;
+		border: none;
+		color: #677383;
+		padding-left: 30px;
+		border-radius: 10px;
+		&::placeholder {
+			font-style: 16px;
+			color: #677383;
+		}
+
+	}
+	button[type="submit"]{
+		border: none;
+		background-color: #ffff;
+		display: inline-flex;
+		justify-content: center;
+		align-items: center;
+		i{
+			font-size: 20px;
+			color: var(--primary);
+			padding-right: 30px;
+		}
+	}
+}

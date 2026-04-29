@@ -1,0 +1,23 @@
+.ova_button_ad {
+	display: block;
+
+	a {
+		display: inline-block;
+		font-size: 14px;
+		font-weight: 500;
+		line-height: 24px;
+		color: #FFFFFF;
+		background-color: var(--primary);
+		border-radius: 5px;
+		padding: 10px 24px;
+		-webkit-transition: all .3s ease;
+		-moz-transition: all .3s ease;
+		-ms-transition: all .3s ease;
+		-o-transition: all .3s ease;
+		transition: all .3s ease;
+
+		&:hover {
+			background-color: var(--heading);
+		}
+	}
+}

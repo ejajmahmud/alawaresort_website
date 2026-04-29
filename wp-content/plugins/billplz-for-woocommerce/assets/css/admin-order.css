@@ -1,0 +1,62 @@
+/* Metaboxes */
+.postbox[id^=bfw],
+.postbox[id^=bfw] .postbox-header {
+    border-color: #3784f4;
+}
+.postbox[id^=bfw] .postbox-header {
+    background-color: #3784f4;
+}
+.postbox[id^=bfw] .postbox-header h2 {
+    color: #fff;
+}
+.postbox[id^=bfw] .handle-order-higher,
+.postbox[id^=bfw] .handle-order-lower {
+    color: #e9e9e9;
+}
+.postbox[id^=bfw] .handle-order-higher[aria-disabled=true],
+.postbox[id^=bfw] .handle-order-lower[aria-disabled=true] {
+    color: #bdbdbd;
+}
+.postbox[id^=bfw] .toggle-indicator {
+    color: #e9e9e9;
+}
+.bfw-metabox-field-container {
+    display: flex;
+    align-items: center;
+}
+.bfw-metabox-field-container:not(:last-child) {
+    margin-bottom: 15px;
+}
+.bfw-metabox-field-container .bfw-metabox-label {
+    font-weight: 500;
+    width: 30%;
+    min-width: 150px;
+}
+.bfw-metabox-field-container .bfw-metabox-field {
+    width: 100%;
+    margin: 0;
+    flex-grow: 1;
+}
+.bfw-metabox-submit-container {
+    text-align: right;
+}
+
+/* Order Refund Metabox */
+#bfw-order-refund-metabox {
+    display: none;
+}
+
+/* Order Refund Information  */
+.bfw-order-refund-info {
+    margin-top: 5px;
+}
+.bfw-order-refund-info span.bfw-brand-text {
+    font-weight: bold;
+    color: #3784f4;
+}
+
+/* Required asterisk */
+span.bfw-required {
+    color: #f00;
+    padding-left: 3px;
+}

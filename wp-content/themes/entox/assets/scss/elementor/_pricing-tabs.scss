@@ -1,0 +1,40 @@
+.ova-pricing-tabs {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+
+	.item {
+		padding: 15px 30px;
+		font-size: 14px;
+		line-height: 24px;
+		font-weight: 600;
+		color: var(--text);
+		background-color: #e9edf2;
+		cursor: pointer;
+		-o-transition: all .3s ease;
+		-ms-transition: all .3s ease;
+		-moz-transition: all .3s ease;
+		-webkit-transition: all .3s ease;
+		transition: all .3s ease;
+
+		&:hover {
+			background-color: var(--primary);
+			color: #FFFFFF;
+		}
+
+		&:first-child {
+			border-radius: 5px 0 0 5px;
+		}
+
+		&:last-child {
+			border-radius: 0 5px 5px 0;
+		}
+
+		&.active-tabs {
+			background-color: var(--primary);
+			color: #FFFFFF;
+		}
+	}
+}

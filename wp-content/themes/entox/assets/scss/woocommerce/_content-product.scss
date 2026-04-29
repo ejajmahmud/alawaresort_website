@@ -1,0 +1,272 @@
+.entox_product {
+	list-style-type: none;
+	box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.1);
+	border-radius: 6px;
+	overflow: hidden;
+
+	&:hover {
+		
+		.entox_head_product {
+			.entox-product-thumbnail {
+				img {
+					transform: scale(1.05);
+				}
+			}
+		}
+	}
+
+	span.feedback {
+		color: #FFF;
+	}
+
+	.entox_head_product {
+		display: block;
+		position: relative;
+		overflow: hidden;
+		border-radius: 6px 6px 0 0;
+
+		.entox-product-wishlist {
+			position: absolute;
+			top: 20px;
+			right: 20px;
+			z-index: 1;
+
+			.yith-wcwl-add-to-wishlist {
+				margin: 0;
+				padding: 0;
+				line-height: 1;
+
+				.yith-wcwl-add-button {
+					.add_to_wishlist {
+						i {
+							color: #fff;
+							margin: 0;
+							-webkit-transition: all .3s ease;
+							-moz-transition: all .3s ease;
+							-o-transition: all .3s ease;
+							transition: all .3s ease;
+						}
+
+						span {
+							display: none;
+						}
+					}
+				}
+
+				.feedback {
+					color: #FFF !important;
+
+					i {
+						color: #FFF;
+					}
+				}
+
+				a {
+					color: #FFF;
+					-webkit-transition: all .3s ease;
+					-moz-transition: all .3s ease;
+					-o-transition: all .3s ease;
+					transition: all .3s ease;
+
+					&:hover {
+						color: var(--primary);
+					}
+				}
+			}
+		}
+
+		.entox-product-thumbnail {
+			display: grid;
+
+			img {
+				margin: 0 !important;
+				border-radius: 6px 6px 0 0;
+				-moz-transition: all .3s ease;
+				-webkit-transition: all .3s ease;
+				transition: all .3s ease;
+			}
+		}
+
+		.entox-is-featured {
+			position: absolute;
+			top: 20px;
+			left: 20px;
+			display: block;
+			text-align: center;
+			padding: 5px 10px;
+			background-color: #FF3B30;
+			border: 2px solid #FF3B30;
+			border-radius: 5px;
+			color: #FFFFFF;
+			font-size: 14px;
+		    font-weight: 400;
+		    line-height: 1em;
+		}
+	}
+
+	.entox_foot_product {
+		padding: 18px 30px 0 30px;
+
+		.entox-product-category {
+			a {
+				font-size: 16px;
+				line-height: 30px;
+				font-weight: 600;
+				color: var(--text);
+				-webkit-transition: all .3s ease;
+				-moz-transition: all .3s ease;
+				-ms-transition: all .3s ease;
+				transition: all .3s ease;
+
+				&:hover {
+					color: var(--primary);
+				}
+			}
+		}
+
+		.entox-product-title {
+			margin: 0;
+
+			a {
+				font-size: 20px;
+				line-height: 30px;
+				font-weight: bold;
+				color: var(--heading);
+			}
+		}
+
+		.entox-product-wrapper-price {
+			display: flex;
+			flex-wrap: wrap;
+		    justify-content: space-between;
+		    margin-bottom: 20px;
+
+			.entox-product-price {
+				
+				.product-amount {
+					font-size: 24px;
+					font-weight: bold;
+					line-height: 30px;
+					color: var(--primary);
+				}
+
+				.define_1_day {
+					font-size: 15px;
+					font-weight: 400;
+					line-height: 30px;
+					color: var(--text);
+				}
+			}
+
+			.entox-product-review {
+				.star-rating {
+					color: var(--primary);
+				    margin: .5em 4px 0 0;
+		    		float: left;
+				    overflow: hidden;
+				    position: relative;
+				    height: 1em;
+				    line-height: 1;
+				    font-size: 1em;
+				    width: 5.4em;
+				    font-family: star;
+
+				    &:before {
+				    	content: "sssss";
+					    color: #d3ced2;
+					    float: left;
+					    top: 0;
+					    left: 0;
+					    position: absolute;
+				    }
+
+				    .rating-percent {
+				    	overflow: hidden;
+					    float: left;
+					    top: 0;
+					    left: 0;
+					    position: absolute;
+					    padding-top: 1.5em;
+
+					    &:before {
+					    	content: "SSSSS";
+						    top: 0;
+						    position: absolute;
+						    left: 0;
+					    }
+				    }
+
+				    strong.rating {
+				    	display: none;
+				    }
+
+				    span.rating {
+				    	overflow: hidden;
+					    float: left;
+					    top: 0;
+					    left: 0;
+					    position: absolute;
+					    padding-top: 1.5em;
+
+					    &:before {
+				    	    content: "SSSSS";
+						    top: 0;
+						    position: absolute;
+						    left: 0;
+					    }
+				    }
+				}
+			}
+		}
+
+		.entox-product-features {
+		    margin-bottom: 24px;
+			.feature-list {
+				list-style: none;
+				display: flex;
+				padding: 0;
+
+				.label {
+					font-size: 12px;
+					line-height: 24px;
+					color: var(--text);
+					background-color: #e9edf2;
+					font-weight: 600;
+					padding: 10px 0 8px 0;
+					width: 100%;
+					text-align: center;
+
+					&:not(:last-child) {
+						border-right: 1px solid #fff;
+					}
+					&:first-child {
+						border-radius: 10px 0 0 10px;
+					}
+
+					&:last-child {
+						border-radius: 0 10px 10px 0;
+					}
+				}
+			}
+		}
+
+		.entox-product-location {
+			display: flex;
+			margin-bottom: 20px;
+
+			i {
+				color: var(--primary);
+				font-size: 14px;
+				margin-right: 5px;
+				line-height: 20px;
+			}
+
+			.location {
+				font-size: 14px;
+				font-weight: 500;
+				line-height: 24px;
+				color: var(--text);
+			}
+		}
+	}
+}

@@ -1,0 +1,2926 @@
+2026-03-30T01:09:38+00:00 - Array
+(
+    [action_id] => 18538
+    [creation_date] => 2026-03-29 23:02:32
+    [execution_time] => 1774825412
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:10:42+00:00 - Array
+(
+    [action_id] => 18542
+    [creation_date] => 2026-03-30 01:09:38
+    [execution_time] => 1774833038
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:13:10+00:00 - Array
+(
+    [action_id] => 18553
+    [creation_date] => 2026-03-30 01:10:42
+    [execution_time] => 1774833102
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:15:11+00:00 - Array
+(
+    [action_id] => 18557
+    [creation_date] => 2026-03-30 01:13:10
+    [execution_time] => 1774833250
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:17:11+00:00 - Array
+(
+    [action_id] => 18561
+    [creation_date] => 2026-03-30 01:15:11
+    [execution_time] => 1774833371
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:18:45+00:00 - Array
+(
+    [action_id] => 18565
+    [creation_date] => 2026-03-30 01:17:11
+    [execution_time] => 1774833491
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:20:45+00:00 - Array
+(
+    [action_id] => 18569
+    [creation_date] => 2026-03-30 01:18:45
+    [execution_time] => 1774833585
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:21:45+00:00 - Array
+(
+    [action_id] => 18573
+    [creation_date] => 2026-03-30 01:20:45
+    [execution_time] => 1774833705
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:22:46+00:00 - Array
+(
+    [action_id] => 18577
+    [creation_date] => 2026-03-30 01:21:45
+    [execution_time] => 1774833765
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:24:46+00:00 - Array
+(
+    [action_id] => 18581
+    [creation_date] => 2026-03-30 01:22:46
+    [execution_time] => 1774833826
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:26:47+00:00 - Array
+(
+    [action_id] => 18585
+    [creation_date] => 2026-03-30 01:24:46
+    [execution_time] => 1774833946
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:28:05+00:00 - Array
+(
+    [action_id] => 18589
+    [creation_date] => 2026-03-30 01:26:47
+    [execution_time] => 1774834067
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:30:06+00:00 - Array
+(
+    [action_id] => 18593
+    [creation_date] => 2026-03-30 01:28:05
+    [execution_time] => 1774834145
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:32:07+00:00 - Array
+(
+    [action_id] => 18597
+    [creation_date] => 2026-03-30 01:30:06
+    [execution_time] => 1774834266
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:34:07+00:00 - Array
+(
+    [action_id] => 18601
+    [creation_date] => 2026-03-30 01:32:07
+    [execution_time] => 1774834387
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:36:09+00:00 - Array
+(
+    [action_id] => 18605
+    [creation_date] => 2026-03-30 01:34:07
+    [execution_time] => 1774834507
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:37:52+00:00 - Array
+(
+    [action_id] => 18609
+    [creation_date] => 2026-03-30 01:36:09
+    [execution_time] => 1774834629
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:38:53+00:00 - Array
+(
+    [action_id] => 18613
+    [creation_date] => 2026-03-30 01:37:52
+    [execution_time] => 1774834732
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:39:54+00:00 - Array
+(
+    [action_id] => 18617
+    [creation_date] => 2026-03-30 01:38:53
+    [execution_time] => 1774834793
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:41:46+00:00 - Array
+(
+    [action_id] => 18621
+    [creation_date] => 2026-03-30 01:39:54
+    [execution_time] => 1774834854
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:43:19+00:00 - Array
+(
+    [action_id] => 18625
+    [creation_date] => 2026-03-30 01:41:46
+    [execution_time] => 1774834966
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:45:52+00:00 - Array
+(
+    [action_id] => 18629
+    [creation_date] => 2026-03-30 01:43:19
+    [execution_time] => 1774835059
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:47:18+00:00 - Array
+(
+    [action_id] => 18633
+    [creation_date] => 2026-03-30 01:45:52
+    [execution_time] => 1774835212
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:49:19+00:00 - Array
+(
+    [action_id] => 18637
+    [creation_date] => 2026-03-30 01:47:18
+    [execution_time] => 1774835298
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:51:14+00:00 - Array
+(
+    [action_id] => 18641
+    [creation_date] => 2026-03-30 01:49:19
+    [execution_time] => 1774835419
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:52:27+00:00 - Array
+(
+    [action_id] => 18645
+    [creation_date] => 2026-03-30 01:51:14
+    [execution_time] => 1774835534
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:54:13+00:00 - Array
+(
+    [action_id] => 18649
+    [creation_date] => 2026-03-30 01:52:27
+    [execution_time] => 1774835607
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:55:19+00:00 - Array
+(
+    [action_id] => 18653
+    [creation_date] => 2026-03-30 01:54:13
+    [execution_time] => 1774835713
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:56:24+00:00 - Array
+(
+    [action_id] => 18657
+    [creation_date] => 2026-03-30 01:55:19
+    [execution_time] => 1774835779
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T01:57:42+00:00 - Array
+(
+    [action_id] => 18661
+    [creation_date] => 2026-03-30 01:56:24
+    [execution_time] => 1774835844
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:00:11+00:00 - Array
+(
+    [action_id] => 18665
+    [creation_date] => 2026-03-30 01:57:42
+    [execution_time] => 1774835922
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:01:18+00:00 - Array
+(
+    [action_id] => 18669
+    [creation_date] => 2026-03-30 02:00:11
+    [execution_time] => 1774836071
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:03:09+00:00 - Array
+(
+    [action_id] => 18673
+    [creation_date] => 2026-03-30 02:01:18
+    [execution_time] => 1774836138
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:04:20+00:00 - Array
+(
+    [action_id] => 18677
+    [creation_date] => 2026-03-30 02:03:09
+    [execution_time] => 1774836249
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:05:29+00:00 - Array
+(
+    [action_id] => 18681
+    [creation_date] => 2026-03-30 02:04:20
+    [execution_time] => 1774836320
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:07:15+00:00 - Array
+(
+    [action_id] => 18685
+    [creation_date] => 2026-03-30 02:05:29
+    [execution_time] => 1774836389
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:08:22+00:00 - Array
+(
+    [action_id] => 18689
+    [creation_date] => 2026-03-30 02:07:15
+    [execution_time] => 1774836495
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:09:22+00:00 - Array
+(
+    [action_id] => 18693
+    [creation_date] => 2026-03-30 02:08:22
+    [execution_time] => 1774836562
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:10:25+00:00 - Array
+(
+    [action_id] => 18697
+    [creation_date] => 2026-03-30 02:09:22
+    [execution_time] => 1774836622
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:12:16+00:00 - Array
+(
+    [action_id] => 18701
+    [creation_date] => 2026-03-30 02:10:25
+    [execution_time] => 1774836685
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:13:25+00:00 - Array
+(
+    [action_id] => 18705
+    [creation_date] => 2026-03-30 02:12:16
+    [execution_time] => 1774836796
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:15:27+00:00 - Array
+(
+    [action_id] => 18709
+    [creation_date] => 2026-03-30 02:13:25
+    [execution_time] => 1774836865
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:17:28+00:00 - Array
+(
+    [action_id] => 18713
+    [creation_date] => 2026-03-30 02:15:27
+    [execution_time] => 1774836987
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:19:28+00:00 - Array
+(
+    [action_id] => 18717
+    [creation_date] => 2026-03-30 02:17:28
+    [execution_time] => 1774837108
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:20:28+00:00 - Array
+(
+    [action_id] => 18721
+    [creation_date] => 2026-03-30 02:19:28
+    [execution_time] => 1774837228
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:21:28+00:00 - Array
+(
+    [action_id] => 18725
+    [creation_date] => 2026-03-30 02:20:28
+    [execution_time] => 1774837288
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:22:28+00:00 - Array
+(
+    [action_id] => 18729
+    [creation_date] => 2026-03-30 02:21:28
+    [execution_time] => 1774837348
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:23:28+00:00 - Array
+(
+    [action_id] => 18733
+    [creation_date] => 2026-03-30 02:22:28
+    [execution_time] => 1774837408
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:24:28+00:00 - Array
+(
+    [action_id] => 18737
+    [creation_date] => 2026-03-30 02:23:28
+    [execution_time] => 1774837468
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:25:28+00:00 - Array
+(
+    [action_id] => 18741
+    [creation_date] => 2026-03-30 02:24:28
+    [execution_time] => 1774837528
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:26:32+00:00 - Array
+(
+    [action_id] => 18745
+    [creation_date] => 2026-03-30 02:25:28
+    [execution_time] => 1774837588
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:27:36+00:00 - Array
+(
+    [action_id] => 18749
+    [creation_date] => 2026-03-30 02:26:32
+    [execution_time] => 1774837652
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:30:42+00:00 - Array
+(
+    [action_id] => 18753
+    [creation_date] => 2026-03-30 02:27:36
+    [execution_time] => 1774837716
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:32:37+00:00 - Array
+(
+    [action_id] => 18757
+    [creation_date] => 2026-03-30 02:30:42
+    [execution_time] => 1774837902
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:33:37+00:00 - Array
+(
+    [action_id] => 18761
+    [creation_date] => 2026-03-30 02:32:37
+    [execution_time] => 1774838017
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:34:37+00:00 - Array
+(
+    [action_id] => 18765
+    [creation_date] => 2026-03-30 02:33:37
+    [execution_time] => 1774838077
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:35:38+00:00 - Array
+(
+    [action_id] => 18769
+    [creation_date] => 2026-03-30 02:34:37
+    [execution_time] => 1774838137
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:36:38+00:00 - Array
+(
+    [action_id] => 18773
+    [creation_date] => 2026-03-30 02:35:38
+    [execution_time] => 1774838198
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:37:39+00:00 - Array
+(
+    [action_id] => 18777
+    [creation_date] => 2026-03-30 02:36:38
+    [execution_time] => 1774838258
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:38:48+00:00 - Array
+(
+    [action_id] => 18781
+    [creation_date] => 2026-03-30 02:37:39
+    [execution_time] => 1774838319
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:41:05+00:00 - Array
+(
+    [action_id] => 18785
+    [creation_date] => 2026-03-30 02:38:48
+    [execution_time] => 1774838388
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:43:07+00:00 - Array
+(
+    [action_id] => 18789
+    [creation_date] => 2026-03-30 02:41:05
+    [execution_time] => 1774838525
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:47:08+00:00 - Array
+(
+    [action_id] => 18793
+    [creation_date] => 2026-03-30 02:43:07
+    [execution_time] => 1774838647
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:49:01+00:00 - Array
+(
+    [action_id] => 18797
+    [creation_date] => 2026-03-30 02:47:08
+    [execution_time] => 1774838888
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:50:35+00:00 - Array
+(
+    [action_id] => 18801
+    [creation_date] => 2026-03-30 02:49:01
+    [execution_time] => 1774839001
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:52:24+00:00 - Array
+(
+    [action_id] => 18805
+    [creation_date] => 2026-03-30 02:50:35
+    [execution_time] => 1774839095
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T02:59:25+00:00 - Array
+(
+    [action_id] => 18809
+    [creation_date] => 2026-03-30 02:52:24
+    [execution_time] => 1774839204
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T03:00:46+00:00 - Array
+(
+    [action_id] => 18813
+    [creation_date] => 2026-03-30 02:59:25
+    [execution_time] => 1774839625
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T03:02:24+00:00 - Array
+(
+    [action_id] => 18817
+    [creation_date] => 2026-03-30 03:00:46
+    [execution_time] => 1774839706
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T03:04:19+00:00 - Array
+(
+    [action_id] => 18821
+    [creation_date] => 2026-03-30 03:02:24
+    [execution_time] => 1774839804
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T03:05:23+00:00 - Array
+(
+    [action_id] => 18825
+    [creation_date] => 2026-03-30 03:04:19
+    [execution_time] => 1774839919
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T03:06:49+00:00 - Array
+(
+    [action_id] => 18829
+    [creation_date] => 2026-03-30 03:05:23
+    [execution_time] => 1774839983
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Creation of dynamic property WC_Gateway_iPay88::$url is deprecated
+            [file] => /home/alaware1/public_html/wp-content/plugins/woocommerce-gateway-ipay88/includes/class-wc-gateway-ipay88.php
+            [line] => 87
+        )
+
+)
+
+2026-03-30T03:08:25+00:00 - Array
+(
+    [action_id] => 18833
+    [creation_date] => 2026-03-30 03:06:49
+    [execution_time] => 1774840069
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:10:18+00:00 - Array
+(
+    [action_id] => 18837
+    [creation_date] => 2026-03-30 03:08:25
+    [execution_time] => 1774840165
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:11:21+00:00 - Array
+(
+    [action_id] => 18841
+    [creation_date] => 2026-03-30 03:10:18
+    [execution_time] => 1774840278
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:13:15+00:00 - Array
+(
+    [action_id] => 18845
+    [creation_date] => 2026-03-30 03:11:21
+    [execution_time] => 1774840341
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:15:14+00:00 - Array
+(
+    [action_id] => 18849
+    [creation_date] => 2026-03-30 03:13:15
+    [execution_time] => 1774840455
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:17:10+00:00 - Array
+(
+    [action_id] => 18853
+    [creation_date] => 2026-03-30 03:15:14
+    [execution_time] => 1774840574
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:18:15+00:00 - Array
+(
+    [action_id] => 18857
+    [creation_date] => 2026-03-30 03:17:10
+    [execution_time] => 1774840690
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:20:09+00:00 - Array
+(
+    [action_id] => 18861
+    [creation_date] => 2026-03-30 03:18:15
+    [execution_time] => 1774840755
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:21:16+00:00 - Array
+(
+    [action_id] => 18866
+    [creation_date] => 2026-03-30 03:20:09
+    [execution_time] => 1774840869
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:22:19+00:00 - Array
+(
+    [action_id] => 18870
+    [creation_date] => 2026-03-30 03:21:16
+    [execution_time] => 1774840936
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:23:20+00:00 - Array
+(
+    [action_id] => 18874
+    [creation_date] => 2026-03-30 03:22:19
+    [execution_time] => 1774840999
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:25:16+00:00 - Array
+(
+    [action_id] => 18878
+    [creation_date] => 2026-03-30 03:23:20
+    [execution_time] => 1774841060
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:26:17+00:00 - Array
+(
+    [action_id] => 18882
+    [creation_date] => 2026-03-30 03:25:16
+    [execution_time] => 1774841176
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:27:19+00:00 - Array
+(
+    [action_id] => 18886
+    [creation_date] => 2026-03-30 03:26:17
+    [execution_time] => 1774841237
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:30:19+00:00 - Array
+(
+    [action_id] => 18890
+    [creation_date] => 2026-03-30 03:27:19
+    [execution_time] => 1774841299
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:32:17+00:00 - Array
+(
+    [action_id] => 18894
+    [creation_date] => 2026-03-30 03:30:19
+    [execution_time] => 1774841479
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:34:00+00:00 - Array
+(
+    [action_id] => 18898
+    [creation_date] => 2026-03-30 03:32:17
+    [execution_time] => 1774841597
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:35:59+00:00 - Array
+(
+    [action_id] => 18902
+    [creation_date] => 2026-03-30 03:34:00
+    [execution_time] => 1774841700
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:37:23+00:00 - Array
+(
+    [action_id] => 18906
+    [creation_date] => 2026-03-30 03:35:59
+    [execution_time] => 1774841819
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:38:35+00:00 - Array
+(
+    [action_id] => 18910
+    [creation_date] => 2026-03-30 03:37:23
+    [execution_time] => 1774841903
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:40:17+00:00 - Array
+(
+    [action_id] => 18914
+    [creation_date] => 2026-03-30 03:38:35
+    [execution_time] => 1774841975
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:42:18+00:00 - Array
+(
+    [action_id] => 18918
+    [creation_date] => 2026-03-30 03:40:17
+    [execution_time] => 1774842077
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:44:27+00:00 - Array
+(
+    [action_id] => 18922
+    [creation_date] => 2026-03-30 03:42:18
+    [execution_time] => 1774842198
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:46:11+00:00 - Array
+(
+    [action_id] => 18926
+    [creation_date] => 2026-03-30 03:44:27
+    [execution_time] => 1774842327
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:47:16+00:00 - Array
+(
+    [action_id] => 18930
+    [creation_date] => 2026-03-30 03:46:11
+    [execution_time] => 1774842431
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:49:14+00:00 - Array
+(
+    [action_id] => 18934
+    [creation_date] => 2026-03-30 03:47:16
+    [execution_time] => 1774842496
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:50:50+00:00 - Array
+(
+    [action_id] => 18938
+    [creation_date] => 2026-03-30 03:49:14
+    [execution_time] => 1774842614
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:52:16+00:00 - Array
+(
+    [action_id] => 18942
+    [creation_date] => 2026-03-30 03:50:50
+    [execution_time] => 1774842710
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:53:30+00:00 - Array
+(
+    [action_id] => 18946
+    [creation_date] => 2026-03-30 03:52:16
+    [execution_time] => 1774842796
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:55:17+00:00 - Array
+(
+    [action_id] => 18950
+    [creation_date] => 2026-03-30 03:53:30
+    [execution_time] => 1774842870
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:56:22+00:00 - Array
+(
+    [action_id] => 18954
+    [creation_date] => 2026-03-30 03:55:17
+    [execution_time] => 1774842977
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:57:30+00:00 - Array
+(
+    [action_id] => 18958
+    [creation_date] => 2026-03-30 03:56:22
+    [execution_time] => 1774843042
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T03:58:41+00:00 - Array
+(
+    [action_id] => 18962
+    [creation_date] => 2026-03-30 03:57:30
+    [execution_time] => 1774843110
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T04:00:32+00:00 - Array
+(
+    [action_id] => 18966
+    [creation_date] => 2026-03-30 03:58:41
+    [execution_time] => 1774843181
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T04:02:09+00:00 - Array
+(
+    [action_id] => 18970
+    [creation_date] => 2026-03-30 04:00:32
+    [execution_time] => 1774843292
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T04:03:50+00:00 - Array
+(
+    [action_id] => 18974
+    [creation_date] => 2026-03-30 04:02:09
+    [execution_time] => 1774843389
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T04:05:44+00:00 - Array
+(
+    [action_id] => 18978
+    [creation_date] => 2026-03-30 04:03:50
+    [execution_time] => 1774843490
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T04:07:47+00:00 - Array
+(
+    [action_id] => 18982
+    [creation_date] => 2026-03-30 04:05:44
+    [execution_time] => 1774843604
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T04:09:48+00:00 - Array
+(
+    [action_id] => 18986
+    [creation_date] => 2026-03-30 04:07:47
+    [execution_time] => 1774843727
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T04:11:49+00:00 - Array
+(
+    [action_id] => 18990
+    [creation_date] => 2026-03-30 04:09:48
+    [execution_time] => 1774843848
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T04:51:16+00:00 - Array
+(
+    [action_id] => 18994
+    [creation_date] => 2026-03-30 04:11:49
+    [execution_time] => 1774843969
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:24:46+00:00 - Array
+(
+    [action_id] => 18998
+    [creation_date] => 2026-03-30 04:51:16
+    [execution_time] => 1774846336
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:26:46+00:00 - Array
+(
+    [action_id] => 19002
+    [creation_date] => 2026-03-30 05:24:46
+    [execution_time] => 1774848346
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:28:46+00:00 - Array
+(
+    [action_id] => 19006
+    [creation_date] => 2026-03-30 05:26:46
+    [execution_time] => 1774848466
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:32:44+00:00 - Array
+(
+    [action_id] => 19010
+    [creation_date] => 2026-03-30 05:28:46
+    [execution_time] => 1774848586
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:34:48+00:00 - Array
+(
+    [action_id] => 19014
+    [creation_date] => 2026-03-30 05:32:44
+    [execution_time] => 1774848824
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:36:46+00:00 - Array
+(
+    [action_id] => 19018
+    [creation_date] => 2026-03-30 05:34:48
+    [execution_time] => 1774848948
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:38:53+00:00 - Array
+(
+    [action_id] => 19022
+    [creation_date] => 2026-03-30 05:36:46
+    [execution_time] => 1774849066
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:41:57+00:00 - Array
+(
+    [action_id] => 19026
+    [creation_date] => 2026-03-30 05:38:53
+    [execution_time] => 1774849193
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:43:58+00:00 - Array
+(
+    [action_id] => 19030
+    [creation_date] => 2026-03-30 05:41:57
+    [execution_time] => 1774849377
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:48:01+00:00 - Array
+(
+    [action_id] => 19034
+    [creation_date] => 2026-03-30 05:43:58
+    [execution_time] => 1774849498
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T05:50:01+00:00 - Array
+(
+    [action_id] => 19038
+    [creation_date] => 2026-03-30 05:48:01
+    [execution_time] => 1774849741
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T06:03:25+00:00 - Array
+(
+    [action_id] => 19042
+    [creation_date] => 2026-03-30 05:50:01
+    [execution_time] => 1774849861
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T06:10:15+00:00 - Array
+(
+    [action_id] => 19046
+    [creation_date] => 2026-03-30 06:03:25
+    [execution_time] => 1774850665
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T07:42:14+00:00 - Array
+(
+    [action_id] => 19050
+    [creation_date] => 2026-03-30 06:10:15
+    [execution_time] => 1774851075
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T07:56:34+00:00 - Array
+(
+    [action_id] => 19054
+    [creation_date] => 2026-03-30 07:42:14
+    [execution_time] => 1774856594
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T08:10:22+00:00 - Array
+(
+    [action_id] => 19058
+    [creation_date] => 2026-03-30 07:56:34
+    [execution_time] => 1774857454
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T08:20:17+00:00 - Array
+(
+    [action_id] => 19062
+    [creation_date] => 2026-03-30 08:10:22
+    [execution_time] => 1774858282
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T08:56:24+00:00 - Array
+(
+    [action_id] => 19066
+    [creation_date] => 2026-03-30 08:20:17
+    [execution_time] => 1774858877
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T08:58:06+00:00 - Array
+(
+    [action_id] => 19070
+    [creation_date] => 2026-03-30 08:56:24
+    [execution_time] => 1774861044
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T09:15:06+00:00 - Array
+(
+    [action_id] => 19074
+    [creation_date] => 2026-03-30 08:58:06
+    [execution_time] => 1774861146
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T09:21:51+00:00 - Array
+(
+    [action_id] => 19078
+    [creation_date] => 2026-03-30 09:15:06
+    [execution_time] => 1774862166
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T09:28:01+00:00 - Array
+(
+    [action_id] => 19082
+    [creation_date] => 2026-03-30 09:21:51
+    [execution_time] => 1774862571
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T09:30:07+00:00 - Array
+(
+    [action_id] => 19086
+    [creation_date] => 2026-03-30 09:28:01
+    [execution_time] => 1774862941
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T09:46:16+00:00 - Array
+(
+    [action_id] => 19090
+    [creation_date] => 2026-03-30 09:30:07
+    [execution_time] => 1774863067
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T10:00:59+00:00 - Array
+(
+    [action_id] => 19094
+    [creation_date] => 2026-03-30 09:46:16
+    [execution_time] => 1774864036
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T11:38:52+00:00 - Array
+(
+    [action_id] => 19098
+    [creation_date] => 2026-03-30 10:00:59
+    [execution_time] => 1774864919
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T11:41:44+00:00 - Array
+(
+    [action_id] => 19102
+    [creation_date] => 2026-03-30 11:38:52
+    [execution_time] => 1774870792
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T11:42:50+00:00 - Array
+(
+    [action_id] => 19106
+    [creation_date] => 2026-03-30 11:41:44
+    [execution_time] => 1774870964
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T11:49:43+00:00 - Array
+(
+    [action_id] => 19110
+    [creation_date] => 2026-03-30 11:42:50
+    [execution_time] => 1774871030
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T11:50:55+00:00 - Array
+(
+    [action_id] => 19114
+    [creation_date] => 2026-03-30 11:49:43
+    [execution_time] => 1774871443
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T12:12:36+00:00 - Array
+(
+    [action_id] => 19118
+    [creation_date] => 2026-03-30 11:50:55
+    [execution_time] => 1774871515
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T12:32:29+00:00 - Array
+(
+    [action_id] => 19122
+    [creation_date] => 2026-03-30 12:12:36
+    [execution_time] => 1774872816
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T12:33:32+00:00 - Array
+(
+    [action_id] => 19126
+    [creation_date] => 2026-03-30 12:32:29
+    [execution_time] => 1774874009
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T12:40:43+00:00 - Array
+(
+    [action_id] => 19130
+    [creation_date] => 2026-03-30 12:33:32
+    [execution_time] => 1774874072
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T13:27:15+00:00 - Array
+(
+    [action_id] => 19134
+    [creation_date] => 2026-03-30 12:40:43
+    [execution_time] => 1774874503
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T13:34:11+00:00 - Array
+(
+    [action_id] => 19138
+    [creation_date] => 2026-03-30 13:27:15
+    [execution_time] => 1774877295
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T13:50:07+00:00 - Array
+(
+    [action_id] => 19142
+    [creation_date] => 2026-03-30 13:34:11
+    [execution_time] => 1774877711
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T14:15:14+00:00 - Array
+(
+    [action_id] => 19146
+    [creation_date] => 2026-03-30 13:50:07
+    [execution_time] => 1774878667
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T16:06:51+00:00 - Array
+(
+    [action_id] => 19150
+    [creation_date] => 2026-03-30 14:15:14
+    [execution_time] => 1774880174
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T22:54:39+00:00 - Array
+(
+    [action_id] => 19154
+    [creation_date] => 2026-03-30 16:06:51
+    [execution_time] => 1774886871
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-03-30T23:03:04+00:00 - Array
+(
+    [action_id] => 19158
+    [creation_date] => 2026-03-30 22:54:39
+    [execution_time] => 1774911339
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => /home/alaware1/public_html/wp-content/plugins/pro-elements/core/database/model-base.php
+            [line] => 66
+        )
+
+)
+

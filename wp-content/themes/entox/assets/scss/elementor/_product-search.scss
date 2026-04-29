@@ -1,0 +1,134 @@
+.ova-product-search {
+	&.ovabrw_wd_search {
+		.product-search-form {
+			.product-search-content {
+				display: grid;
+				grid-template-columns: 1fr 1fr 1fr;
+				grid-gap: 20px;
+				padding: 60px;
+				background-color: var(--primary);
+				border-radius: 4px;
+
+				&.column1 {
+					grid-template-columns: 1fr;
+				}
+
+				&.column2 {
+					grid-template-columns: 1fr 1fr;
+				}
+
+				&.column3 {
+					grid-template-columns: 1fr 1fr 1fr;
+				}
+
+				&.column4 {
+					grid-template-columns: 1fr 1fr 1fr 1fr;
+				}
+
+				.search-label, .label_search {
+					input[type="text"], select {
+						padding: 0 30px;
+						font-size: 16px;
+						font-weight: 400;
+						color: var(--text);
+						height: 75px;
+						border: none;
+
+						&::placeholder  {
+							color: var(--text);
+						}
+
+						&:focus {
+							color: var(--heading);
+						}
+					}
+
+					&.ova-pickup-date, &.ova-dropoff-date {
+						position: relative;
+
+						i.ova-calendar {
+							position: absolute;
+	    					right: 30px;
+						    top: 50%;
+						    transform: translateY(-50%);
+						}
+					}
+				}
+
+				.wrap_search_location {
+					position: relative;
+					cursor: pointer;
+
+					.locate_me {
+						position: absolute;
+    					right: 30px;
+					    top: 50%;
+					    transform: translateY(-50%);
+					}
+				}
+
+				.ovabrw-value-attribute{
+					display: none;
+					width: 100%;
+				}
+
+				.show_taxonomy {
+					display: none;
+				}
+
+				.product-search-submit {
+					.ovabrw_btn_submit {
+						width: 100%;
+						height: 75px;
+						font-size: 18px;
+						font-weight: bold;
+						line-height: 24px;
+						color: #FFFFFF;
+						background-color: var(--heading);
+						border: none;
+						-webkit-transition: all .3s ease;
+						-moz-transition: all .3s ease;
+						-o-transition: all .3s ease;
+						transition: all .3s ease;
+
+						&:hover {
+							color: var(--primary);
+							background-color: #FFFFFF;
+						}
+					}
+				}
+
+				@media screen and (max-width: 1200px) {
+					&.column4 {
+						grid-template-columns: 1fr 1fr 1fr;
+					}
+				}
+
+				@media screen and (max-width: 1024px) {
+					&.column3, &.column4 {
+						grid-template-columns: 1fr 1fr;
+					}
+				}
+
+				@media screen and (max-width: 768px) {
+					&.column2, &.column3, &.column4 {
+						grid-template-columns: 1fr;
+					}
+					padding: 30px;
+				}
+			}
+		}
+	}
+}
+
+.ui-menu {
+	.ui-menu-item {
+		&:hover {
+			background-color: unset;
+
+			.ui-menu-item-wrapper {
+				border: none;
+			}
+		}
+	}
+}

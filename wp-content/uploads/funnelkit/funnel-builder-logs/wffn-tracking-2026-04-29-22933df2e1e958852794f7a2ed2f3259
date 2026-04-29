@@ -1,0 +1,442 @@
+2026-04-29T04:08:36+00:00 - 127.0.0.1 [Tracking API] Sending tracking data: {
+    "timestamp": "2026-04-29 12:08:36",
+    "api_url": "https://track.funnelkit.com",
+    "data_size": "4198 bytes",
+    "data_keys": [
+        "url",
+        "email",
+        "locale",
+        "is_mu",
+        "wp",
+        "php",
+        "mysql",
+        "WooFunnels_version",
+        "theme_info",
+        "users_count",
+        "woocommerce",
+        "active_plugins",
+        "snapshot_generation_time"
+    ],
+    "api_action": "get_tracking_data",
+    "full_data": {
+        "url": "https://alawaresort.test",
+        "email": "admin@alawaresort.test",
+        "locale": "en_US",
+        "is_mu": "no",
+        "wp": "6.9.4",
+        "php": "8.4.20",
+        "mysql": "10.4.32",
+        "WooFunnels_version": "1.10.12.76",
+        "theme_info": {
+            "name": "entox",
+            "uri": "https://themeforest.net/user/ovatheme/portfolio",
+            "version": "1.2.7",
+            "author": "Ovatheme",
+            "author_uri": ""
+        },
+        "users_count": {
+            "total": 1,
+            "administrator": 1,
+            "none": 0
+        },
+        "woocommerce": {
+            "version": "10.5.3",
+            "country": "MY",
+            "currency": "MYR",
+            "calc_taxes": "no",
+            "guest_checkout": "yes",
+            "product_count": {
+                "total": "2",
+                "external": 0,
+                "grouped": 0,
+                "ovabrw_car_rental": 2,
+                "simple": 0,
+                "variable": 0
+            },
+            "order_count": {
+                "wc-pending": 0,
+                "wc-processing": 5,
+                "wc-on-hold": 0,
+                "wc-completed": 0,
+                "wc-cancelled": 1,
+                "wc-refunded": 0,
+                "wc-failed": 21,
+                "wc-closed": 2,
+                "wc-checkout-draft": 0
+            },
+            "gateways": [
+                "ipay88"
+            ]
+        },
+        "active_plugins": {
+            "alawa-hostplatform-sync/alawa-hostplatform-sync.php": {
+                "name": "Alawa HostPlatform Sync",
+                "version": "1.1.0",
+                "author": "Ejaj Mahmud"
+            },
+            "all-in-one-wp-migration-master/all-in-one-wp-migration.php": {
+                "name": "All-in-One WP Migration",
+                "version": "6.77",
+                "author": "ServMask"
+            },
+            "cart-for-woocommerce/plugin.php": {
+                "name": "FunnelKit Cart for WooCommerce",
+                "version": "1.9.1",
+                "author": "FunnelKit"
+            },
+            "elementor/elementor.php": {
+                "name": "Elementor",
+                "version": "3.35.6",
+                "author": "Elementor.com"
+            },
+            "elementskit-lite/elementskit-lite.php": {
+                "name": "ElementsKit Lite",
+                "version": "3.8.1",
+                "author": "Wpmet"
+            },
+            "envato-elements/envato-elements.php": {
+                "name": "Envato Elements",
+                "version": "2.0.16",
+                "author": "Envato"
+            },
+            "funnel-builder/funnel-builder.php": {
+                "name": "FunnelKit Funnel Builder",
+                "version": "3.12.0",
+                "author": "FunnelKit"
+            },
+            "funnelkit-stripe-woo-payment-gateway/funnelkit-stripe-woo-payment-gateway.php": {
+                "name": "FunnelKit Payment Gateway for Stripe WooCommerce",
+                "version": "1.12.2",
+                "author": "FunnelKit"
+            },
+            "hide-my-site/index.php": {
+                "name": "Hide My Site",
+                "version": "2.2",
+                "author": "Justin Saad"
+            },
+            "insert-headers-and-footers/ihaf.php": {
+                "name": "WPCode Lite",
+                "version": "2.3.4",
+                "author": "WPCode"
+            },
+            "jeg-elementor-kit/jeg-elementor-kit.php": {
+                "name": "Jeg Kit for Elementor",
+                "version": "3.0.3",
+                "author": "Jegtheme"
+            },
+            "litespeed-cache/litespeed-cache.php": {
+                "name": "LiteSpeed Cache",
+                "version": "7.8",
+                "author": "LiteSpeed Technologies"
+            },
+            "maintenance/maintenance.php": {
+                "name": "Maintenance",
+                "version": "4.20",
+                "author": "WebFactory Ltd"
+            },
+            "metform/metform.php": {
+                "name": "MetForm",
+                "version": "4.1.3",
+                "author": "Wpmet"
+            },
+            "ova-brw-wcfm/ova-brw-wcfm.php": {
+                "name": "BRW - WCFM Addon Plugin",
+                "version": "12.0.3",
+                "author": "Ovatheme"
+            },
+            "ova-brw/ova-brw.php": {
+                "name": "BRW - Booking & Rental Plugin",
+                "version": "12.4.3",
+                "author": "Ovatheme"
+            },
+            "ova-framework/ova-framework.php": {
+                "name": "OvaTheme Framework",
+                "version": "1.0.2",
+                "author": "Ovatheme"
+            },
+            "premium-addons-for-elementor/premium-addons-for-elementor.php": {
+                "name": "Premium Addons for Elementor",
+                "version": "4.11.69",
+                "author": "Leap13"
+            },
+            "pro-elements/pro-elements.php": {
+                "name": "PRO Elements",
+                "version": "3.35.0",
+                "author": "PROElements.org"
+            },
+            "softaculous-pro/softaculous-pro.php": {
+                "name": "SoftWP",
+                "version": "2.2.3",
+                "author": "Softaculous"
+            },
+            "wc-frontend-manager/wc_frontend_manager.php": {
+                "name": "WCFM - WooCommerce Frontend Manager",
+                "version": "6.7.25",
+                "author": "WC Lovers"
+            },
+            "wc-multivendor-marketplace/wc-multivendor-marketplace.php": {
+                "name": "WCFM - WooCommerce Multivendor Marketplace",
+                "version": "3.7.1",
+                "author": "WC Lovers"
+            },
+            "wc-multivendor-membership/wc-multivendor-membership.php": {
+                "name": "WCFM - WooCommerce Multivendor Membership",
+                "version": "2.11.9",
+                "author": "WC Lovers"
+            },
+            "widget-importer-exporter/widget-importer-exporter.php": {
+                "name": "Widget Importer & Exporter",
+                "version": "1.6.1",
+                "author": "ChurchThemes.com"
+            },
+            "woocommerce-gateway-ipay88/woocommerce-gateway-ipay88.php": {
+                "name": "WooCommerce iPay88 Payment Gateway",
+                "version": "",
+                "author": ""
+            },
+            "woocommerce/woocommerce.php": {
+                "name": "WooCommerce",
+                "version": "10.5.3",
+                "author": "Automattic"
+            },
+            "wordpress-seo/wp-seo.php": {
+                "name": "Yoast SEO",
+                "version": "27.1.1",
+                "author": "Team Yoast"
+            },
+            "wp-marketing-automations/wp-marketing-automations.php": {
+                "name": "FunnelKit Automations",
+                "version": "3.7.3",
+                "author": "FunnelKit"
+            },
+            "yith-woocommerce-wishlist/init.php": {
+                "name": "YITH WooCommerce Wishlist",
+                "version": "4.13.0",
+                "author": "YITH"
+            }
+        },
+        "snapshot_generation_time": 0.14207005500793457
+    }
+}
+2026-04-29T04:08:36+00:00 - 127.0.0.1 [Tracking API] Response: {"timestamp":"2026-04-29 12:08:36","status":"success","code":200,"body":""}
+2026-04-29T04:08:36+00:00 - 127.0.0.1 [Tracking API] Sending tracking data: {
+    "timestamp": "2026-04-29 12:08:36",
+    "api_url": "https://track.funnelkit.com",
+    "data_size": "4198 bytes",
+    "data_keys": [
+        "url",
+        "email",
+        "locale",
+        "is_mu",
+        "wp",
+        "php",
+        "mysql",
+        "WooFunnels_version",
+        "theme_info",
+        "users_count",
+        "woocommerce",
+        "active_plugins",
+        "snapshot_generation_time"
+    ],
+    "api_action": "get_tracking_data",
+    "full_data": {
+        "url": "https://alawaresort.test",
+        "email": "admin@alawaresort.test",
+        "locale": "en_US",
+        "is_mu": "no",
+        "wp": "6.9.4",
+        "php": "8.4.20",
+        "mysql": "10.4.32",
+        "WooFunnels_version": "1.10.12.76",
+        "theme_info": {
+            "name": "entox",
+            "uri": "https://themeforest.net/user/ovatheme/portfolio",
+            "version": "1.2.7",
+            "author": "Ovatheme",
+            "author_uri": ""
+        },
+        "users_count": {
+            "total": 1,
+            "administrator": 1,
+            "none": 0
+        },
+        "woocommerce": {
+            "version": "10.5.3",
+            "country": "MY",
+            "currency": "MYR",
+            "calc_taxes": "no",
+            "guest_checkout": "yes",
+            "product_count": {
+                "total": "2",
+                "external": 0,
+                "grouped": 0,
+                "ovabrw_car_rental": 2,
+                "simple": 0,
+                "variable": 0
+            },
+            "order_count": {
+                "wc-pending": 0,
+                "wc-processing": 5,
+                "wc-on-hold": 0,
+                "wc-completed": 0,
+                "wc-cancelled": 1,
+                "wc-refunded": 0,
+                "wc-failed": 21,
+                "wc-closed": 2,
+                "wc-checkout-draft": 0
+            },
+            "gateways": [
+                "ipay88"
+            ]
+        },
+        "active_plugins": {
+            "alawa-hostplatform-sync/alawa-hostplatform-sync.php": {
+                "name": "Alawa HostPlatform Sync",
+                "version": "1.1.0",
+                "author": "Ejaj Mahmud"
+            },
+            "all-in-one-wp-migration-master/all-in-one-wp-migration.php": {
+                "name": "All-in-One WP Migration",
+                "version": "6.77",
+                "author": "ServMask"
+            },
+            "cart-for-woocommerce/plugin.php": {
+                "name": "FunnelKit Cart for WooCommerce",
+                "version": "1.9.1",
+                "author": "FunnelKit"
+            },
+            "elementor/elementor.php": {
+                "name": "Elementor",
+                "version": "3.35.6",
+                "author": "Elementor.com"
+            },
+            "elementskit-lite/elementskit-lite.php": {
+                "name": "ElementsKit Lite",
+                "version": "3.8.1",
+                "author": "Wpmet"
+            },
+            "envato-elements/envato-elements.php": {
+                "name": "Envato Elements",
+                "version": "2.0.16",
+                "author": "Envato"
+            },
+            "funnel-builder/funnel-builder.php": {
+                "name": "FunnelKit Funnel Builder",
+                "version": "3.12.0",
+                "author": "FunnelKit"
+            },
+            "funnelkit-stripe-woo-payment-gateway/funnelkit-stripe-woo-payment-gateway.php": {
+                "name": "FunnelKit Payment Gateway for Stripe WooCommerce",
+                "version": "1.12.2",
+                "author": "FunnelKit"
+            },
+            "hide-my-site/index.php": {
+                "name": "Hide My Site",
+                "version": "2.2",
+                "author": "Justin Saad"
+            },
+            "insert-headers-and-footers/ihaf.php": {
+                "name": "WPCode Lite",
+                "version": "2.3.4",
+                "author": "WPCode"
+            },
+            "jeg-elementor-kit/jeg-elementor-kit.php": {
+                "name": "Jeg Kit for Elementor",
+                "version": "3.0.3",
+                "author": "Jegtheme"
+            },
+            "litespeed-cache/litespeed-cache.php": {
+                "name": "LiteSpeed Cache",
+                "version": "7.8",
+                "author": "LiteSpeed Technologies"
+            },
+            "maintenance/maintenance.php": {
+                "name": "Maintenance",
+                "version": "4.20",
+                "author": "WebFactory Ltd"
+            },
+            "metform/metform.php": {
+                "name": "MetForm",
+                "version": "4.1.3",
+                "author": "Wpmet"
+            },
+            "ova-brw-wcfm/ova-brw-wcfm.php": {
+                "name": "BRW - WCFM Addon Plugin",
+                "version": "12.0.3",
+                "author": "Ovatheme"
+            },
+            "ova-brw/ova-brw.php": {
+                "name": "BRW - Booking & Rental Plugin",
+                "version": "12.4.3",
+                "author": "Ovatheme"
+            },
+            "ova-framework/ova-framework.php": {
+                "name": "OvaTheme Framework",
+                "version": "1.0.2",
+                "author": "Ovatheme"
+            },
+            "premium-addons-for-elementor/premium-addons-for-elementor.php": {
+                "name": "Premium Addons for Elementor",
+                "version": "4.11.69",
+                "author": "Leap13"
+            },
+            "pro-elements/pro-elements.php": {
+                "name": "PRO Elements",
+                "version": "3.35.0",
+                "author": "PROElements.org"
+            },
+            "softaculous-pro/softaculous-pro.php": {
+                "name": "SoftWP",
+                "version": "2.2.3",
+                "author": "Softaculous"
+            },
+            "wc-frontend-manager/wc_frontend_manager.php": {
+                "name": "WCFM - WooCommerce Frontend Manager",
+                "version": "6.7.25",
+                "author": "WC Lovers"
+            },
+            "wc-multivendor-marketplace/wc-multivendor-marketplace.php": {
+                "name": "WCFM - WooCommerce Multivendor Marketplace",
+                "version": "3.7.1",
+                "author": "WC Lovers"
+            },
+            "wc-multivendor-membership/wc-multivendor-membership.php": {
+                "name": "WCFM - WooCommerce Multivendor Membership",
+                "version": "2.11.9",
+                "author": "WC Lovers"
+            },
+            "widget-importer-exporter/widget-importer-exporter.php": {
+                "name": "Widget Importer & Exporter",
+                "version": "1.6.1",
+                "author": "ChurchThemes.com"
+            },
+            "woocommerce-gateway-ipay88/woocommerce-gateway-ipay88.php": {
+                "name": "WooCommerce iPay88 Payment Gateway",
+                "version": "",
+                "author": ""
+            },
+            "woocommerce/woocommerce.php": {
+                "name": "WooCommerce",
+                "version": "10.5.3",
+                "author": "Automattic"
+            },
+            "wordpress-seo/wp-seo.php": {
+                "name": "Yoast SEO",
+                "version": "27.1.1",
+                "author": "Team Yoast"
+            },
+            "wp-marketing-automations/wp-marketing-automations.php": {
+                "name": "FunnelKit Automations",
+                "version": "3.7.3",
+                "author": "FunnelKit"
+            },
+            "yith-woocommerce-wishlist/init.php": {
+                "name": "YITH WooCommerce Wishlist",
+                "version": "4.13.0",
+                "author": "YITH"
+            }
+        },
+        "snapshot_generation_time": 0.14207005500793457
+    }
+}
+2026-04-29T04:08:36+00:00 - 127.0.0.1 [Tracking API] Response: {"timestamp":"2026-04-29 12:08:36","status":"success","code":200,"body":""}

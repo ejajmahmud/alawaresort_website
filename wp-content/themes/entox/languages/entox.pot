@@ -1,0 +1,3744 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: entox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-29 07:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: entox"
+
+#: elementor/widgets/featured-products.php:478
+#: elementor/widgets/featured-products.php:483
+msgid " /perday"
+msgstr ""
+
+#: elementor/widgets/featured-products.php:475
+msgid " /perhour"
+msgstr ""
+
+#: elementor/widgets/featured-products.php:481
+msgid " /perhour - "
+msgstr ""
+
+#: template-parts/parts/meta.php:18
+msgid " 0 Comments"
+msgstr ""
+
+#: elementor/widgets/blog.php:284
+msgid " 0 comments"
+msgstr ""
+
+#: template-parts/parts/meta.php:19
+msgid " 1 Comment"
+msgstr ""
+
+#: elementor/widgets/blog.php:285
+msgid " 1 comment"
+msgstr ""
+
+#: elementor/widgets/custom-taxonomy.php:154
+msgid " Properties"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:22
+msgid " Reviews"
+msgstr ""
+
+#: elementor/widgets/team.php:236
+msgid " Social Icons"
+msgstr ""
+
+#: elementor/widgets/list-check.php:225
+msgid " Sub Title"
+msgstr ""
+
+#: elementor/widgets/review.php:76
+msgid ""
+"\"Sed ullamcorper morbi tincidunt or massa eget egestas purus. Non nisi est "
+"sit amet facilisis magna etiam.\""
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:137
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/rental/price.php:58 woocommerce/single-product/loop/price.php:96
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: woocommerce/rental/price.php:60 woocommerce/single-product/loop/price.php:98
+#, php-format
+msgid "%s - %s"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:262
+msgid "-- Parent category --"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:364
+msgid "-- Parent taxonomy --"
+msgstr ""
+
+#: woocommerce/rental/price.php:70
+#: woocommerce/single-product/loop/price.php:108
+msgid "/"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:62
+#: elementor/widgets/pricing-tables.php:127
+#: elementor/widgets/pricing-tables.php:137
+msgid "/ Monthly"
+msgstr ""
+
+#: woocommerce/rental/price.php:42 woocommerce/rental/price.php:54
+#: woocommerce/single-product/loop/price.php:80
+#: woocommerce/single-product/loop/price.php:92
+msgid "/perday"
+msgstr ""
+
+#: woocommerce/rental/price.php:46 woocommerce/rental/price.php:50
+#: woocommerce/single-product/loop/price.php:84
+#: woocommerce/single-product/loop/price.php:88
+msgid "/perhour"
+msgstr ""
+
+#: woocommerce/rental/price.php:40 woocommerce/single-product/loop/price.php:78
+msgid "/pernight"
+msgstr ""
+
+#: elementor/widgets/card.php:47
+msgid "01"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:91
+#: elementor/widgets/pricing-tables.php:130
+msgid ""
+"1 Ad allowed | 7 Days per submission | 4 Free Images | No free videos | No "
+"free documents"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:140
+msgid ""
+"2 Ads allowed | 10 Days per submission | 3 Free Images | 1 Free Videos | 1 "
+"Free Documents"
+msgstr ""
+
+#: elementor/widgets/blog.php:84
+msgid "2 Columns"
+msgstr ""
+
+#: elementor/widgets/blog.php:85
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/widgets/blog.php:86
+msgid "4 Columns"
+msgstr ""
+
+#: 404.php:5
+msgid "404"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:125
+msgid "49"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:135
+msgid "89"
+msgstr ""
+
+#: woocommerce/single-product/loop/taxonomy.php:19
+msgid ":"
+msgstr ""
+
+#: inc/class-main.php:113
+msgctxt ": on or off"
+msgid "on"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:183
+#: elementor/widgets/pricing-tables.php:278
+#: elementor/widgets/pricing-tables.php:351
+#: elementor/widgets/pricing-tables.php:462
+#: elementor/widgets/pricing-tables.php:549
+#: elementor/widgets/pricing-tables.php:622
+#: elementor/widgets/pricing-tables.php:695
+#: elementor/widgets/pricing-tabs.php:190
+msgid "Active"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:838
+msgid "Active Hover"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:276 inc/class-customize-wcfm.php:379
+msgid "Add"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:178
+msgid "Add a review"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:345
+msgid "Add new"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:244
+msgid "Add new category"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Add Review"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:155
+msgid "Additional Options"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:105
+#: elementor/widgets/contact.php:77 elementor/widgets/contact.php:179
+#: elementor/widgets/contact-boxes.php:86
+#: elementor/widgets/contact-boxes.php:383
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:923
+msgid "Afghan afghani"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:382
+msgid "After"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:924
+msgid "Albanian lek"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:963
+msgid "Algerian dinar"
+msgstr ""
+
+#: elementor/widgets/card.php:115 elementor/widgets/product-search2.php:302
+#: elementor/widgets/heading.php:137 elementor/widgets/search-popup.php:238
+#: elementor/widgets/contact.php:87 elementor/widgets/pricing-tabs.php:83
+#: elementor/widgets/header-banner.php:286 elementor/widgets/logo.php:79
+#: elementor/widgets/social-icons.php:244
+#: elementor/widgets/contact-boxes.php:95 elementor/widgets/button.php:78
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/product-list.php:74
+#: elementor/widgets/custom-taxonomy.php:59
+#: elementor/widgets/product-slider.php:64
+msgid "All"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:927
+msgid "Angolan kwanza"
+msgstr ""
+
+#: inc/class-customize.php:511
+msgid "Archive"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:40
+msgid "Archive by date"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:45
+msgid "Archive by month"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:117
+msgid "Archive by tag"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:49
+msgid "Archive by year"
+msgstr ""
+
+#: inc/class-customize.php:660
+msgid "Archive Layout"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:928
+msgid "Argentine peso"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:925
+msgid "Armenian dram"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:123
+msgid "Articles posted by"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:930
+msgid "Aruban florin"
+msgstr ""
+
+#: elementor/widgets/product-list.php:126 elementor/widgets/blog.php:101
+#: elementor/widgets/product-categories3.php:71
+#: elementor/widgets/featured-products.php:84
+#: elementor/widgets/product-categories.php:56
+#: elementor/widgets/product-slider.php:116
+msgid "Ascending"
+msgstr ""
+
+#: woocommerce/single-product/loop/ask-question.php:35
+msgid "Ask a Question"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:929
+msgid "Australian dollar"
+msgstr ""
+
+#: elementor/widgets/review.php:142
+msgid "Author Name"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:223
+msgid "Auto"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:220
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:234
+msgid "Autoplay Speed"
+msgstr ""
+
+#: woocommerce/single-product/loop/calendar.php:84
+msgid "Available"
+msgstr ""
+
+#: woocommerce/single-product/booking-form/ajax-total.php:17
+msgid "Available: "
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#: woocommerce/single-product-reviews.php:231
+msgid "Average"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:1077
+msgid "Avtive Background"
+msgstr ""
+
+#: inc/class-woo.php:158 woocommerce/single-product/loop/image.php:30
+msgid "Awaiting product image"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:931
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: 404.php:16
+msgid "Back To Home"
+msgstr ""
+
+#: elementor/widgets/contact-boxes.php:151
+#: elementor/widgets/contact-boxes.php:272
+msgid "Backgorund"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:328
+#: elementor/widgets/product-search2.php:484
+#: elementor/widgets/product-search2.php:515
+#: elementor/widgets/pricing-tables.php:170
+#: elementor/widgets/pricing-tables.php:190
+#: elementor/widgets/pricing-tables.php:536
+#: elementor/widgets/pricing-tables.php:556
+#: elementor/widgets/pricing-tables.php:794
+#: elementor/widgets/pricing-tables.php:825
+#: elementor/widgets/pricing-tables.php:856
+#: elementor/widgets/product-list.php:191
+#: elementor/widgets/product-list.php:263
+#: elementor/widgets/product-list.php:481
+#: elementor/widgets/product-list.php:615
+#: elementor/widgets/product-list.php:668 elementor/widgets/image-list.php:174
+#: elementor/widgets/image-list.php:194 elementor/widgets/search-popup.php:274
+#: elementor/widgets/search-popup.php:294
+#: elementor/widgets/search-popup.php:372
+#: elementor/widgets/search-popup.php:403
+#: elementor/widgets/pricing-tabs.php:146
+#: elementor/widgets/pricing-tabs.php:177
+#: elementor/widgets/pricing-tabs.php:208
+#: elementor/widgets/product-categories3.php:207
+#: elementor/widgets/product-search.php:444
+#: elementor/widgets/product-search.php:623
+#: elementor/widgets/product-search.php:654
+#: elementor/widgets/custom-taxonomy.php:247
+#: elementor/widgets/custom-taxonomy.php:410
+#: elementor/widgets/custom-taxonomy.php:441 elementor/widgets/menu-nav.php:142
+#: elementor/widgets/featured-products.php:204
+#: elementor/widgets/featured-products.php:253
+#: elementor/widgets/product-categories.php:268
+#: elementor/widgets/product-categories.php:299
+#: elementor/widgets/product-slider.php:336
+#: elementor/widgets/product-slider.php:408
+#: elementor/widgets/product-slider.php:626
+#: elementor/widgets/product-slider.php:761
+#: elementor/widgets/product-slider.php:814
+#: elementor/widgets/product-slider.php:919
+#: elementor/widgets/product-slider.php:950
+#: elementor/widgets/product-slider.php:1066 elementor/widgets/button.php:147
+#: elementor/widgets/button.php:178
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/card.php:185 elementor/widgets/team.php:272
+#: elementor/widgets/team.php:358 elementor/widgets/list-check.php:156
+#: elementor/widgets/blog.php:143
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:120
+msgid "Background Cover Color"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:155
+msgid "Background Item Hover"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:942
+msgid "Bahamian dollar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:936
+msgid "Bahraini dinar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:934
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:933
+msgid "Barbadian dollar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:138
+#: elementor/widgets/pricing-tabs.php:73
+msgid "Basic Package"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:139
+#: elementor/widgets/pricing-tabs.php:74
+msgid "basic-package"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:178
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:378
+msgid "Before"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:947
+msgid "Belarusian ruble"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:946
+msgid "Belarusian ruble (old)"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:948
+msgid "Belize dollar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:938
+msgid "Bermudian dollar"
+msgstr ""
+
+#: elementor/widgets/list-check.php:88
+msgid "Best Car Rental Services"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:944
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:943
+msgid "Bitcoin"
+msgstr ""
+
+#: inc/class-customize.php:506 elementor/widgets/blog.php:18
+#: template-parts/parts/breadcrumbs_title.php:13
+#: template-parts/parts/breadcrumbs.php:127
+msgid "Blog"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1074
+msgid "Bol&iacute;var soberano"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:940
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: woocommerce/single-product/booking-form.php:36
+msgid "Book Now"
+msgstr ""
+
+#: elementor/widgets/heading.php:109
+msgid ""
+"Book online. We’ll provide you with a trusted, excellent services most "
+"accurate and fair-price service Estimate."
+msgstr ""
+
+#: woocommerce/single-product/forms-tab.php:16
+#: woocommerce/single-product/forms-tab.php:25
+msgid "Booking"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:340
+#: elementor/widgets/product-search2.php:530
+#: elementor/widgets/pricing-tables.php:205
+#: elementor/widgets/pricing-tables.php:717
+#: elementor/widgets/pricing-tables.php:871
+#: elementor/widgets/product-list.php:212
+#: elementor/widgets/product-list.php:287
+#: elementor/widgets/product-list.php:516 elementor/widgets/image-list.php:209
+#: elementor/widgets/search-popup.php:318
+#: elementor/widgets/search-popup.php:430
+#: elementor/widgets/pricing-tabs.php:223
+#: elementor/widgets/product-categories3.php:217
+#: elementor/widgets/product-search.php:456
+#: elementor/widgets/custom-taxonomy.php:259
+#: elementor/widgets/custom-taxonomy.php:456
+#: elementor/widgets/featured-products.php:277
+#: elementor/widgets/contact-boxes.php:213
+#: elementor/widgets/contact-boxes.php:284
+#: elementor/widgets/product-categories.php:160
+#: elementor/widgets/product-slider.php:357
+#: elementor/widgets/product-slider.php:432
+#: elementor/widgets/product-slider.php:661 elementor/widgets/button.php:193
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:193
+#: elementor/widgets/social-icons.php:479
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:438 elementor/widgets/button.php:201
+msgid "Border Color Hover"
+msgstr ""
+
+#: elementor/widgets/card.php:197 elementor/widgets/team.php:308
+#: elementor/widgets/product-search2.php:349
+#: elementor/widgets/product-search2.php:539
+#: elementor/widgets/pricing-tables.php:214
+#: elementor/widgets/pricing-tables.php:880
+#: elementor/widgets/product-list.php:221
+#: elementor/widgets/product-list.php:296
+#: elementor/widgets/product-list.php:534
+#: elementor/widgets/product-list.php:555 elementor/widgets/image-list.php:218
+#: elementor/widgets/menu-page.php:121 elementor/widgets/search-popup.php:326
+#: elementor/widgets/search-popup.php:449
+#: elementor/widgets/social-icons.php:426
+#: elementor/widgets/product-categories3.php:226
+#: elementor/widgets/product-search.php:465
+#: elementor/widgets/custom-taxonomy.php:268
+#: elementor/widgets/custom-taxonomy.php:465
+#: elementor/widgets/featured-products.php:286
+#: elementor/widgets/contact-boxes.php:222
+#: elementor/widgets/contact-boxes.php:293
+#: elementor/widgets/product-categories.php:169
+#: elementor/widgets/product-slider.php:366
+#: elementor/widgets/product-slider.php:441
+#: elementor/widgets/product-slider.php:679
+#: elementor/widgets/product-slider.php:700 elementor/widgets/button.php:212
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/pricing-tabs.php:232
+msgid "Border Radius (First)"
+msgstr ""
+
+#: elementor/widgets/pricing-tabs.php:244
+msgid "Border Radius (Last)"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:152
+msgid "Border Style"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:172
+msgid "Border Width"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:932
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:945
+msgid "Botswana pula"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:397
+#: elementor/widgets/product-categories3.php:336
+#: elementor/widgets/custom-taxonomy.php:618
+msgid "Bottom"
+msgstr ""
+
+#: elementor/widgets/product-list.php:203 elementor/widgets/image-list.php:255
+#: elementor/widgets/contact-boxes.php:330
+#: elementor/widgets/product-slider.php:348
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/class-hook.php:327
+msgid "Boxed"
+msgstr ""
+
+#: inc/class-customize.php:436
+msgid "Boxed Offset (px)"
+msgstr ""
+
+#: elementor/widgets/contact-boxes.php:237
+msgid "Boxes"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:941
+msgid "Brazilian real"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:16 elementor/widgets/breadcrumbs.php:32
+#: elementor/widgets/breadcrumbs.php:56
+msgid "Breadcrumbs"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:222
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:241
+msgid "Breadcrumbs Color hover"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:270
+msgid "Breadcrumbs Padding"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:260
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: woocommerce/single-product/loop/related.php:10
+msgid "Browse Hot Offers"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:939
+msgid "Brunei dollar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:935
+msgid "Bulgarian lev"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1015
+msgid "Burmese kyat"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:937
+msgid "Burundian franc"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:446
+#: elementor/widgets/menu-canvas.php:98
+#: elementor/widgets/pricing-tables.php:759
+#: elementor/widgets/search-popup.php:353
+#: elementor/widgets/product-search.php:585 elementor/widgets/button.php:34
+#: elementor/widgets/button.php:117
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/button.php:18
+msgid "Button Ad"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:101
+#: elementor/widgets/pricing-tables.php:131
+#: elementor/widgets/pricing-tables.php:141
+msgid "Buy Package"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:998
+msgid "Cambodian riel"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:949
+msgid "Canadian dollar"
+msgstr ""
+
+#: woocommerce/single-product/loop/policies.php:44
+msgid "Cancellation"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:958
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:220 inc/class-customize-wcfm.php:224
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:52 elementor/widgets/blog.php:61
+#: elementor/widgets/product-search.php:68
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/image-list.php:18
+msgid "Category Icon"
+msgstr ""
+
+#: elementor/widgets/product-list.php:135
+#: elementor/widgets/product-categories3.php:92
+#: elementor/widgets/featured-products.php:93
+#: elementor/widgets/product-categories.php:77
+#: elementor/widgets/product-slider.php:125
+msgid "Category In"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:252
+msgid "Category Name"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:260
+#: elementor/widgets/product-list.php:144
+#: elementor/widgets/product-categories3.php:101
+#: elementor/widgets/product-search.php:383
+#: elementor/widgets/featured-products.php:102
+#: elementor/widgets/product-categories.php:86
+#: elementor/widgets/product-slider.php:134
+msgid "Category Not In"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:79
+#: elementor/widgets/product-categories.php:64
+msgid "Category Order By"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:114
+#: elementor/widgets/product-categories.php:99
+msgid "Category Page"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1003
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: elementor/widgets/card.php:123 elementor/widgets/product-search2.php:310
+#: elementor/widgets/heading.php:145 elementor/widgets/search-popup.php:247
+#: elementor/widgets/contact.php:95 elementor/widgets/pricing-tabs.php:91
+#: elementor/widgets/header-banner.php:294 elementor/widgets/logo.php:87
+#: elementor/widgets/social-icons.php:252
+#: elementor/widgets/contact-boxes.php:103 elementor/widgets/button.php:86
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1078
+msgid "Central African CFA franc"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1081
+msgid "CFP franc"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:952
+msgid "Chilean peso"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:953
+msgid "Chinese yuan"
+msgstr ""
+
+#: elementor/widgets/team.php:46 elementor/widgets/image-list.php:62
+#: elementor/widgets/custom-taxonomy.php:173
+msgid "Choose Image"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:176
+msgid "Choose Title Format"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:210
+msgid "Circle"
+msgstr ""
+
+#: elementor/widgets/review.php:56
+msgid "Citizen Of Omina"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:314
+msgid "Class"
+msgstr ""
+
+#: elementor/widgets/team.php:83 elementor/widgets/list-check.php:47
+#: elementor/widgets/contact-boxes.php:40
+msgid "Class Icon"
+msgstr ""
+
+#: elementor/widgets/contact.php:113
+msgid "Class icon"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:954
+msgid "Colombian peso"
+msgstr ""
+
+#: inc/class-customize.php:250 elementor/widgets/card.php:269
+#: elementor/widgets/team.php:348 elementor/widgets/product-search2.php:403
+#: elementor/widgets/product-search2.php:428
+#: elementor/widgets/product-search2.php:473
+#: elementor/widgets/product-search2.php:504
+#: elementor/widgets/pricing-tables.php:265
+#: elementor/widgets/pricing-tables.php:285
+#: elementor/widgets/pricing-tables.php:338
+#: elementor/widgets/pricing-tables.php:358
+#: elementor/widgets/pricing-tables.php:449
+#: elementor/widgets/pricing-tables.php:469
+#: elementor/widgets/pricing-tables.php:609
+#: elementor/widgets/pricing-tables.php:629
+#: elementor/widgets/pricing-tables.php:682
+#: elementor/widgets/pricing-tables.php:702
+#: elementor/widgets/pricing-tables.php:783
+#: elementor/widgets/pricing-tables.php:814
+#: elementor/widgets/pricing-tables.php:845
+#: elementor/widgets/product-list.php:274
+#: elementor/widgets/product-list.php:374
+#: elementor/widgets/product-list.php:394
+#: elementor/widgets/product-list.php:492
+#: elementor/widgets/product-list.php:626
+#: elementor/widgets/product-list.php:679 elementor/widgets/breadcrumbs.php:114
+#: elementor/widgets/breadcrumbs.php:134 elementor/widgets/breadcrumbs.php:154
+#: elementor/widgets/breadcrumbs.php:198 elementor/widgets/heading.php:292
+#: elementor/widgets/search-popup.php:306
+#: elementor/widgets/search-popup.php:383
+#: elementor/widgets/search-popup.php:414 elementor/widgets/contact.php:153
+#: elementor/widgets/contact.php:195 elementor/widgets/pricing-tabs.php:135
+#: elementor/widgets/pricing-tabs.php:166
+#: elementor/widgets/pricing-tabs.php:197
+#: elementor/widgets/social-icons.php:132
+#: elementor/widgets/social-icons.php:298 elementor/widgets/blog.php:131
+#: elementor/widgets/product-categories3.php:279
+#: elementor/widgets/product-search.php:542
+#: elementor/widgets/product-search.php:567
+#: elementor/widgets/product-search.php:612
+#: elementor/widgets/product-search.php:643
+#: elementor/widgets/custom-taxonomy.php:399
+#: elementor/widgets/custom-taxonomy.php:430
+#: elementor/widgets/custom-taxonomy.php:561
+#: elementor/widgets/featured-products.php:192
+#: elementor/widgets/featured-products.php:222
+#: elementor/widgets/featured-products.php:340
+#: elementor/widgets/featured-products.php:368
+#: elementor/widgets/contact-boxes.php:140
+#: elementor/widgets/contact-boxes.php:357
+#: elementor/widgets/contact-boxes.php:408
+#: elementor/widgets/contact-boxes.php:429
+#: elementor/widgets/product-categories.php:257
+#: elementor/widgets/product-categories.php:288
+#: elementor/widgets/product-categories.php:343
+#: elementor/widgets/product-slider.php:419
+#: elementor/widgets/product-slider.php:519
+#: elementor/widgets/product-slider.php:539
+#: elementor/widgets/product-slider.php:637
+#: elementor/widgets/product-slider.php:772
+#: elementor/widgets/product-slider.php:825
+#: elementor/widgets/product-slider.php:908
+#: elementor/widgets/product-slider.php:939 elementor/widgets/button.php:136
+#: elementor/widgets/button.php:167
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/card.php:162 elementor/widgets/card.php:228
+#: elementor/widgets/team.php:169 elementor/widgets/team.php:210
+#: elementor/widgets/team.php:261 elementor/widgets/heading.php:209
+#: elementor/widgets/heading.php:251 elementor/widgets/list-check.php:146
+#: elementor/widgets/list-check.php:199 elementor/widgets/list-check.php:241
+msgid "Color "
+msgstr ""
+
+#: elementor/widgets/review.php:158
+msgid "Color Author"
+msgstr ""
+
+#: elementor/widgets/heading.php:190
+msgid "Color Before Sub Title"
+msgstr ""
+
+#: elementor/widgets/review.php:102
+msgid "Color description"
+msgstr ""
+
+#: elementor/widgets/contact.php:208
+msgid "Color hover"
+msgstr ""
+
+#: elementor/widgets/menu-page.php:156
+msgid "Color icon"
+msgstr ""
+
+#: elementor/widgets/review.php:214
+msgid "Color Job"
+msgstr ""
+
+#: elementor/widgets/blog.php:177
+msgid "Color Title"
+msgstr ""
+
+#: elementor/widgets/blog.php:188
+msgid "Color Title Hover"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:40
+#: elementor/widgets/product-search.php:52
+msgid "Column"
+msgstr ""
+
+#: elementor/widgets/product-list.php:59
+#: elementor/widgets/product-categories3.php:44
+#: elementor/widgets/product-search.php:57
+msgid "Column 1"
+msgstr ""
+
+#: elementor/widgets/product-list.php:60
+#: elementor/widgets/product-categories3.php:45
+#: elementor/widgets/product-search.php:58
+msgid "Column 2"
+msgstr ""
+
+#: elementor/widgets/product-list.php:61
+#: elementor/widgets/product-categories3.php:46
+#: elementor/widgets/product-search.php:59
+msgid "Column 3"
+msgstr ""
+
+#: elementor/widgets/product-list.php:62
+#: elementor/widgets/product-categories3.php:47
+#: elementor/widgets/product-search.php:60
+msgid "Column 4"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:48
+msgid "Column 5"
+msgstr ""
+
+#: elementor/widgets/product-list.php:55 elementor/widgets/social-icons.php:219
+msgid "Columns"
+msgstr ""
+
+#: template-parts/parts/meta.php:22
+msgid "Comment off"
+msgstr ""
+
+#: elementor/widgets/blog.php:288
+msgid "comment off"
+msgstr ""
+
+#: template-parts/parts/meta.php:20
+msgid "Comments"
+msgstr ""
+
+#: elementor/widgets/blog.php:286
+msgid "comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments
+#: comments.php:16
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:12
+msgctxt "comments title"
+msgid "One Comment"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:999
+msgid "Comorian franc"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:950
+msgid "Congolese franc"
+msgstr ""
+
+#: elementor/widgets/contact.php:18
+msgid "Contact"
+msgstr ""
+
+#: elementor/widgets/contact-boxes.php:17
+msgid "Contact Boxes"
+msgstr ""
+
+#: install-resource/active-plugins.php:36
+msgid "Contact Form 7"
+msgstr ""
+
+#: elementor/widgets/contact.php:79
+msgid "contact@domain.com"
+msgstr ""
+
+#: inc/class-customize.php:365
+msgid "Container (px)"
+msgstr ""
+
+#: elementor/widgets/card.php:37 elementor/widgets/team.php:39
+#: elementor/widgets/product-search2.php:45
+#: elementor/widgets/product-search2.php:271
+#: elementor/widgets/pricing-tables.php:32
+#: elementor/widgets/pricing-tables.php:154
+#: elementor/widgets/product-list.php:37 elementor/widgets/product-list.php:156
+#: elementor/widgets/review.php:38 elementor/widgets/heading.php:37
+#: elementor/widgets/image-list.php:34 elementor/widgets/image-list.php:136
+#: elementor/widgets/contact.php:39 elementor/widgets/pricing-tabs.php:36
+#: elementor/widgets/pricing-tabs.php:111 elementor/widgets/list-check.php:36
+#: elementor/widgets/header-banner.php:92 elementor/widgets/blog.php:54
+#: elementor/widgets/product-categories3.php:33
+#: elementor/widgets/product-categories3.php:166
+#: elementor/widgets/product-search.php:45
+#: elementor/widgets/product-search.php:394
+#: elementor/widgets/custom-taxonomy.php:32
+#: elementor/widgets/featured-products.php:39
+#: elementor/widgets/featured-products.php:133
+#: elementor/widgets/contact-boxes.php:33
+#: elementor/widgets/product-categories.php:34
+#: elementor/widgets/product-categories.php:151
+#: elementor/widgets/product-slider.php:42
+#: elementor/widgets/product-slider.php:305
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:955
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: elementor/widgets/custom-taxonomy.php:372
+#: elementor/widgets/product-categories.php:230
+msgid "Count"
+msgstr ""
+
+#: elementor/widgets/product-list.php:452
+#: elementor/widgets/product-slider.php:597
+msgid "Count Color"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:981
+msgid "Croatian kuna"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:956
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:957
+msgid "Cuban peso"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:50
+#: elementor/widgets/pricing-tables.php:314
+msgid "Currency"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:372
+msgid "Currency Position"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:137
+#: elementor/widgets/social-icons.php:303 elementor/widgets/button.php:46
+msgid "Custom"
+msgstr ""
+
+#: inc/class-customize.php:204 inc/class-customize.php:216
+#: inc/class-customize.php:233
+msgid "Custom Font"
+msgstr ""
+
+#: elementor/widgets/custom-taxonomy.php:189
+#: elementor/widgets/custom-taxonomy.php:212
+msgid "Custom Link"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:116
+#: elementor/widgets/product-categories.php:101
+msgid "Custom Page"
+msgstr ""
+
+#: elementor/widgets/custom-taxonomy.php:16
+msgid "Custom Taxonomy"
+msgstr ""
+
+#: elementor/widgets/logo.php:52
+msgid "Custom URL"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:959
+msgid "Czech koruna"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:961
+msgid "Danish krone"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:157
+msgid "Dashed"
+msgstr ""
+
+#: elementor/widgets/product-list.php:114
+#: elementor/widgets/featured-products.php:72
+#: elementor/widgets/product-slider.php:104
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/product-list.php:337
+#: elementor/widgets/product-slider.php:482
+msgid "Day Color"
+msgstr ""
+
+#: elementor/widgets/product-list.php:320
+#: elementor/widgets/product-slider.php:465
+msgid "Day Options"
+msgstr ""
+
+#: inc/class-hook.php:156 inc/class-hook.php:186 inc/class-customize.php:531
+#: elementor/widgets/product-search2.php:132
+#: elementor/widgets/image-list.php:77 elementor/widgets/search-popup.php:58
+#: elementor/widgets/product-search.php:237 elementor/widgets/button.php:45
+msgid "Default"
+msgstr ""
+
+#: woocommerce/single-product/booking-form/deposit.php:22
+msgid "Deposit Option"
+msgstr ""
+
+#: elementor/widgets/product-list.php:127 elementor/widgets/blog.php:102
+#: elementor/widgets/product-categories3.php:70
+#: elementor/widgets/featured-products.php:85
+#: elementor/widgets/product-categories.php:55
+#: elementor/widgets/product-slider.php:117
+msgid "Descending"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:429 elementor/widgets/card.php:84
+#: elementor/widgets/card.php:253 elementor/widgets/heading.php:106
+#: elementor/widgets/heading.php:276
+#: woocommerce/single-product/loop/content.php:4
+#: woocommerce/single-product/loop/description.php:19
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/review.php:74 elementor/widgets/review.php:86
+msgid "Description "
+msgstr ""
+
+#: template-parts/footer-default.php:4
+msgid "Design and Develop by Ovatheme"
+msgstr ""
+
+#: elementor/widgets/logo.php:108
+msgid "Desktop Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:152
+msgid "Desktop Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:132
+msgid "Desktop Logo Width"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:109
+msgid "Display Background by Feature Image in Post/Page"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:100
+msgid "Display Boxed Content"
+msgstr ""
+
+#: elementor/widgets/team.php:296
+msgid "Distance between icons"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:185
+msgid "DIV"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:960
+msgid "Djiboutian franc"
+msgstr ""
+
+#: elementor/widgets/contact.php:53 elementor/widgets/contact-boxes.php:64
+msgid "Domain"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:962
+msgid "Dominican peso"
+msgstr ""
+
+#: elementor/widgets/review.php:47
+msgid "Donald Salvor"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:1058
+msgid "Dot"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:158
+msgid "Dotted"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:159
+msgid "Double"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:110
+msgid "Downloadable"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:207
+#: elementor/widgets/product-search2.php:57
+#: elementor/widgets/product-search2.php:226
+#: elementor/widgets/product-search2.php:587
+#: elementor/widgets/search-popup.php:550
+#: elementor/widgets/product-search.php:73
+#: elementor/widgets/product-search.php:331
+#: elementor/widgets/product-search.php:693
+#: woocommerce/single-product/booking-form/fields.php:88
+#: woocommerce/single-product/booking-form/fields.php:94
+#: woocommerce/single-product/booking-form/fields.php:96
+#: woocommerce/single-product/booking-form/fields.php:103
+msgid "Drop-off Date"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:143
+#: elementor/widgets/product-search2.php:55
+#: elementor/widgets/product-search2.php:208
+#: elementor/widgets/product-search2.php:585
+#: elementor/widgets/product-search.php:71
+#: elementor/widgets/product-search.php:313
+#: elementor/widgets/product-search.php:691
+#: woocommerce/single-product/booking-form/fields.php:74
+msgid "Drop-off Location"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1079
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: template-parts/parts/comment.php:50
+msgid "Edit"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:964
+msgid "Egyptian pound"
+msgstr ""
+
+#: install-resource/active-plugins.php:31
+msgid "Elementor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:198
+#: woocommerce/single-product/request-booking.php:88
+#: elementor/widgets/contact.php:51 elementor/widgets/contact-boxes.php:62
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/single-product/discount/day.php:21
+#: woocommerce/single-product/discount/hour.php:21
+#: woocommerce/single-product/discount/period.php:15
+#: woocommerce/single-product/discount/period.php:31
+msgid "End Time"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:94
+#: elementor/widgets/product-categories3.php:103
+#: elementor/widgets/product-categories.php:79
+#: elementor/widgets/product-categories.php:88
+msgid ""
+"Enter the category ID of Case Study. IDs are separated by \"|\". Ex: 1|2|3."
+msgstr ""
+
+#: elementor/widgets/product-search2.php:262
+#: elementor/widgets/product-list.php:137
+#: elementor/widgets/product-list.php:146
+#: elementor/widgets/product-search.php:385
+#: elementor/widgets/featured-products.php:95
+#: elementor/widgets/featured-products.php:104
+#: elementor/widgets/product-slider.php:127
+#: elementor/widgets/product-slider.php:136
+msgid "Enter the product category IDs. IDs are separated by \"|\". Ex: 1|2|3."
+msgstr ""
+
+#: elementor/widgets/team.php:73
+msgid "Enter your job"
+msgstr ""
+
+#: elementor/widgets/team.php:63
+msgid "Enter your name"
+msgstr ""
+
+#: inc/class-elementor.php:33
+msgid "Entox"
+msgstr ""
+
+#. Name of the theme
+msgid "entox"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Entox is a modernized take on an ever-popular WordPress. It has custom color "
+"options with beautiful default color schemes, a harmonious fluid grid using "
+"a mobile-first approach, and impeccable polish in every detail. Entox will "
+"make your WordPress look beautiful everywhere. Created by <a href=\"https:"
+"//themeforest.net/user/ovatheme\">Ovatheme</a>"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:965
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:966
+msgid "Ethiopian birr"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:967
+msgid "Euro"
+msgstr ""
+
+#: inc/class-customize.php:146
+msgid "Example: 0px, 0.5em"
+msgstr ""
+
+#: inc/class-customize.php:107
+msgid "Example: 16px, 1.2em"
+msgstr ""
+
+#: inc/class-customize.php:126
+msgid "Example: 23px, 1.6em"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:253
+#: elementor/widgets/product-search.php:376
+msgid "Exclude"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:85
+msgid "External/Affiliate Product"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:368
+msgid "Extra Information"
+msgstr ""
+
+#: elementor/widgets/team.php:129
+msgid "fa fa-facebook-square"
+msgstr ""
+
+#: elementor/widgets/team.php:139
+msgid "fa fa-instagram"
+msgstr ""
+
+#: elementor/widgets/team.php:134
+msgid "fa fa-pinterest-p"
+msgstr ""
+
+#: elementor/widgets/team.php:85 elementor/widgets/team.php:124
+msgid "fa fa-twitter"
+msgstr ""
+
+#: elementor/widgets/team.php:128
+msgid "Facebook"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:969
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: elementor/widgets/contact-boxes.php:42
+msgid "fas fa-envelope"
+msgstr ""
+
+#: elementor/widgets/product-list.php:569
+#: elementor/widgets/product-slider.php:714
+msgid "Favourite"
+msgstr ""
+
+#: woocommerce/rental/featured.php:13
+msgid "Featured"
+msgstr ""
+
+#: elementor/widgets/featured-products.php:21
+msgid "Featured Products"
+msgstr ""
+
+#: elementor/widgets/product-list.php:465
+#: elementor/widgets/product-slider.php:610
+#: woocommerce/single-product/loop/features.php:20
+msgid "Features"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:74
+#: elementor/widgets/product-search.php:92
+msgid "Field 1"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:85
+#: elementor/widgets/product-search.php:103
+msgid "Field 2"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:96
+#: elementor/widgets/product-search.php:114
+msgid "Field 3"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:107
+#: elementor/widgets/product-search.php:125
+msgid "Field 4"
+msgstr ""
+
+#: elementor/widgets/product-search.php:136
+msgid "Field 5"
+msgstr ""
+
+#: elementor/widgets/product-search.php:147
+msgid "Field 6"
+msgstr ""
+
+#: elementor/widgets/product-search.php:158
+msgid "Field 7"
+msgstr ""
+
+#: elementor/widgets/product-search.php:169
+msgid "Field 8"
+msgstr ""
+
+#: elementor/widgets/product-search.php:180
+msgid "Field 9"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:375
+#: elementor/widgets/product-search.php:491
+msgid "Fields"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:968
+msgid "Fijian dollar"
+msgstr ""
+
+#: elementor/widgets/product-search.php:367
+#: elementor/widgets/product-search.php:696
+msgid "Find Your Car"
+msgstr ""
+
+#: elementor/widgets/product-list.php:525
+#: elementor/widgets/product-slider.php:670
+msgid "First Item Options"
+msgstr ""
+
+#: elementor/widgets/featured-products.php:111
+msgid "First Product ID"
+msgstr ""
+
+#: elementor/widgets/featured-products.php:113
+msgid "First product id. Ex: 123"
+msgstr ""
+
+#: inc/class-elementor.php:74
+msgid "Flip"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:421
+#: elementor/widgets/product-search.php:560
+msgid "Focus"
+msgstr ""
+
+#: inc/class-customize.php:106 elementor/widgets/contact.php:134
+msgid "Font Size"
+msgstr ""
+
+#: inc/class-customize.php:477 inc/class-customize.php:580
+#: inc/class-customize.php:639
+msgid "Footer"
+msgstr ""
+
+#: inc/class-customize.php:491
+msgid "Footer Default"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:37
+msgid "Friday"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:266
+msgid "From"
+msgstr ""
+
+#: woocommerce/single-product/booking-form/deposit.php:38
+msgid "Full Payment"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:975
+msgid "Gambian dalasi"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:971
+msgid "Georgian lari"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:973
+msgid "Ghana cedi"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:974
+msgid "Gibraltar pound"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:40 elementor/widgets/menu-nav.php:36
+msgid "Global"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+#: woocommerce/single-product-reviews.php:230
+msgid "Good"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:726
+#: elementor/widgets/product-list.php:164 elementor/widgets/image-list.php:144
+#: elementor/widgets/product-categories3.php:174
+#: elementor/widgets/product-search.php:425
+#: elementor/widgets/featured-products.php:141
+msgid "Grap"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:84
+msgid "Grouped Product"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:977
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:972
+msgid "Guernsey pound"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:976
+msgid "Guinean franc"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:978
+msgid "Guyanese dollar"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:179
+msgid "H1"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:180
+msgid "H2"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:181
+msgid "H3"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:182
+msgid "H4"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:183
+msgid "H5"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:184
+msgid "H6"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:982
+msgid "Haitian gourde"
+msgstr ""
+
+#: inc/class-customize.php:449 inc/class-customize.php:563
+#: inc/class-customize.php:622
+msgid "Header"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:42
+msgid "Header Banner"
+msgstr ""
+
+#: inc/class-customize.php:463
+msgid "Header Default"
+msgstr ""
+
+#: inc/class-elementor.php:25
+msgid "Header Footer"
+msgstr ""
+
+#: inc/class-customize.php:313
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/card.php:54 elementor/widgets/heading.php:76
+msgid "Heading Title"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:239
+#: elementor/widgets/product-search.php:499
+#: elementor/widgets/custom-taxonomy.php:309
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/heading.php:177
+msgid "Height Before Sub Title"
+msgstr ""
+
+#: inc/class-elementor.php:75
+msgid "Helix"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:67
+#: elementor/widgets/product-list.php:47 elementor/widgets/search-popup.php:85
+#: elementor/widgets/product-search.php:84
+#: elementor/widgets/featured-products.php:49
+#: elementor/widgets/product-slider.php:52
+msgid "Hide"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:5
+#: template-parts/parts/breadcrumbs_title.php:9
+#: template-parts/parts/breadcrumbs.php:18
+#: template-parts/parts/breadcrumbs.php:18
+#: template-parts/parts/breadcrumbs.php:181
+msgid "Home"
+msgstr ""
+
+#: elementor/widgets/logo.php:50
+msgid "Home Page"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:980
+msgid "Honduran lempira"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:979
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: elementor/widgets/team.php:341 elementor/widgets/product-search2.php:497
+#: elementor/widgets/pricing-tables.php:807
+#: elementor/widgets/product-list.php:387
+#: elementor/widgets/product-list.php:661 elementor/widgets/breadcrumbs.php:147
+#: elementor/widgets/image-list.php:187 elementor/widgets/search-popup.php:396
+#: elementor/widgets/pricing-tabs.php:159
+#: elementor/widgets/product-search.php:636
+#: elementor/widgets/custom-taxonomy.php:423
+#: elementor/widgets/featured-products.php:215
+#: elementor/widgets/contact-boxes.php:422
+#: elementor/widgets/product-categories.php:281
+#: elementor/widgets/product-slider.php:532
+#: elementor/widgets/product-slider.php:807
+#: elementor/widgets/product-slider.php:932 elementor/widgets/button.php:160
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:494
+msgid "Hover Animation"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:290
+#: elementor/widgets/custom-taxonomy.php:572
+msgid "Hover Color"
+msgstr ""
+
+#: elementor/widgets/heading.php:47
+msgid "HOW IT WORKS"
+msgstr ""
+
+#: elementor/widgets/card.php:94 elementor/widgets/heading.php:116
+msgid "HTML Description Tag"
+msgstr ""
+
+#: elementor/widgets/heading.php:54
+msgid "HTML Sub title Tag"
+msgstr ""
+
+#: elementor/widgets/card.php:64 elementor/widgets/heading.php:86
+msgid "HTML Title Tag"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/team.php:102 elementor/widgets/team.php:125
+#: elementor/widgets/team.php:130 elementor/widgets/team.php:135
+#: elementor/widgets/team.php:140 elementor/widgets/product-search2.php:143
+#: elementor/widgets/pricing-tables.php:110
+#: elementor/widgets/breadcrumbs.php:41 elementor/widgets/image-list.php:101
+#: elementor/widgets/search-popup.php:69 elementor/widgets/contact.php:64
+#: elementor/widgets/logo.php:68 elementor/widgets/social-icons.php:125
+#: elementor/widgets/product-categories3.php:126
+#: elementor/widgets/product-categories3.php:141
+#: elementor/widgets/product-search.php:248
+#: elementor/widgets/custom-taxonomy.php:199
+#: elementor/widgets/custom-taxonomy.php:214
+#: elementor/widgets/contact-boxes.php:75
+#: elementor/widgets/product-categories.php:111
+#: elementor/widgets/product-categories.php:126 elementor/widgets/button.php:56
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:983
+msgid "Hungarian forint"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:991
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: elementor/widgets/contact.php:126 elementor/widgets/list-check.php:99
+#: elementor/widgets/social-icons.php:41 elementor/widgets/social-icons.php:282
+#: elementor/widgets/contact-boxes.php:124
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:104
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:440
+msgid "Icon Hover"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:115
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/product-list.php:113
+#: elementor/widgets/featured-products.php:71
+#: elementor/widgets/product-slider.php:103
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/logo.php:39 elementor/widgets/custom-taxonomy.php:340
+#: elementor/widgets/product-categories.php:196
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/image-list.php:111
+msgid "Image List"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:987
+msgid "Indian rupee"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:984
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:206
+msgid "Infinite Loop"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:398
+msgid "Inherit"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:285
+msgid "Input Options"
+msgstr ""
+
+#: elementor/widgets/team.php:138
+msgid "Instagram"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:989
+msgid "Iranian rial"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:990
+msgid "Iranian toman"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:988
+msgid "Iraqi dinar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:985
+msgid "Israeli new shekel"
+msgstr ""
+
+#: template-parts/404.php:5 template-parts/post/content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:658
+#: elementor/widgets/list-check.php:266
+#: elementor/widgets/product-slider.php:328
+msgid "Item"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:172
+msgid "Item Number"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:90
+#: elementor/widgets/product-categories3.php:198
+#: elementor/widgets/custom-taxonomy.php:239
+msgid "Items"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:92
+msgid "Items separated by the character | (pipe)"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:993
+msgid "Jamaican dollar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:995
+msgid "Japanese yen"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:992
+msgid "Jersey pound"
+msgstr ""
+
+#: elementor/widgets/team.php:62
+msgid "Jessica Brown"
+msgstr ""
+
+#: elementor/widgets/team.php:70 elementor/widgets/team.php:194
+#: elementor/widgets/review.php:198
+msgid "Job"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:994
+msgid "Jordanian dinar"
+msgstr ""
+
+#: elementor/widgets/product-list.php:44
+#: elementor/widgets/featured-products.php:46
+#: elementor/widgets/product-slider.php:49
+msgid "Just Show Featured"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1004
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:996
+msgid "Kenyan shilling"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1002
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:997
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: elementor/widgets/custom-taxonomy.php:152
+#: elementor/widgets/featured-products.php:351
+msgid "Label"
+msgstr ""
+
+#: elementor/widgets/product-search.php:338
+msgid "Label Attribute"
+msgstr ""
+
+#: elementor/widgets/product-search.php:365
+msgid "Label Button"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:179
+#: elementor/widgets/product-search.php:284
+msgid "Label Category"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:224
+#: elementor/widgets/product-search.php:329
+msgid "Label Drop-off Date"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:206
+#: elementor/widgets/product-search.php:311
+msgid "Label Drop-off Location"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:163
+#: elementor/widgets/product-search.php:268
+msgid "Label Field"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:188
+#: elementor/widgets/product-search.php:293
+msgid "Label Location"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:170
+#: elementor/widgets/product-search.php:275
+msgid "Label Name"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:215
+#: elementor/widgets/product-search.php:320
+msgid "Label Pick-up Date"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:197
+#: elementor/widgets/product-search.php:302
+msgid "Label Pick-up Location"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:233
+#: elementor/widgets/product-search.php:347
+msgid "Label Tags"
+msgstr ""
+
+#: elementor/widgets/product-search.php:356
+msgid "Label Taxonomy"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1005
+msgid "Lao kip"
+msgstr ""
+
+#: elementor/widgets/product-list.php:546
+#: elementor/widgets/product-slider.php:691
+msgid "Last Item Options"
+msgstr ""
+
+#: inc/class-customize.php:330 inc/class-customize.php:382
+#: inc/class-customize.php:545 inc/class-customize.php:604
+msgid "Layout"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:180
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1006
+msgid "Lebanese pound"
+msgstr ""
+
+#: elementor/widgets/card.php:119 elementor/widgets/product-search2.php:306
+#: elementor/widgets/menu-canvas.php:69 elementor/widgets/heading.php:141
+#: elementor/widgets/search-popup.php:243 elementor/widgets/contact.php:91
+#: elementor/widgets/pricing-tabs.php:87
+#: elementor/widgets/header-banner.php:290 elementor/widgets/logo.php:83
+#: elementor/widgets/social-icons.php:248
+#: elementor/widgets/product-categories3.php:313
+#: elementor/widgets/custom-taxonomy.php:595
+#: elementor/widgets/contact-boxes.php:99
+#: elementor/widgets/product-slider.php:990
+#: elementor/widgets/product-slider.php:1012 elementor/widgets/button.php:82
+msgid "Left"
+msgstr ""
+
+#: inc/class-hook.php:220 inc/class-customize.php:667
+#: inc/class-customize.php:735
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1009
+msgid "Lesotho loti"
+msgstr ""
+
+#: inc/class-customize.php:145
+msgid "Letter Spacing"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1008
+msgid "Liberian dollar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1010
+msgid "Libyan dinar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:498
+msgid "Line"
+msgstr ""
+
+#: inc/class-customize.php:125
+msgid "Line height"
+msgstr ""
+
+#: elementor/widgets/team.php:93 elementor/widgets/product-search2.php:141
+#: elementor/widgets/menu-canvas.php:136
+#: elementor/widgets/pricing-tables.php:108
+#: elementor/widgets/breadcrumbs.php:127 elementor/widgets/image-list.php:99
+#: elementor/widgets/contact.php:62 elementor/widgets/logo.php:47
+#: elementor/widgets/logo.php:63 elementor/widgets/social-icons.php:117
+#: elementor/widgets/product-search.php:246
+#: elementor/widgets/custom-taxonomy.php:184 elementor/widgets/menu-nav.php:75
+#: elementor/widgets/menu-nav.php:169 elementor/widgets/contact-boxes.php:73
+#: elementor/widgets/button.php:54
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:166 elementor/widgets/menu-nav.php:105
+#: elementor/widgets/menu-nav.php:195
+msgid "Link Active"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:153 elementor/widgets/menu-nav.php:92
+#: elementor/widgets/menu-nav.php:182
+msgid "Link Hover"
+msgstr ""
+
+#: elementor/widgets/list-check.php:18
+msgid "List Checked"
+msgstr ""
+
+#: elementor/widgets/product-search.php:211
+msgid "List Taxonomy Custom"
+msgstr ""
+
+#: elementor/widgets/team.php:110
+msgid "List Title Icon"
+msgstr ""
+
+#: customize/custom-control/google-font.php:122
+msgid "Load Font Weight"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:53
+#: elementor/widgets/product-search2.php:190
+#: elementor/widgets/product-search2.php:583
+#: elementor/widgets/product-search.php:69
+#: elementor/widgets/product-search.php:295
+#: elementor/widgets/product-search.php:689
+#: woocommerce/single-product/loop/location.php:23
+msgid "Location"
+msgstr ""
+
+#: inc/class-woo.php:180 inc/class-woo.php:181
+msgid "Log in"
+msgstr ""
+
+#: inc/class-woo.php:193
+msgid "Login"
+msgstr ""
+
+#: elementor/widgets/logo.php:19
+msgid "Logo"
+msgstr ""
+
+#: inc/class-customize.php:45
+msgid "Logo Default"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1017
+msgid "Macanese pataca"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1014
+msgid "Macedonian denar"
+msgstr ""
+
+#: inc/class-widgets.php:19 inc/class-widgets.php:21
+msgid "Main Sidebar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1013
+msgid "Malagasy ariary"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1021
+msgid "Malawian kwacha"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1023
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1020
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:986
+msgid "Manx pound"
+msgstr ""
+
+#: elementor/widgets/card.php:173 elementor/widgets/card.php:239
+#: elementor/widgets/card.php:281 elementor/widgets/team.php:180
+#: elementor/widgets/team.php:221 elementor/widgets/team.php:284
+#: elementor/widgets/pricing-tables.php:299
+#: elementor/widgets/pricing-tables.php:410
+#: elementor/widgets/pricing-tables.php:483
+#: elementor/widgets/pricing-tables.php:570
+#: elementor/widgets/pricing-tables.php:643
+#: elementor/widgets/pricing-tables.php:744
+#: elementor/widgets/pricing-tables.php:904
+#: elementor/widgets/product-list.php:408 elementor/widgets/review.php:114
+#: elementor/widgets/review.php:170 elementor/widgets/review.php:226
+#: elementor/widgets/breadcrumbs.php:76 elementor/widgets/heading.php:220
+#: elementor/widgets/heading.php:262 elementor/widgets/heading.php:304
+#: elementor/widgets/image-list.php:242 elementor/widgets/menu-page.php:109
+#: elementor/widgets/search-popup.php:213
+#: elementor/widgets/search-popup.php:339
+#: elementor/widgets/search-popup.php:473 elementor/widgets/contact.php:164
+#: elementor/widgets/contact.php:219 elementor/widgets/list-check.php:167
+#: elementor/widgets/list-check.php:210 elementor/widgets/list-check.php:252
+#: elementor/widgets/product-categories3.php:301
+#: elementor/widgets/custom-taxonomy.php:583
+#: elementor/widgets/featured-products.php:264
+#: elementor/widgets/featured-products.php:310
+#: elementor/widgets/featured-products.php:379
+#: elementor/widgets/contact-boxes.php:317
+#: elementor/widgets/contact-boxes.php:368
+#: elementor/widgets/contact-boxes.php:443
+#: elementor/widgets/product-categories.php:313
+#: elementor/widgets/product-categories.php:354
+#: elementor/widgets/product-slider.php:553 elementor/widgets/button.php:236
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/list-check.php:293
+msgid "Margin item"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:162
+msgid "Margin Right Items"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1018
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1019
+msgid "Mauritian rupee"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:279
+#: elementor/widgets/product-search.php:402
+msgid "Max Width"
+msgstr ""
+
+#: template-parts/header-default.php:23 elementor/widgets/menu-page.php:42
+#: elementor/widgets/menu-nav.php:16 elementor/widgets/menu-nav.php:239
+msgid "Menu"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:117
+msgid "Menu Background"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:16
+msgid "Menu Canvas"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:65
+msgid "Menu Direction"
+msgstr ""
+
+#: elementor/widgets/menu-page.php:19
+msgid "Menu Page"
+msgstr ""
+
+#: elementor/widgets/menu-page.php:66
+msgid "Menu Type"
+msgstr ""
+
+#: elementor/widgets/blog.php:121
+msgid "Meta"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1022
+msgid "Mexican peso"
+msgstr ""
+
+#: woocommerce/single-product/discount/day.php:59
+msgid "Min - Max (Days)"
+msgstr ""
+
+#: woocommerce/single-product/discount/hour.php:59
+msgid "Min - Max (Hours)"
+msgstr ""
+
+#: elementor/widgets/logo.php:175
+msgid "Mobile Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:210
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:190
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1012
+msgid "Moldovan leu"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:25
+msgid "Monday"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1016
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1011
+msgid "Moroccan dirham"
+msgstr ""
+
+#: inc/class-elementor.php:70
+msgid "Move Down"
+msgstr ""
+
+#: inc/class-elementor.php:71
+msgid "Move Left"
+msgstr ""
+
+#: inc/class-elementor.php:72
+msgid "Move Right"
+msgstr ""
+
+#: inc/class-elementor.php:69
+msgid "Move Up"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1024
+msgid "Mozambican metical"
+msgstr ""
+
+#: elementor/widgets/card.php:87
+msgid ""
+"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet "
+"doming id quod mazim placerat facer possim assum.."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:192 inc/class-customize-wcfm.php:353
+#: woocommerce/single-product/request-booking.php:81
+#: elementor/widgets/team.php:60 elementor/widgets/product-search2.php:51
+#: elementor/widgets/product-categories3.php:83
+#: elementor/widgets/product-search.php:67
+#: elementor/widgets/product-categories.php:68
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/product-search.php:74
+msgid "Name Attribute"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1025
+msgid "Namibian dollar"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:862
+msgid "Nav"
+msgstr ""
+
+#: elementor/widgets/contact-boxes.php:88
+msgid "needhelp@company.com"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1029
+msgid "Nepalese rupee"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:926
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:133
+#: elementor/widgets/product-search.php:238
+msgid "New Page"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1066
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: elementor/widgets/custom-taxonomy.php:166
+msgid "New York"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1030
+msgid "New Zealand dollar"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:294
+msgid "Next Icon"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1027
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1026
+msgid "Nigerian naira"
+msgstr ""
+
+#: inc/class-customize.php:351 inc/class-customize.php:706
+#: inc/class-customize.php:756 elementor/widgets/product-categories3.php:157
+#: elementor/widgets/custom-taxonomy.php:230
+#: elementor/widgets/featured-products.php:123
+#: elementor/widgets/product-categories.php:142
+#: elementor/widgets/product-slider.php:146
+#: elementor/widgets/product-slider.php:196
+#: elementor/widgets/product-slider.php:211
+#: elementor/widgets/product-slider.php:225
+#: elementor/widgets/product-slider.php:262
+#: elementor/widgets/product-slider.php:276 elementor/widgets/button.php:107
+msgid "No"
+msgstr ""
+
+#: woocommerce/single-product/discount/period.php:49
+msgid "No Discount in this time"
+msgstr ""
+
+#: woocommerce/rental/price.php:62 woocommerce/rental/price.php:72
+#: woocommerce/single-product/loop/price.php:100
+#: woocommerce/single-product/loop/price.php:110
+msgid "No price"
+msgstr ""
+
+#: inc/class-hook.php:218 inc/class-customize.php:665
+#: inc/class-customize.php:733
+msgid "No Sidebar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:921
+#: elementor/widgets/search-popup.php:160 elementor/widgets/contact.php:54
+#: elementor/widgets/logo.php:51 elementor/widgets/contact-boxes.php:65
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/team.php:254 elementor/widgets/product-search2.php:396
+#: elementor/widgets/product-search2.php:466
+#: elementor/widgets/pricing-tables.php:163
+#: elementor/widgets/pricing-tables.php:258
+#: elementor/widgets/pricing-tables.php:331
+#: elementor/widgets/pricing-tables.php:442
+#: elementor/widgets/pricing-tables.php:529
+#: elementor/widgets/pricing-tables.php:602
+#: elementor/widgets/pricing-tables.php:675
+#: elementor/widgets/pricing-tables.php:776
+#: elementor/widgets/product-list.php:367
+#: elementor/widgets/product-list.php:608 elementor/widgets/breadcrumbs.php:107
+#: elementor/widgets/image-list.php:167 elementor/widgets/search-popup.php:365
+#: elementor/widgets/pricing-tabs.php:128
+#: elementor/widgets/product-search.php:535
+#: elementor/widgets/product-search.php:605
+#: elementor/widgets/custom-taxonomy.php:392
+#: elementor/widgets/featured-products.php:185
+#: elementor/widgets/contact-boxes.php:401
+#: elementor/widgets/product-categories.php:250
+#: elementor/widgets/product-slider.php:512
+#: elementor/widgets/product-slider.php:754
+#: elementor/widgets/product-slider.php:901 elementor/widgets/button.php:129
+msgid "Normal"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1000
+msgid "North Korean won"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1028
+msgid "Norwegian krone"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#: woocommerce/single-product-reviews.php:232
+msgid "Not that bad"
+msgstr ""
+
+#: template-parts/post/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: elementor/widgets/blog.php:80
+msgid "Number Of Columns"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:136
+#: elementor/widgets/social-icons.php:302
+msgid "Official Color"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1031
+msgid "Omani rial"
+msgstr ""
+
+#: install-resource/active-plugins.php:46
+msgid "One click demo import"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+#: woocommerce/single-product-reviews.php:244
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: elementor/widgets/product-list.php:637
+#: elementor/widgets/product-list.php:690
+#: elementor/widgets/custom-taxonomy.php:348
+#: elementor/widgets/product-slider.php:783
+#: elementor/widgets/product-slider.php:836
+msgid "Opacity"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:154
+#: elementor/widgets/custom-taxonomy.php:227
+#: elementor/widgets/featured-products.php:120
+#: elementor/widgets/product-categories.php:139
+#: elementor/widgets/product-slider.php:143 elementor/widgets/button.php:104
+msgid "Open in new window"
+msgstr ""
+
+#: elementor/widgets/product-list.php:122 elementor/widgets/blog.php:97
+#: elementor/widgets/product-categories3.php:66
+#: elementor/widgets/product-categories3.php:84
+#: elementor/widgets/featured-products.php:80
+#: elementor/widgets/product-categories.php:51
+#: elementor/widgets/product-categories.php:69
+#: elementor/widgets/product-slider.php:112
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/product-list.php:108
+#: elementor/widgets/featured-products.php:66
+#: elementor/widgets/product-slider.php:98
+msgid "Order By"
+msgstr ""
+
+#: elementor/widgets/heading.php:79
+msgid "Our Work Process "
+msgstr ""
+
+#: elementor/widgets/card.php:19
+msgid "Ova Card"
+msgstr ""
+
+#: elementor/widgets/heading.php:19
+msgid "Ova Heading"
+msgstr ""
+
+#: elementor/widgets/list-check.php:49
+msgid "ovaicon-checked-1"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:244
+#: elementor/widgets/product-search2.php:589
+msgid "ovaicon-loupe"
+msgstr ""
+
+#. Author of the theme
+msgid "Ovatheme"
+msgstr ""
+
+#: install-resource/active-plugins.php:60
+msgid "OvaTheme BRW"
+msgstr ""
+
+#: install-resource/active-plugins.php:68
+msgid "OvaTheme BRW WCFM"
+msgstr ""
+
+#: install-resource/active-plugins.php:52
+msgid "OvaTheme Framework"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:120
+msgid "Package"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:78
+#: elementor/widgets/pricing-tabs.php:54
+msgid "Package ID"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:81
+#: elementor/widgets/pricing-tabs.php:57
+msgid "Package ID is unique"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:88
+msgid "Package Item"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:80
+#: elementor/widgets/pricing-tabs.php:56
+msgid "package_id"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:361
+#: elementor/widgets/product-search2.php:551
+#: elementor/widgets/pricing-tables.php:226
+#: elementor/widgets/pricing-tables.php:892
+#: elementor/widgets/product-list.php:233
+#: elementor/widgets/product-list.php:308
+#: elementor/widgets/product-list.php:503 elementor/widgets/review.php:126
+#: elementor/widgets/review.php:182 elementor/widgets/review.php:238
+#: elementor/widgets/breadcrumbs.php:64 elementor/widgets/breadcrumbs.php:168
+#: elementor/widgets/image-list.php:230 elementor/widgets/menu-page.php:97
+#: elementor/widgets/search-popup.php:226
+#: elementor/widgets/search-popup.php:461
+#: elementor/widgets/pricing-tabs.php:256
+#: elementor/widgets/social-icons.php:357
+#: elementor/widgets/product-search.php:477
+#: elementor/widgets/custom-taxonomy.php:477
+#: elementor/widgets/featured-products.php:298
+#: elementor/widgets/contact-boxes.php:305
+#: elementor/widgets/product-categories.php:181
+#: elementor/widgets/product-slider.php:313
+#: elementor/widgets/product-slider.php:378
+#: elementor/widgets/product-slider.php:453
+#: elementor/widgets/product-slider.php:648 elementor/widgets/button.php:224
+msgid "Padding"
+msgstr ""
+
+#: template-parts/page.php:22
+msgid "Page"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:131
+msgid "Page not found"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:128
+#: elementor/widgets/product-search.php:233
+msgid "Pages"
+msgstr ""
+
+#: template-parts/page.php:18 template-parts/parts/content.php:4
+msgid "Pages:"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1036
+msgid "Pakistani rupee"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1032
+msgid "Panamanian balboa"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1034
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1039
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:67
+msgid "Parent Menu"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:191
+msgid "Pause on Hover"
+msgstr ""
+
+#: woocommerce/single-product/booking-form/deposit.php:33
+msgid "Pay Deposit"
+msgstr ""
+
+#: woocommerce/single-product/booking-form/deposit.php:28
+msgid "Per item"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:60
+#: elementor/widgets/pricing-tables.php:425
+msgid "Per Time"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:412
+#: woocommerce/single-product/booking-form/resource.php:52
+msgid "perday"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+#: woocommerce/single-product-reviews.php:229
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:410
+#: woocommerce/single-product/booking-form/resource.php:50
+msgid "perhour"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1035
+msgid "Philippine peso"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:96
+msgid "Phone"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:161
+#: elementor/widgets/product-search2.php:56
+#: elementor/widgets/product-search2.php:217
+#: elementor/widgets/product-search2.php:586
+#: elementor/widgets/search-popup.php:532
+#: elementor/widgets/product-search.php:72
+#: elementor/widgets/product-search.php:322
+#: elementor/widgets/product-search.php:692
+#: woocommerce/single-product/booking-form/fields.php:77
+#: woocommerce/single-product/booking-form/fields.php:83
+#: woocommerce/single-product/booking-form/fields.php:85
+#: woocommerce/single-product/booking-form/fields.php:100
+msgid "Pick-up Date"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:125
+#: elementor/widgets/product-search2.php:54
+#: elementor/widgets/product-search2.php:199
+#: elementor/widgets/product-search2.php:584
+#: elementor/widgets/product-search.php:70
+#: elementor/widgets/product-search.php:304
+#: elementor/widgets/product-search.php:690
+#: woocommerce/single-product/booking-form/fields.php:73
+msgid "Pick-up Location"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1037
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: inc/class-elementor.php:76
+msgid "PopUp"
+msgstr ""
+
+#: elementor/widgets/blog.php:71
+msgid "Post Total"
+msgstr ""
+
+#: elementor/widgets/product-list.php:99
+#: elementor/widgets/featured-products.php:57
+#: elementor/widgets/product-slider.php:89
+msgid "Posts Per Page"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:970
+msgid "Pound sterling"
+msgstr ""
+
+#: inc/class-customize.php:345
+msgid "Preload"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:285
+msgid "Previous Icon"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:41
+#: elementor/widgets/pricing-tables.php:241
+#: elementor/widgets/product-list.php:247
+#: elementor/widgets/product-slider.php:392
+#: woocommerce/single-product/discount/weekdays.php:18
+#: woocommerce/single-product/discount/period.php:13
+#: woocommerce/single-product/discount/period.php:32
+msgid "Price"
+msgstr ""
+
+#: woocommerce/single-product/loop/special-price.php:15
+msgid "Price & Discount"
+msgstr ""
+
+#: woocommerce/single-product/loop/special-price.php:33
+msgid "Price - Day"
+msgstr ""
+
+#: woocommerce/single-product/loop/special-price.php:24
+msgid "Price - Hour"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:13
+msgid "Price by day of the week"
+msgstr ""
+
+#: woocommerce/single-product/discount/day.php:22
+msgid "Price/Day"
+msgstr ""
+
+#: woocommerce/single-product/discount/day.php:60
+msgid "Price/Days"
+msgstr ""
+
+#: woocommerce/single-product/discount/hour.php:22
+msgid "Price/Hour"
+msgstr ""
+
+#: woocommerce/single-product/discount/hour.php:60
+msgid "Price/Hours"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:16
+msgid "Pricing Tables"
+msgstr ""
+
+#: elementor/widgets/pricing-tabs.php:16
+msgid "Pricing Tabs"
+msgstr ""
+
+#: inc/class-customize.php:269
+msgid "Primary"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:145
+#: elementor/widgets/social-icons.php:311
+#: elementor/widgets/social-icons.php:448
+msgid "Primary Color"
+msgstr ""
+
+#: inc/class-customize.php:160 inc/class-customize.php:176
+msgid "Primary Font"
+msgstr ""
+
+#: inc/class-main.php:88
+msgid "Primary Menu"
+msgstr ""
+
+#: elementor/widgets/team.php:133
+msgid "Printest"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:18
+msgid "Product Categories"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:17
+msgid "Product Categories 3"
+msgstr ""
+
+#: inc/class-customize.php:713
+msgid "Product detail"
+msgstr ""
+
+#: elementor/widgets/product-list.php:21
+msgid "Product List"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:172
+#: elementor/widgets/product-search2.php:581
+#: elementor/widgets/search-popup.php:519
+#: elementor/widgets/product-search.php:277
+#: elementor/widgets/product-search.php:687
+msgid "Product Name"
+msgstr ""
+
+#: elementor/widgets/featured-products.php:324
+msgid "Product Price"
+msgstr ""
+
+#: elementor/widgets/product-search.php:19
+msgid "Product Search"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:19
+msgid "Product Search 2"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:21
+msgid "Product Slider"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:235
+#: elementor/widgets/product-search2.php:588
+#: elementor/widgets/product-search.php:695
+msgid "Product Tag"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:119 elementor/widgets/featured-products.php:165
+msgid "Product Title"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1040
+msgid "Qatari riyal"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:117
+#: woocommerce/single-product/booking-form/fields.php:230
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#: woocommerce/single-product-reviews.php:228
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/rental/review.php:18
+#: woocommerce/single-product/loop/title.php:29
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: elementor/widgets/product-list.php:441
+#: elementor/widgets/product-slider.php:586
+msgid "Rating Color"
+msgstr ""
+
+#: template-parts/parts/readmore.php:2
+msgid "Read more"
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: woocommerce/single-product/loop/policies.php:38
+msgid "Refund"
+msgstr ""
+
+#: inc/class-woo.php:199
+msgid "Register"
+msgstr ""
+
+#: elementor/widgets/card.php:57
+msgid "Register Free"
+msgstr ""
+
+#: inc/class-woo.php:173
+msgid "Remember me"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:97
+msgid "Rental"
+msgstr ""
+
+#: woocommerce/single-product/forms-tab.php:17
+#: woocommerce/single-product/forms-tab.php:32
+msgid "Request Booking"
+msgstr ""
+
+#: elementor/widgets/product-list.php:422 elementor/widgets/review.php:20
+#: elementor/widgets/product-slider.php:567
+msgid "Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:140
+#: woocommerce/single-product/loop/review.php:12
+msgid "Reviews"
+msgstr ""
+
+#: elementor/widgets/card.php:127 elementor/widgets/product-search2.php:314
+#: elementor/widgets/menu-canvas.php:73 elementor/widgets/heading.php:149
+#: elementor/widgets/search-popup.php:251 elementor/widgets/contact.php:99
+#: elementor/widgets/pricing-tabs.php:95
+#: elementor/widgets/header-banner.php:298 elementor/widgets/logo.php:91
+#: elementor/widgets/social-icons.php:256
+#: elementor/widgets/custom-taxonomy.php:516
+#: elementor/widgets/contact-boxes.php:107 elementor/widgets/button.php:90
+msgid "Right"
+msgstr ""
+
+#: inc/class-hook.php:219 inc/class-customize.php:666
+#: inc/class-customize.php:734
+msgid "Right Sidebar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1041
+msgid "Romanian leu"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:208
+msgid "Rounded"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:403
+msgid "Rows Gap"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1043
+msgid "Russian ruble"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1044
+msgid "Rwandan franc"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1056
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1051
+msgid "Saint Helena pound"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1077
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:40
+msgid "Saturday"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1045
+msgid "Saudi riyal"
+msgstr ""
+
+#: inc/class-elementor.php:73
+msgid "Scale Up"
+msgstr ""
+
+#: elementor/widgets/image-list.php:78 elementor/widgets/search-popup.php:47
+#: elementor/widgets/search-popup.php:96 elementor/widgets/search-popup.php:563
+#: template-parts/parts/breadcrumbs_title.php:17
+msgid "Search"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:242
+msgid "Search Icon"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:39
+msgid "Search Map URL"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:59
+#: elementor/widgets/product-categories3.php:115
+#: elementor/widgets/custom-taxonomy.php:188
+#: elementor/widgets/product-categories.php:100
+msgid "Search Page"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:24
+msgid "Search Popup"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:121
+#: elementor/widgets/image-list.php:73 elementor/widgets/search-popup.php:54
+#: elementor/widgets/product-categories3.php:110
+#: elementor/widgets/product-search.php:226
+#: elementor/widgets/product-categories.php:95
+msgid "Search Result"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:73
+msgid "Search results for"
+msgstr ""
+
+#: template-parts/search.php:7
+msgid "Search Results for: "
+msgstr ""
+
+#: elementor/widgets/social-icons.php:159
+#: elementor/widgets/social-icons.php:325
+#: elementor/widgets/social-icons.php:463
+msgid "Secondary Color"
+msgstr ""
+
+#: woocommerce/single-product/loop/title.php:25
+msgid "See map"
+msgstr ""
+
+#: elementor/widgets/product-search.php:358
+#: elementor/widgets/product-search.php:697
+#: elementor/widgets/custom-taxonomy.php:134
+msgid "Select "
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:349
+#: woocommerce/single-product/booking-form/services.php:32
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: elementor/widgets/product-search.php:340
+#: elementor/widgets/product-search.php:694
+msgid "Select Attribute"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:181
+#: elementor/widgets/product-search2.php:582
+#: elementor/widgets/product-list.php:89 elementor/widgets/image-list.php:45
+#: elementor/widgets/image-list.php:86 elementor/widgets/product-search.php:286
+#: elementor/widgets/product-search.php:688
+#: elementor/widgets/custom-taxonomy.php:64
+#: elementor/widgets/product-slider.php:79
+msgid "Select Category"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:54 elementor/widgets/menu-page.php:56
+#: elementor/widgets/menu-nav.php:50
+msgid "Select Menu"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:194
+#: woocommerce/single-product/booking-form/fields.php:180
+msgid "Select Package"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:50
+#: elementor/widgets/product-search.php:66
+msgid "Select Search"
+msgstr ""
+
+#: elementor/widgets/product-search.php:189
+#: elementor/widgets/product-search.php:215
+#: elementor/widgets/custom-taxonomy.php:79
+#: elementor/widgets/custom-taxonomy.php:113
+msgid "Select Taxonomy"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:435
+msgid "Send"
+msgstr ""
+
+#: elementor/widgets/contact-boxes.php:51
+msgid "Send a Email"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:182
+msgid "Separator"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1042
+msgid "Serbian dinar"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:183
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1047
+msgid "Seychellois rupee"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:204
+msgid "Shape"
+msgstr ""
+
+#: template-parts/parts/tags.php:12
+msgid "Share: "
+msgstr ""
+
+#: woocommerce/single-product/loop/policies.php:32
+msgid "Shipping"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:66
+#: elementor/widgets/product-list.php:46 elementor/widgets/search-popup.php:84
+#: elementor/widgets/product-search.php:83
+#: elementor/widgets/featured-products.php:48
+#: elementor/widgets/product-slider.php:51
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:211
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:257
+msgid "Show Dots"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:271
+msgid "Show Nav"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:64
+#: elementor/widgets/search-popup.php:82
+#: elementor/widgets/product-search.php:81
+msgid "Show Time"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:139
+msgid "Show Title"
+msgstr ""
+
+#: inc/class-customize.php:700 inc/class-customize.php:750
+msgid "Show/Hide Title"
+msgstr ""
+
+#: inc/class-customize.php:399 inc/class-customize.php:683
+msgid "Sidebar Width (px)"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1052
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: woocommerce/single-product/loop/related.php:11
+msgid "Similar Listings"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:82 inc/class-customize-wcfm.php:90
+msgid "Simple Product"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1050
+msgid "Singapore dollar"
+msgstr ""
+
+#: inc/class-customize.php:589
+msgid "Single"
+msgstr ""
+
+#: inc/class-customize.php:728
+msgid "Single Layout"
+msgstr ""
+
+#: elementor/widgets/team.php:320 elementor/widgets/social-icons.php:340
+#: elementor/widgets/contact-boxes.php:162
+#: elementor/widgets/product-slider.php:878
+msgid "Size"
+msgstr ""
+
+#: elementor/widgets/list-check.php:108
+msgid "Size Circle"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:126 elementor/widgets/list-check.php:128
+msgid "Size Icon"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:181
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elementor/widgets/product-slider.php:248
+msgid "Smart Speed"
+msgstr ""
+
+#: elementor/widgets/team.php:118 elementor/widgets/social-icons.php:32
+#: elementor/widgets/social-icons.php:174
+msgid "Social Icons"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1033
+msgid "Sol"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:156
+msgid "Solid"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1046
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1053
+msgid "Somali shilling"
+msgstr ""
+
+#: 404.php:8
+msgid "Sorry We Can't Find That Page!"
+msgstr ""
+
+#: template-parts/search.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/page.php:30
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1083
+msgid "South African rand"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1001
+msgid "South Korean won"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1055
+msgid "South Sudanese pound"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:383
+#: elementor/widgets/product-slider.php:1034
+msgid "Spacing"
+msgstr ""
+
+#: woocommerce/single-product/discount/day.php:23
+#: woocommerce/single-product/discount/hour.php:23
+msgid "Special Discount"
+msgstr ""
+
+#: woocommerce/single-product/loop/price.php:120
+msgid "Special Offers"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:209
+msgid "Square"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1007
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: elementor/widgets/product-list.php:430
+#: elementor/widgets/product-slider.php:575
+msgid "Star Color"
+msgstr ""
+
+#: woocommerce/single-product/discount/day.php:20
+#: woocommerce/single-product/discount/hour.php:20
+#: woocommerce/single-product/discount/period.php:14
+#: woocommerce/single-product/discount/period.php:30
+msgid "Start Time"
+msgstr ""
+
+#: inc/class-customize.php:234
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://www.w3schools."
+"com/cssref/css3_pr_font-face_rule.asp. Step 2: Insert font-family and font-"
+"weight like format: \n"
+"\t\t\t\t\t\t\t[\"Perpetua\", \"Regular:Bold:Italic:Light\"] | [\"Name-Font\","
+" \"Regular:Bold:Italic:Light\"]. Step 3: Refresh customize page to display "
+"new font in dropdown font field."
+msgstr ""
+
+#: elementor/widgets/logo.php:242
+msgid "Sticky Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:279
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:259
+msgid "Sticky Logo Width"
+msgstr ""
+
+#: woocommerce/single-product/loop/policies.php:28
+msgid "Store Policies"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:89 elementor/widgets/menu-page.php:80
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:134
+msgid "Sub Menu"
+msgstr ""
+
+#: elementor/widgets/card.php:44 elementor/widgets/card.php:146
+#: elementor/widgets/heading.php:44 elementor/widgets/heading.php:168
+#: elementor/widgets/list-check.php:68
+msgid "Sub Title"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:184
+msgid "Submit"
+msgstr ""
+
+#: elementor/widgets/button.php:71
+msgid "Submit Ad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Submit Review"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1048
+msgid "Sudanese pound"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:43
+msgid "Sunday"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:399
+msgid "Super"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1054
+msgid "Surinamese dollar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1058
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1049
+msgid "Swedish krona"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:951
+msgid "Swiss franc"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1057
+msgid "Syrian pound"
+msgstr ""
+
+#: elementor/widgets/pricing-tabs.php:64 elementor/widgets/list-check.php:77
+msgid "Tabs"
+msgstr ""
+
+#: elementor/widgets/product-search2.php:58
+#: elementor/widgets/product-search.php:75
+#: template-parts/parts/breadcrumbs_title.php:25
+#: woocommerce/single-product/loop/tags.php:21
+msgid "Tags"
+msgstr ""
+
+#: elementor/widgets/product-search.php:349
+msgid "Tags Product"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1060
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1067
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: elementor/widgets/product-search.php:201
+msgid "Taxonomy Custom"
+msgstr ""
+
+#: elementor/widgets/team.php:19
+msgid "Team"
+msgstr ""
+
+#: elementor/widgets/team.php:72
+msgid "Team member"
+msgstr ""
+
+#: elementor/widgets/contact.php:52 elementor/widgets/contact-boxes.php:63
+msgid "Tell"
+msgstr ""
+
+#: inc/class-customize.php:293 elementor/widgets/pricing-tabs.php:45
+#: elementor/widgets/button.php:69
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:99
+msgid "Text Button"
+msgstr ""
+
+#: elementor/widgets/menu-page.php:133
+msgid "Text Color"
+msgstr ""
+
+#: inc/class-customize.php:88
+msgid "Text Font"
+msgstr ""
+
+#: elementor/widgets/menu-page.php:144
+msgid "Text Hover"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1059
+msgid "Thai baht"
+msgstr ""
+
+#: elementor/widgets/featured-products.php:236
+msgid "The First Product"
+msgstr ""
+
+#: 404.php:11
+msgid ""
+"The page you are looking for was moved, removed, renamed or never existed."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:167
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:79
+#: woocommerce/single-product/request-booking.php:86
+#: woocommerce/single-product/request-booking.php:94
+#: woocommerce/single-product/request-booking.php:103
+#: woocommerce/single-product/request-booking.php:112
+#: woocommerce/single-product/request-booking.php:129
+#: woocommerce/single-product/request-booking.php:147
+#: woocommerce/single-product/request-booking.php:165
+#: woocommerce/single-product/request-booking.php:190
+#: woocommerce/single-product/request-booking.php:211
+#: woocommerce/single-product/request-booking.php:287
+#: woocommerce/single-product/booking-form/fields.php:111
+#: woocommerce/single-product/booking-form/fields.php:128
+#: woocommerce/single-product/booking-form/fields.php:145
+#: woocommerce/single-product/booking-form/fields.php:175
+#: woocommerce/single-product/booking-form/fields.php:198
+#: woocommerce/single-product/booking-form/fields.php:224
+#: woocommerce/single-product/booking-form/extra-fields.php:29
+#: woocommerce/single-product/booking-form/services.php:29
+msgid "This field is required"
+msgstr ""
+
+#: woocommerce/single-product/booking-form.php:16
+#: woocommerce/single-product/request-booking.php:73
+msgid "This field is required."
+msgstr ""
+
+#: inc/class-customize.php:464 inc/class-customize.php:492
+msgid "This isn't effect in Blog"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:34
+msgid "Thursday"
+msgstr ""
+
+#: elementor/widgets/card.php:212 elementor/widgets/team.php:108
+#: elementor/widgets/team.php:153 elementor/widgets/pricing-tables.php:69
+#: elementor/widgets/pricing-tables.php:585
+#: elementor/widgets/product-list.php:112
+#: elementor/widgets/product-list.php:350 elementor/widgets/heading.php:235
+#: elementor/widgets/list-check.php:58 elementor/widgets/list-check.php:183
+#: elementor/widgets/blog.php:161 elementor/widgets/product-categories3.php:263
+#: elementor/widgets/custom-taxonomy.php:164
+#: elementor/widgets/custom-taxonomy.php:545
+#: elementor/widgets/featured-products.php:70
+#: elementor/widgets/contact-boxes.php:49
+#: elementor/widgets/contact-boxes.php:341
+#: elementor/widgets/product-categories.php:327
+#: elementor/widgets/product-slider.php:102
+#: elementor/widgets/product-slider.php:495
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:149
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:165
+msgid "Title Padding"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:199
+msgid "Title Typo"
+msgstr ""
+
+#: woocommerce/single-product/loop/calendar.php:80
+msgid "Today"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1063
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:396
+#: elementor/widgets/custom-taxonomy.php:489
+#: elementor/widgets/contact-boxes.php:185
+#: elementor/widgets/product-slider.php:964
+msgid "Top"
+msgstr ""
+
+#: woocommerce/single-product/request-booking.php:414
+#: woocommerce/single-product/booking-form/resource.php:54
+msgid "total"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:56
+#: elementor/widgets/product-categories.php:41
+msgid "Total Categories"
+msgstr ""
+
+#: woocommerce/single-product/booking-form/ajax-total.php:14
+msgid "Total:"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1038
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:71
+#: elementor/widgets/pricing-tables.php:128
+#: elementor/widgets/pricing-tabs.php:47 elementor/widgets/pricing-tabs.php:69
+msgid "Trial Package"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:129
+#: elementor/widgets/pricing-tabs.php:70
+msgid "trial-package"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1065
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: elementor/widgets/list-check.php:85
+msgid "Trusted of Thousands"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:28
+msgid "Tuesday"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1062
+msgid "Tunisian dinar"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1064
+msgid "Turkish lira"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1061
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: elementor/widgets/team.php:123
+msgid "Twitter"
+msgstr ""
+
+#: inc/class-customize.php:526 elementor/widgets/button.php:41
+msgid "Type"
+msgstr ""
+
+#: elementor/widgets/menu-page.php:69
+msgid "Type 1"
+msgstr ""
+
+#: elementor/widgets/menu-page.php:70
+msgid "Type 2"
+msgstr ""
+
+#: elementor/widgets/contact.php:47 elementor/widgets/contact-boxes.php:58
+msgid "Type Link"
+msgstr ""
+
+#: inc/class-customize.php:59
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1069
+msgid "Ugandan shilling"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1068
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: woocommerce/single-product/loop/calendar.php:88
+msgid "Unavailable"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:922
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1070
+msgid "United States (US) dollar"
+msgstr ""
+
+#: elementor/widgets/product-categories3.php:139
+#: elementor/widgets/product-categories.php:124
+msgid "URL Custom Result"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:67
+#: elementor/widgets/product-categories3.php:124
+#: elementor/widgets/custom-taxonomy.php:197
+#: elementor/widgets/product-categories.php:109
+msgid "URL Seach Result"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1071
+msgid "Uruguayan peso"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:126
+#: elementor/widgets/pricing-tables.php:136
+msgid "USD"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1072
+msgid "Uzbekistani som"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1076
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: inc/class-customize-wcfm.php:83
+msgid "Variable Product"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1073
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:392
+msgid "Vertical Align"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#: woocommerce/single-product-reviews.php:233
+msgid "Very poor"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1075
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: elementor/widgets/social-icons.php:271
+msgid "View"
+msgstr ""
+
+#: woocommerce/single-product/discount/day.php:48
+#: woocommerce/single-product/discount/hour.php:48
+msgid "View Discount"
+msgstr ""
+
+#: install-resource/active-plugins.php:13
+msgid "WCFM – Frontend Manager"
+msgstr ""
+
+#: install-resource/active-plugins.php:19
+msgid "WCFM – Multivendor Marketplace"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:31
+msgid "Wednesday"
+msgstr ""
+
+#: woocommerce/single-product/discount/weekdays.php:17
+#: woocommerce/single-product/loop/price.php:129
+msgid "Weekdays"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:506
+msgid "Weight"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1080
+msgid "West African CFA franc"
+msgstr ""
+
+#: inc/class-hook.php:326
+msgid "Wide"
+msgstr ""
+
+#: elementor/widgets/list-check.php:82
+msgid "Wide Range of Cars"
+msgstr ""
+
+#: inc/class-customize.php:418
+msgid "Wide Site"
+msgstr ""
+
+#: install-resource/active-plugins.php:41
+msgid "Widget importer exporter"
+msgstr ""
+
+#: elementor/widgets/product-list.php:585
+#: elementor/widgets/custom-taxonomy.php:280
+#: elementor/widgets/contact-boxes.php:245
+#: elementor/widgets/product-categories.php:204
+#: elementor/widgets/product-slider.php:730
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/list-check.php:274
+msgid "Width title"
+msgstr ""
+
+#: install-resource/active-plugins.php:25
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/class-widgets.php:33 inc/class-widgets.php:35
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Write comment"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1082
+msgid "Yemeni rial"
+msgstr ""
+
+#: inc/class-customize.php:350 inc/class-customize.php:705
+#: inc/class-customize.php:755 elementor/widgets/product-categories3.php:156
+#: elementor/widgets/custom-taxonomy.php:229
+#: elementor/widgets/featured-products.php:122
+#: elementor/widgets/product-categories.php:141
+#: elementor/widgets/product-slider.php:145
+#: elementor/widgets/product-slider.php:195
+#: elementor/widgets/product-slider.php:210
+#: elementor/widgets/product-slider.php:224
+#: elementor/widgets/product-slider.php:261
+#: elementor/widgets/product-slider.php:275 elementor/widgets/button.php:106
+msgid "Yes"
+msgstr ""
+
+#: install-resource/active-plugins.php:76
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:123
+msgid "You can add background image in Advanced Tab"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:123
+#, php-format
+msgid "You must <a href=\"%s\">purchase</a> the product to post a comment."
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:223
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:52
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: template-parts/parts/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Your name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:227
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:237
+msgid "Your review"
+msgstr ""
+
+#: elementor/widgets/pricing-tables.php:1084
+msgid "Zambian kwacha"
+msgstr ""

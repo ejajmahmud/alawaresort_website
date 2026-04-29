@@ -1,0 +1,69 @@
+.ova-custom-taxonomy {
+	display: flex;
+	background-color: var(--heading);
+	border-radius: 5px;
+	overflow: hidden;
+	position: relative;
+	height: 100%;
+
+	.taxonomy-item {
+		display: flex;
+		width: 100%;
+
+		img {
+			width: 100%;
+			height: 100%;
+			opacity: 0.6;
+			object-position: center;
+			object-fit: cover;
+			-o-transition: all .3s ease;
+			-ms-transition: all .3s ease;
+			-moz-transition: all .3s ease;
+			-webkit-transition: all .3s ease;
+			transition: all .3s ease;
+		}
+
+		.count-product {
+			position: absolute;
+			top: 30px;
+			right: 30px;
+			border-radius: 4px;
+			background-color: rgba(23, 32, 45, 0.302);
+			font-size: 14px;
+			font-weight: 500;
+			line-height: 24px;
+			color: #FFFFFF;
+			padding: 10px 20px;
+			-o-transition: all .3s ease;
+			-ms-transition: all .3s ease;
+			-moz-transition: all .3s ease;
+			-webkit-transition: all .3s ease;
+			transition: all .3s ease;
+		}
+
+		.title {
+			position: absolute;
+			margin: 0;
+			left: 60px;
+			bottom: 50px;
+			font-size: 30px;
+			font-weight: bold;
+			line-height: 1.333;
+			color: #FFFFFF;
+			-o-transition: all .3s ease;
+			-ms-transition: all .3s ease;
+			-moz-transition: all .3s ease;
+			-webkit-transition: all .3s ease;
+			transition: all .3s ease;
+		}
+	}
+
+	&:hover {
+		.taxonomy-item {
+			img {
+				-ms-transform: scale(1.05);
+				transform: scale(1.05);
+			}
+		}
+	}
+}

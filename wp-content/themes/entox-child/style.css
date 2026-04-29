@@ -1,0 +1,47 @@
+/* Theme Name: entox Child Theme
+Theme URI: https://themeforest.net/user/ovatheme/portfolio
+Description: This is child theme of entox
+Author: Ovatheme
+Author URI: https://themeforest.net/user/ovatheme
+Template: entox
+Version: 1.0.0
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, custom-menu, editor-style, featured-images, flexible-header, full-width-template, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain:  entox-child
+*/
+
+/* CSS categories  */
+.entox_product_manager_cats_checklist_fields .wcfm_product_manager_cats_checklist_fields {
+	max-width: inherit !important;
+}
+
+.entox_fetch_tag_cloud {
+	max-width: inherit !important;
+	text-decoration: underline;
+	text-align: right;
+}
+
+.entox_taxonomy {
+	display: grid;
+  	grid-template-columns: auto auto auto;
+  	grid-column-gap: 20px;
+}
+
+.entox_taxonomy [class*="wcfm_product_taxonomy_"] {
+	margin: inherit !important;
+}
+
+/* CSS tags  */
+#product_tags {
+	width: 90% !important;
+}
+.product_tags {
+	width: 10% !important;
+}
+
+/* CSS custom field  */
+#wcfm_products_manage_form .ovabrw_metabox_car_rental {
+	padding:  0 !important;
+}
+.ovabrw_price_daily input[type="text"] {
+	width: 100% !important;
+}

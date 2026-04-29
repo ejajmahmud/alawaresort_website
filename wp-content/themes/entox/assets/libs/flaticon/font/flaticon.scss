@@ -1,0 +1,65 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?854990aa6a9e311587f180fff6cad0bc") format("truetype"),
+url("./flaticon.woff?854990aa6a9e311587f180fff6cad0bc") format("woff"),
+url("./flaticon.woff2?854990aa6a9e311587f180fff6cad0bc") format("woff2"),
+url("./flaticon.eot?854990aa6a9e311587f180fff6cad0bc#iefix") format("embedded-opentype"),
+url("./flaticon.svg?854990aa6a9e311587f180fff6cad0bc#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "discount": "\f101",
+    "event": "\f102",
+    "google-plus": "\f103",
+    "twitter": "\f104",
+    "facebook": "\f105",
+    "instagram": "\f106",
+    "youtube": "\f107",
+    "linkedin": "\f108",
+    "snapchat": "\f109",
+    "pinterest": "\f10a",
+);
+
+.flaticon-discount:before {
+    content: map-get($flaticon-map, "discount");
+}
+.flaticon-event:before {
+    content: map-get($flaticon-map, "event");
+}
+.flaticon-google-plus:before {
+    content: map-get($flaticon-map, "google-plus");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon-map, "twitter");
+}
+.flaticon-facebook:before {
+    content: map-get($flaticon-map, "facebook");
+}
+.flaticon-instagram:before {
+    content: map-get($flaticon-map, "instagram");
+}
+.flaticon-youtube:before {
+    content: map-get($flaticon-map, "youtube");
+}
+.flaticon-linkedin:before {
+    content: map-get($flaticon-map, "linkedin");
+}
+.flaticon-snapchat:before {
+    content: map-get($flaticon-map, "snapchat");
+}
+.flaticon-pinterest:before {
+    content: map-get($flaticon-map, "pinterest");
+}

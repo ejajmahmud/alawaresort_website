@@ -1,0 +1,37 @@
+$entoxicon-font: "entoxicon";
+
+@font-face {
+    font-family: $entoxicon-font;
+    src: url("./entoxicon.ttf?b3dd5412117e76b4431497c5f73f2cc5") format("truetype"),
+url("./entoxicon.woff?b3dd5412117e76b4431497c5f73f2cc5") format("woff"),
+url("./entoxicon.woff2?b3dd5412117e76b4431497c5f73f2cc5") format("woff2"),
+url("./entoxicon.eot?b3dd5412117e76b4431497c5f73f2cc5#iefix") format("embedded-opentype"),
+url("./entoxicon.svg?b3dd5412117e76b4431497c5f73f2cc5#entoxicon") format("svg");
+}
+
+i[class^="entoxicon-"]:before, i[class*=" entoxicon-"]:before {
+    font-family: entoxicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$entoxicon-map: (
+    "rent": "\f101",
+    "team": "\f102",
+    "member": "\f103",
+);
+
+.entoxicon-rent:before {
+    content: map-get($entoxicon-map, "rent");
+}
+.entoxicon-team:before {
+    content: map-get($entoxicon-map, "team");
+}
+.entoxicon-member:before {
+    content: map-get($entoxicon-map, "member");
+}

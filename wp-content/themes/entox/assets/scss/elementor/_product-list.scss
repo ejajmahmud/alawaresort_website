@@ -1,0 +1,48 @@
+.ova-product-list {
+	display: grid;
+	grid-gap: 30px;
+
+	&.column1 {
+		grid-template-columns: 1fr;
+	}
+
+	&.column2 {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	&.column3 {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+
+	&.column4 {
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+	}
+
+	.entox_product {
+		.entox_head_product {
+			.entox-product-thumbnail {
+				img {
+					width: 100%;
+				}
+			}
+		}
+	}
+
+	@media screen and (max-width: 1200px) {
+		&.column4 {
+			grid-template-columns: 1fr 1fr 1fr;
+		}
+	}
+
+	@media screen and (max-width: 1024px) {
+		&.column3, &.column4 {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+
+	@media screen and (max-width: 768px) {
+		&.column2, &.column3, &.column4 {
+			grid-template-columns: 1fr;
+		}
+	}
+}

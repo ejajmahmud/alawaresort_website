@@ -1,0 +1,255 @@
+/* Fixed css for safari browser */
+.e--ua-safari #wcfm-content{
+       	overflow: inherit!important;
+}
+
+#wcfm-main-contentainer {
+	#wcfm_products_manage_form {
+		table {
+			thead {
+				th {
+					color: #54595F;
+					text-align: left;
+				}
+			}
+
+			tfoot {
+
+				th {
+					text-align: left;
+
+					a.button {
+						background-color: #1C2B36;
+					    padding: 3px 10px;
+					    -moz-border-radius: 3px;
+					    -webkit-border-radius: 3px;
+					    border-radius: 3px;
+					    border-bottom: 0 solid #17a2b8;
+					    color: #FFF;
+					    text-align: center;
+					    text-decoration: none;
+					    -webkit-box-shadow: 0 1px 0 #ccc;
+					    box-shadow: 0 1px 0 #ccc;
+					    display: table-cell;
+					    -webkit-transition: all .5s ease;
+					    -moz-transition: all .5s ease;
+					    -o-transition: all .5s ease;
+					    transition: all .5s ease;
+					    font-size: 15px;
+					    font-weight: 500;
+					    line-height: 2em;
+
+					    &:hover {
+					    	background-color: var(--primary);
+					    }
+					}
+				}
+			}
+		}
+
+		.ovabrw_features {
+			th.description-features, td.description-features {
+				display: none;
+			}
+		}
+
+		.ovabrw-form-field  {
+			.ovabrw_service {
+				a.insert_service_group {
+					background-color: #1C2B36;
+				    padding: 3px 10px;
+				    -moz-border-radius: 3px;
+				    -webkit-border-radius: 3px;
+				    border-radius: 3px;
+				    border-bottom: 0 solid #17a2b8;
+				    color: #FFF;
+				    text-align: center;
+				    text-decoration: none;
+				    -webkit-box-shadow: 0 1px 0 #ccc;
+				    box-shadow: 0 1px 0 #ccc;
+				    display: table-cell;
+				    -webkit-transition: all .5s ease;
+				    -moz-transition: all .5s ease;
+				    -o-transition: all .5s ease;
+				    transition: all .5s ease;
+				    font-size: 15px;
+				    font-weight: 500;
+				    line-height: 2em;
+
+				    &:hover {
+				    	background-color: var(--primary);
+				    }
+				}
+			}
+		}
+	}
+}
+
+/*Custom for WCFM*/
+#wcfm_products_manage_form{
+
+	/*Edit product ******************************************************************************************************/
+	/*******************************************************************************************************/
+	.ovabrw_metabox_car_rental{
+		background: #fff;
+	    padding: 20px;
+	    border-radius: 4px;
+	    margin-bottom: 20px;
+
+	    select{
+	    	height: 47px;
+    		padding: 5px;
+	    }
+	    .ovabrw_rt_discount_duration{
+	    	width: 100%;
+	    }
+	}
+
+	.form-field{
+		position: relative;
+		label{
+			width: 200px;
+		}
+	}
+
+	.ovabrw_manage_store_field{
+		display: none;
+	}
+
+
+
+	/* Woocommerce Help Tip ******************************************************************************************************/
+	/*******************************************************************************************************/
+	.woocommerce-help-tip {
+
+		&::after{
+			font-family: Dashicons;
+		    speak: none;
+		    font-weight: 400;
+		    text-transform: none;
+		    line-height: 1;
+		    -webkit-font-smoothing: antialiased;
+		    text-indent: 0px;
+		    position: absolute;
+		    top: 50%;
+	    	right: 0px;
+	    	margin-top: -10px;
+		    width: 15px;
+		    height: 100%;
+		    text-align: right;
+		    content: "";
+		    cursor: help;
+		    font-variant: normal;
+		    
+		}
+	    
+
+	    .content{
+	    	position: absolute;
+	    	background-color: #111111;
+	    	color: #ffffff;
+	    	border-radius: 4px;
+	    	width: 250px;
+	    	bottom: -10px;
+	    	right: 0;
+	    	padding: 10px;
+	    	box-shadow: 5px 4px 5px #ccc;
+
+	    }
+	}
+
+	/* Place holder ******************************************************************************************************/
+	/*******************************************************************************************************/
+	input, select{
+		
+		&::-webkit-input-placeholder {
+			color: #343434;
+			opacity: 0.2;
+
+		}
+		&::-moz-placeholder {
+			color: #343434;
+			opacity: 0.2;
+
+		}
+		&:-ms-input-placeholder {
+			color: #343434;
+			opacity: 0.2;
+
+		}
+		&:-moz-placeholder {
+			color: #343434;
+			opacity: 0.2;
+
+		}
+
+		&:focus{
+			outline: none;
+		}
+	}
+
+	
+
+	.sales_schedule,
+	.sales_schedule_ele_show,
+	#sale_date_from,
+	.sale_date_upto,
+	#sale_date_upto
+	{
+		&.hide{
+			display: none!important;
+		}
+	}
+
+
+
+	/*Manage Store vendor*/
+	#wcfmmp-store .product_area .products-wrapper ul li.product img{
+		margin-bottom: 10px;
+	}
+	#wcfmmp-store .woocommerce ul.products li.product h2{
+		margin-bottom: 10px;
+	}
+
+	/* Custom taxonomy */
+	.entox_taxonomy {
+		.wcfm_product_manager_cats_checklist_fields {
+			margin-bottom: 20px !important;
+
+			.wcfm_title {
+				strong {
+					margin-left: 10px;
+				}
+			}
+		}
+	}
+}
+
+.ova-wrapper-wcfm-product {
+	#wcfm_products_manage_form {
+		.wcfm-container {
+			#wcfm_products_manage_form_general_expander {
+				padding: 20px;
+				.wcfm_product_manager_general_fields {
+					width: 100%;
+				}
+				.wcfm_product_manager_gallery_fields {
+					display: none;
+				}
+			}
+		}
+	}
+}
+
+/* Custom Store Vendor */
+#wcfmmp-store {
+	.product_area {
+		ul.feature-list {
+			padding: 0;
+
+			li {
+				padding: 10px 0 8px 0;
+			}
+		}
+	}
+}

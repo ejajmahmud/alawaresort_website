@@ -1,0 +1,24 @@
+.woocommerce-cart-form__cart-item,
+.woocommerce-checkout-review-order-table{
+	.variation{
+		dt{
+			line-height: 2em;
+		}
+		dd{
+			p{
+				line-height: 2em;	
+			}
+		}
+	}	
+}
+.woocommerce-table--order-details{
+	ul.wc-item-meta{
+		li{
+			line-height: 2em;
+
+			p{
+				line-height: 2em;			
+			}
+		}
+	}
+}

@@ -1,0 +1,27 @@
+# Backups
+wp-content/ai1wm-backups/
+wp-content/backups/
+
+# Large video/media files
+wp-content/uploads/**/*.mp4
+wp-content/uploads/**/*.mov
+wp-content/uploads/**/*.avi
+
+# WordPress
+wp-config-local.php
+.DS_Store
+wp-content/backup-*
+wp-content/cache/
+wp-content/temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.env
+.env.local

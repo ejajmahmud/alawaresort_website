@@ -1,0 +1,24 @@
+.header_sticky {
+  &.active_sticky{
+  	position: fixed;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	z-index: 9999;
+    background-color: #fff;
+  	@include transaction( all, 0.3s, linear );
+
+    &.header_sticky_dark {
+      background-color: var(--heading);
+      border: none !important;
+    }
+  }
+}
+
+body.admin-bar{
+  .header_sticky {
+     &.active_sticky{
+      top:32px;
+    }
+  }
+}

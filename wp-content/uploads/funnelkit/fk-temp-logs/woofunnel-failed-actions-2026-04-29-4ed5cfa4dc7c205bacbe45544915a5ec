@@ -1,0 +1,2565 @@
+2026-04-29T03:04:17+00:00 - Array
+(
+    [action_id] => 27750
+    [creation_date] => 2026-04-28 10:01:52
+    [execution_time] => 1777370572
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:05:49+00:00 - Array
+(
+    [action_id] => 27754
+    [creation_date] => 2026-04-29 03:04:17
+    [execution_time] => 1777431917
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:07:58+00:00 - Array
+(
+    [action_id] => 27765
+    [creation_date] => 2026-04-29 03:05:49
+    [execution_time] => 1777432009
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:11:48+00:00 - Array
+(
+    [action_id] => 27769
+    [creation_date] => 2026-04-29 03:07:58
+    [execution_time] => 1777432138
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:13:15+00:00 - Array
+(
+    [action_id] => 27773
+    [creation_date] => 2026-04-29 03:11:48
+    [execution_time] => 1777432368
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:14:49+00:00 - Array
+(
+    [action_id] => 27777
+    [creation_date] => 2026-04-29 03:13:15
+    [execution_time] => 1777432455
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:15:50+00:00 - Array
+(
+    [action_id] => 27781
+    [creation_date] => 2026-04-29 03:14:49
+    [execution_time] => 1777432549
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:16:50+00:00 - Array
+(
+    [action_id] => 27785
+    [creation_date] => 2026-04-29 03:15:50
+    [execution_time] => 1777432610
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:17:50+00:00 - Array
+(
+    [action_id] => 27789
+    [creation_date] => 2026-04-29 03:16:50
+    [execution_time] => 1777432670
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:19:49+00:00 - Array
+(
+    [action_id] => 27793
+    [creation_date] => 2026-04-29 03:17:50
+    [execution_time] => 1777432730
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:20:49+00:00 - Array
+(
+    [action_id] => 27797
+    [creation_date] => 2026-04-29 03:19:49
+    [execution_time] => 1777432849
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:21:49+00:00 - Array
+(
+    [action_id] => 27801
+    [creation_date] => 2026-04-29 03:20:49
+    [execution_time] => 1777432909
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:22:49+00:00 - Array
+(
+    [action_id] => 27805
+    [creation_date] => 2026-04-29 03:21:49
+    [execution_time] => 1777432969
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:25:44+00:00 - Array
+(
+    [action_id] => 27809
+    [creation_date] => 2026-04-29 03:22:49
+    [execution_time] => 1777433029
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:26:49+00:00 - Array
+(
+    [action_id] => 27813
+    [creation_date] => 2026-04-29 03:25:44
+    [execution_time] => 1777433204
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:27:49+00:00 - Array
+(
+    [action_id] => 27817
+    [creation_date] => 2026-04-29 03:26:49
+    [execution_time] => 1777433269
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:28:49+00:00 - Array
+(
+    [action_id] => 27821
+    [creation_date] => 2026-04-29 03:27:49
+    [execution_time] => 1777433329
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:29:55+00:00 - Array
+(
+    [action_id] => 27825
+    [creation_date] => 2026-04-29 03:28:49
+    [execution_time] => 1777433389
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:31:51+00:00 - Array
+(
+    [action_id] => 27829
+    [creation_date] => 2026-04-29 03:29:55
+    [execution_time] => 1777433455
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:33:16+00:00 - Array
+(
+    [action_id] => 27833
+    [creation_date] => 2026-04-29 03:31:51
+    [execution_time] => 1777433571
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:34:56+00:00 - Array
+(
+    [action_id] => 27837
+    [creation_date] => 2026-04-29 03:33:16
+    [execution_time] => 1777433656
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:35:56+00:00 - Array
+(
+    [action_id] => 27841
+    [creation_date] => 2026-04-29 03:34:56
+    [execution_time] => 1777433756
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:37:56+00:00 - Array
+(
+    [action_id] => 27845
+    [creation_date] => 2026-04-29 03:35:56
+    [execution_time] => 1777433816
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:40:52+00:00 - Array
+(
+    [action_id] => 27849
+    [creation_date] => 2026-04-29 03:37:56
+    [execution_time] => 1777433936
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:42:40+00:00 - Array
+(
+    [action_id] => 27853
+    [creation_date] => 2026-04-29 03:40:52
+    [execution_time] => 1777434112
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:43:40+00:00 - Array
+(
+    [action_id] => 27857
+    [creation_date] => 2026-04-29 03:42:40
+    [execution_time] => 1777434220
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:44:40+00:00 - Array
+(
+    [action_id] => 27861
+    [creation_date] => 2026-04-29 03:43:40
+    [execution_time] => 1777434280
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:45:40+00:00 - Array
+(
+    [action_id] => 27865
+    [creation_date] => 2026-04-29 03:44:40
+    [execution_time] => 1777434340
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:46:40+00:00 - Array
+(
+    [action_id] => 27869
+    [creation_date] => 2026-04-29 03:45:40
+    [execution_time] => 1777434400
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:47:40+00:00 - Array
+(
+    [action_id] => 27873
+    [creation_date] => 2026-04-29 03:46:40
+    [execution_time] => 1777434460
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:48:49+00:00 - Array
+(
+    [action_id] => 27877
+    [creation_date] => 2026-04-29 03:47:40
+    [execution_time] => 1777434520
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:49:49+00:00 - Array
+(
+    [action_id] => 27881
+    [creation_date] => 2026-04-29 03:48:49
+    [execution_time] => 1777434589
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:50:49+00:00 - Array
+(
+    [action_id] => 27885
+    [creation_date] => 2026-04-29 03:49:49
+    [execution_time] => 1777434649
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:52:49+00:00 - Array
+(
+    [action_id] => 27889
+    [creation_date] => 2026-04-29 03:50:49
+    [execution_time] => 1777434709
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:53:58+00:00 - Array
+(
+    [action_id] => 27893
+    [creation_date] => 2026-04-29 03:52:49
+    [execution_time] => 1777434829
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:55:49+00:00 - Array
+(
+    [action_id] => 27897
+    [creation_date] => 2026-04-29 03:53:58
+    [execution_time] => 1777434898
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T03:58:02+00:00 - Array
+(
+    [action_id] => 27901
+    [creation_date] => 2026-04-29 03:55:49
+    [execution_time] => 1777435009
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:00:01+00:00 - Array
+(
+    [action_id] => 27905
+    [creation_date] => 2026-04-29 03:58:02
+    [execution_time] => 1777435142
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:01:01+00:00 - Array
+(
+    [action_id] => 27909
+    [creation_date] => 2026-04-29 04:00:01
+    [execution_time] => 1777435261
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:02:01+00:00 - Array
+(
+    [action_id] => 27913
+    [creation_date] => 2026-04-29 04:01:01
+    [execution_time] => 1777435321
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:04:31+00:00 - Array
+(
+    [action_id] => 27917
+    [creation_date] => 2026-04-29 04:02:01
+    [execution_time] => 1777435381
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:06:35+00:00 - Array
+(
+    [action_id] => 27921
+    [creation_date] => 2026-04-29 04:04:31
+    [execution_time] => 1777435531
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:07:37+00:00 - Array
+(
+    [action_id] => 27925
+    [creation_date] => 2026-04-29 04:06:35
+    [execution_time] => 1777435655
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:09:46+00:00 - Array
+(
+    [action_id] => 27929
+    [creation_date] => 2026-04-29 04:07:37
+    [execution_time] => 1777435717
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:11:36+00:00 - Array
+(
+    [action_id] => 27933
+    [creation_date] => 2026-04-29 04:09:46
+    [execution_time] => 1777435846
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:12:49+00:00 - Array
+(
+    [action_id] => 27937
+    [creation_date] => 2026-04-29 04:11:36
+    [execution_time] => 1777435956
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:13:49+00:00 - Array
+(
+    [action_id] => 27941
+    [creation_date] => 2026-04-29 04:12:49
+    [execution_time] => 1777436029
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:14:49+00:00 - Array
+(
+    [action_id] => 27945
+    [creation_date] => 2026-04-29 04:13:49
+    [execution_time] => 1777436089
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:15:49+00:00 - Array
+(
+    [action_id] => 27949
+    [creation_date] => 2026-04-29 04:14:49
+    [execution_time] => 1777436149
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:16:49+00:00 - Array
+(
+    [action_id] => 27953
+    [creation_date] => 2026-04-29 04:15:49
+    [execution_time] => 1777436209
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:18:49+00:00 - Array
+(
+    [action_id] => 27957
+    [creation_date] => 2026-04-29 04:16:49
+    [execution_time] => 1777436269
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:19:49+00:00 - Array
+(
+    [action_id] => 27961
+    [creation_date] => 2026-04-29 04:18:49
+    [execution_time] => 1777436389
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:20:49+00:00 - Array
+(
+    [action_id] => 27965
+    [creation_date] => 2026-04-29 04:19:49
+    [execution_time] => 1777436449
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:21:50+00:00 - Array
+(
+    [action_id] => 27969
+    [creation_date] => 2026-04-29 04:20:49
+    [execution_time] => 1777436509
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:23:59+00:00 - Array
+(
+    [action_id] => 27973
+    [creation_date] => 2026-04-29 04:21:50
+    [execution_time] => 1777436570
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:26:26+00:00 - Array
+(
+    [action_id] => 27977
+    [creation_date] => 2026-04-29 04:23:59
+    [execution_time] => 1777436699
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:27:49+00:00 - Array
+(
+    [action_id] => 27981
+    [creation_date] => 2026-04-29 04:26:26
+    [execution_time] => 1777436846
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:28:49+00:00 - Array
+(
+    [action_id] => 27985
+    [creation_date] => 2026-04-29 04:27:49
+    [execution_time] => 1777436929
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:29:49+00:00 - Array
+(
+    [action_id] => 27989
+    [creation_date] => 2026-04-29 04:28:49
+    [execution_time] => 1777436989
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:30:49+00:00 - Array
+(
+    [action_id] => 27993
+    [creation_date] => 2026-04-29 04:29:49
+    [execution_time] => 1777437049
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:31:49+00:00 - Array
+(
+    [action_id] => 27997
+    [creation_date] => 2026-04-29 04:30:49
+    [execution_time] => 1777437109
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:32:49+00:00 - Array
+(
+    [action_id] => 28001
+    [creation_date] => 2026-04-29 04:31:49
+    [execution_time] => 1777437169
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:33:49+00:00 - Array
+(
+    [action_id] => 28005
+    [creation_date] => 2026-04-29 04:32:49
+    [execution_time] => 1777437229
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:34:49+00:00 - Array
+(
+    [action_id] => 28009
+    [creation_date] => 2026-04-29 04:33:49
+    [execution_time] => 1777437289
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:35:49+00:00 - Array
+(
+    [action_id] => 28013
+    [creation_date] => 2026-04-29 04:34:49
+    [execution_time] => 1777437349
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:36:49+00:00 - Array
+(
+    [action_id] => 28017
+    [creation_date] => 2026-04-29 04:35:49
+    [execution_time] => 1777437409
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:37:49+00:00 - Array
+(
+    [action_id] => 28021
+    [creation_date] => 2026-04-29 04:36:49
+    [execution_time] => 1777437469
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:38:57+00:00 - Array
+(
+    [action_id] => 28025
+    [creation_date] => 2026-04-29 04:37:49
+    [execution_time] => 1777437529
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:41:27+00:00 - Array
+(
+    [action_id] => 28029
+    [creation_date] => 2026-04-29 04:38:57
+    [execution_time] => 1777437597
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:42:50+00:00 - Array
+(
+    [action_id] => 28033
+    [creation_date] => 2026-04-29 04:41:27
+    [execution_time] => 1777437747
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:44:49+00:00 - Array
+(
+    [action_id] => 28037
+    [creation_date] => 2026-04-29 04:42:50
+    [execution_time] => 1777437830
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:45:49+00:00 - Array
+(
+    [action_id] => 28041
+    [creation_date] => 2026-04-29 04:44:49
+    [execution_time] => 1777437949
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:46:49+00:00 - Array
+(
+    [action_id] => 28045
+    [creation_date] => 2026-04-29 04:45:49
+    [execution_time] => 1777438009
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:47:49+00:00 - Array
+(
+    [action_id] => 28049
+    [creation_date] => 2026-04-29 04:46:49
+    [execution_time] => 1777438069
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:48:49+00:00 - Array
+(
+    [action_id] => 28053
+    [creation_date] => 2026-04-29 04:47:49
+    [execution_time] => 1777438129
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:49:49+00:00 - Array
+(
+    [action_id] => 28057
+    [creation_date] => 2026-04-29 04:48:49
+    [execution_time] => 1777438189
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:50:49+00:00 - Array
+(
+    [action_id] => 28061
+    [creation_date] => 2026-04-29 04:49:49
+    [execution_time] => 1777438249
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:51:49+00:00 - Array
+(
+    [action_id] => 28065
+    [creation_date] => 2026-04-29 04:50:49
+    [execution_time] => 1777438309
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:52:49+00:00 - Array
+(
+    [action_id] => 28069
+    [creation_date] => 2026-04-29 04:51:49
+    [execution_time] => 1777438369
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:53:59+00:00 - Array
+(
+    [action_id] => 28073
+    [creation_date] => 2026-04-29 04:52:49
+    [execution_time] => 1777438429
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:55:49+00:00 - Array
+(
+    [action_id] => 28077
+    [creation_date] => 2026-04-29 04:53:59
+    [execution_time] => 1777438499
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:57:49+00:00 - Array
+(
+    [action_id] => 28081
+    [creation_date] => 2026-04-29 04:55:49
+    [execution_time] => 1777438609
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:58:49+00:00 - Array
+(
+    [action_id] => 28085
+    [creation_date] => 2026-04-29 04:57:49
+    [execution_time] => 1777438729
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T04:59:49+00:00 - Array
+(
+    [action_id] => 28089
+    [creation_date] => 2026-04-29 04:58:49
+    [execution_time] => 1777438789
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:00:49+00:00 - Array
+(
+    [action_id] => 28093
+    [creation_date] => 2026-04-29 04:59:49
+    [execution_time] => 1777438849
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:01:49+00:00 - Array
+(
+    [action_id] => 28097
+    [creation_date] => 2026-04-29 05:00:49
+    [execution_time] => 1777438909
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:02:49+00:00 - Array
+(
+    [action_id] => 28101
+    [creation_date] => 2026-04-29 05:01:49
+    [execution_time] => 1777438969
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:03:49+00:00 - Array
+(
+    [action_id] => 28105
+    [creation_date] => 2026-04-29 05:02:49
+    [execution_time] => 1777439029
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:04:49+00:00 - Array
+(
+    [action_id] => 28109
+    [creation_date] => 2026-04-29 05:03:49
+    [execution_time] => 1777439089
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:05:49+00:00 - Array
+(
+    [action_id] => 28113
+    [creation_date] => 2026-04-29 05:04:49
+    [execution_time] => 1777439149
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:06:49+00:00 - Array
+(
+    [action_id] => 28117
+    [creation_date] => 2026-04-29 05:05:49
+    [execution_time] => 1777439209
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:07:49+00:00 - Array
+(
+    [action_id] => 28121
+    [creation_date] => 2026-04-29 05:06:49
+    [execution_time] => 1777439269
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:08:59+00:00 - Array
+(
+    [action_id] => 28125
+    [creation_date] => 2026-04-29 05:07:49
+    [execution_time] => 1777439329
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:11:32+00:00 - Array
+(
+    [action_id] => 28129
+    [creation_date] => 2026-04-29 05:08:59
+    [execution_time] => 1777439399
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:12:49+00:00 - Array
+(
+    [action_id] => 28133
+    [creation_date] => 2026-04-29 05:11:32
+    [execution_time] => 1777439552
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:13:49+00:00 - Array
+(
+    [action_id] => 28137
+    [creation_date] => 2026-04-29 05:12:49
+    [execution_time] => 1777439629
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:14:49+00:00 - Array
+(
+    [action_id] => 28141
+    [creation_date] => 2026-04-29 05:13:49
+    [execution_time] => 1777439689
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:15:49+00:00 - Array
+(
+    [action_id] => 28145
+    [creation_date] => 2026-04-29 05:14:49
+    [execution_time] => 1777439749
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:16:49+00:00 - Array
+(
+    [action_id] => 28149
+    [creation_date] => 2026-04-29 05:15:49
+    [execution_time] => 1777439809
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:17:49+00:00 - Array
+(
+    [action_id] => 28153
+    [creation_date] => 2026-04-29 05:16:49
+    [execution_time] => 1777439869
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:18:49+00:00 - Array
+(
+    [action_id] => 28157
+    [creation_date] => 2026-04-29 05:17:49
+    [execution_time] => 1777439929
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:19:49+00:00 - Array
+(
+    [action_id] => 28161
+    [creation_date] => 2026-04-29 05:18:49
+    [execution_time] => 1777439989
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:20:49+00:00 - Array
+(
+    [action_id] => 28165
+    [creation_date] => 2026-04-29 05:19:49
+    [execution_time] => 1777440049
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:21:49+00:00 - Array
+(
+    [action_id] => 28169
+    [creation_date] => 2026-04-29 05:20:49
+    [execution_time] => 1777440109
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:22:49+00:00 - Array
+(
+    [action_id] => 28173
+    [creation_date] => 2026-04-29 05:21:49
+    [execution_time] => 1777440169
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:23:59+00:00 - Array
+(
+    [action_id] => 28177
+    [creation_date] => 2026-04-29 05:22:49
+    [execution_time] => 1777440229
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:25:49+00:00 - Array
+(
+    [action_id] => 28181
+    [creation_date] => 2026-04-29 05:23:59
+    [execution_time] => 1777440299
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:28:49+00:00 - Array
+(
+    [action_id] => 28185
+    [creation_date] => 2026-04-29 05:25:49
+    [execution_time] => 1777440409
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:29:49+00:00 - Array
+(
+    [action_id] => 28189
+    [creation_date] => 2026-04-29 05:28:49
+    [execution_time] => 1777440589
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:30:49+00:00 - Array
+(
+    [action_id] => 28193
+    [creation_date] => 2026-04-29 05:29:49
+    [execution_time] => 1777440649
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:31:49+00:00 - Array
+(
+    [action_id] => 28197
+    [creation_date] => 2026-04-29 05:30:49
+    [execution_time] => 1777440709
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:32:49+00:00 - Array
+(
+    [action_id] => 28201
+    [creation_date] => 2026-04-29 05:31:49
+    [execution_time] => 1777440769
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:33:49+00:00 - Array
+(
+    [action_id] => 28205
+    [creation_date] => 2026-04-29 05:32:49
+    [execution_time] => 1777440829
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:34:49+00:00 - Array
+(
+    [action_id] => 28209
+    [creation_date] => 2026-04-29 05:33:49
+    [execution_time] => 1777440889
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:35:49+00:00 - Array
+(
+    [action_id] => 28213
+    [creation_date] => 2026-04-29 05:34:49
+    [execution_time] => 1777440949
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:36:49+00:00 - Array
+(
+    [action_id] => 28217
+    [creation_date] => 2026-04-29 05:35:49
+    [execution_time] => 1777441009
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:37:49+00:00 - Array
+(
+    [action_id] => 28221
+    [creation_date] => 2026-04-29 05:36:49
+    [execution_time] => 1777441069
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:39:04+00:00 - Array
+(
+    [action_id] => 28225
+    [creation_date] => 2026-04-29 05:37:49
+    [execution_time] => 1777441129
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:40:49+00:00 - Array
+(
+    [action_id] => 28229
+    [creation_date] => 2026-04-29 05:39:04
+    [execution_time] => 1777441204
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:42:40+00:00 - Array
+(
+    [action_id] => 28233
+    [creation_date] => 2026-04-29 05:40:49
+    [execution_time] => 1777441309
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:43:52+00:00 - Array
+(
+    [action_id] => 28237
+    [creation_date] => 2026-04-29 05:42:40
+    [execution_time] => 1777441420
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:48:51+00:00 - Array
+(
+    [action_id] => 28241
+    [creation_date] => 2026-04-29 05:43:52
+    [execution_time] => 1777441492
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:49:54+00:00 - Array
+(
+    [action_id] => 28245
+    [creation_date] => 2026-04-29 05:48:51
+    [execution_time] => 1777441791
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:51:54+00:00 - Array
+(
+    [action_id] => 28249
+    [creation_date] => 2026-04-29 05:49:54
+    [execution_time] => 1777441854
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:56:27+00:00 - Array
+(
+    [action_id] => 28253
+    [creation_date] => 2026-04-29 05:51:54
+    [execution_time] => 1777441974
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T05:58:50+00:00 - Array
+(
+    [action_id] => 28257
+    [creation_date] => 2026-04-29 05:56:27
+    [execution_time] => 1777442247
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:00:49+00:00 - Array
+(
+    [action_id] => 28261
+    [creation_date] => 2026-04-29 05:58:50
+    [execution_time] => 1777442390
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:02:49+00:00 - Array
+(
+    [action_id] => 28265
+    [creation_date] => 2026-04-29 06:00:49
+    [execution_time] => 1777442509
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:04:50+00:00 - Array
+(
+    [action_id] => 28269
+    [creation_date] => 2026-04-29 06:02:49
+    [execution_time] => 1777442629
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:06:49+00:00 - Array
+(
+    [action_id] => 28273
+    [creation_date] => 2026-04-29 06:04:50
+    [execution_time] => 1777442750
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:08:51+00:00 - Array
+(
+    [action_id] => 28277
+    [creation_date] => 2026-04-29 06:06:49
+    [execution_time] => 1777442869
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:12:38+00:00 - Array
+(
+    [action_id] => 28281
+    [creation_date] => 2026-04-29 06:08:51
+    [execution_time] => 1777442991
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:14:49+00:00 - Array
+(
+    [action_id] => 28285
+    [creation_date] => 2026-04-29 06:12:38
+    [execution_time] => 1777443218
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:16:49+00:00 - Array
+(
+    [action_id] => 28289
+    [creation_date] => 2026-04-29 06:14:49
+    [execution_time] => 1777443349
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
+2026-04-29T06:18:49+00:00 - Array
+(
+    [action_id] => 28293
+    [creation_date] => 2026-04-29 06:16:49
+    [execution_time] => 1777443469
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => ElementorPro\Core\Database\Model_Base::query(): Implicitly marking parameter $connection as nullable is deprecated, the explicit nullable type must be used instead
+            [file] => D:\Projects\Alawaresort\wp-content\plugins\pro-elements\core\database\model-base.php
+            [line] => 66
+        )
+
+)
+
